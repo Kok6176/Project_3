@@ -1,0 +1,5952 @@
+[
+    {
+        "country": "Argentina",
+        "location": "Buenos Aires",
+        "industry": "Crypto",
+        "date": "2022",
+        "total_laid_off": 180
+    },
+    {
+        "country": "Argentina",
+        "location": "Buenos Aires",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 53
+    },
+    {
+        "country": "Argentina",
+        "location": "Buenos Aires",
+        "industry": "Marketing",
+        "date": "2022",
+        "total_laid_off": 50
+    },
+    {
+        "country": "Argentina",
+        "location": "Buenos Aires",
+        "industry": "Other",
+        "date": "2022",
+        "total_laid_off": 40
+    },
+    {
+        "country": "Australia",
+        "location": "Brisbane",
+        "industry": "Crypto",
+        "date": "2022",
+        "total_laid_off": 164
+    },
+    {
+        "country": "Australia",
+        "location": "Brisbane",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Australia",
+        "location": "Brisbane",
+        "industry": "Infrastructure",
+        "date": "2020",
+        "total_laid_off": 30
+    },
+    {
+        "country": "Australia",
+        "location": "Melbourne",
+        "industry": "Consumer",
+        "date": "2022",
+        "total_laid_off": 50
+    },
+    {
+        "country": "Australia",
+        "location": "Melbourne",
+        "industry": "Crypto",
+        "date": "2022",
+        "total_laid_off": 80
+    },
+    {
+        "country": "Australia",
+        "location": "Melbourne",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 120
+    },
+    {
+        "country": "Australia",
+        "location": "Melbourne",
+        "industry": "HR",
+        "date": "2020",
+        "total_laid_off": 36
+    },
+    {
+        "country": "Australia",
+        "location": "Melbourne",
+        "industry": "Marketing",
+        "date": "2022",
+        "total_laid_off": 100
+    },
+    {
+        "country": "Australia",
+        "location": "Melbourne",
+        "industry": "Other",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Australia",
+        "location": "Melbourne",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Australia",
+        "location": "Sydney",
+        "industry": "Construction",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Australia",
+        "location": "Sydney",
+        "industry": "Consumer",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Australia",
+        "location": "Sydney",
+        "industry": "Crypto",
+        "date": "2022",
+        "total_laid_off": 20
+    },
+    {
+        "country": "Australia",
+        "location": "Sydney",
+        "industry": "Energy",
+        "date": "2022",
+        "total_laid_off": 88
+    },
+    {
+        "country": "Australia",
+        "location": "Sydney",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 40
+    },
+    {
+        "country": "Australia",
+        "location": "Sydney",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 300
+    },
+    {
+        "country": "Australia",
+        "location": "Sydney",
+        "industry": "HR",
+        "date": "2020",
+        "total_laid_off": 60
+    },
+    {
+        "country": "Australia",
+        "location": "Sydney",
+        "industry": "Healthcare",
+        "date": "2022",
+        "total_laid_off": 18
+    },
+    {
+        "country": "Australia",
+        "location": "Sydney",
+        "industry": "Logistics",
+        "date": "2022",
+        "total_laid_off": 27
+    },
+    {
+        "country": "Australia",
+        "location": "Sydney",
+        "industry": "Marketing",
+        "date": "2022",
+        "total_laid_off": 75
+    },
+    {
+        "country": "Australia",
+        "location": "Sydney",
+        "industry": "Real Estate",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Australia",
+        "location": "Sydney",
+        "industry": "Recruiting",
+        "date": "2022",
+        "total_laid_off": 7
+    },
+    {
+        "country": "Australia",
+        "location": "Sydney",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Australia",
+        "location": "Sydney",
+        "industry": "Transportation",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Austria",
+        "location": "Vienna",
+        "industry": "Crypto",
+        "date": "2022",
+        "total_laid_off": 270
+    },
+    {
+        "country": "Austria",
+        "location": "Vienna",
+        "industry": "Education",
+        "date": "2022",
+        "total_laid_off": 300
+    },
+    {
+        "country": "Bahrain",
+        "location": "Manama",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Belgium",
+        "location": "Brussels",
+        "industry": "Data",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Brazil",
+        "location": "Belo Horizonte",
+        "industry": "Marketing",
+        "date": "2020",
+        "total_laid_off": 100
+    },
+    {
+        "country": "Brazil",
+        "location": "Belo Horizonte",
+        "industry": "Marketing",
+        "date": "2022",
+        "total_laid_off": 227
+    },
+    {
+        "country": "Brazil",
+        "location": "Belo Horizonte",
+        "industry": "Travel",
+        "date": "2020",
+        "total_laid_off": 167
+    },
+    {
+        "country": "Brazil",
+        "location": "Blumenau",
+        "industry": "Support",
+        "date": "2020",
+        "total_laid_off": 33
+    },
+    {
+        "country": "Brazil",
+        "location": "Curitiba",
+        "industry": "Finance",
+        "date": "2020",
+        "total_laid_off": 62
+    },
+    {
+        "country": "Brazil",
+        "location": "Curitiba",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 340
+    },
+    {
+        "country": "Brazil",
+        "location": "Curitiba",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 60
+    },
+    {
+        "country": "Brazil",
+        "location": "Florian\u00f3polis",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 70
+    },
+    {
+        "country": "Brazil",
+        "location": "Joinville",
+        "industry": "Education",
+        "date": "2020",
+        "total_laid_off": 140
+    },
+    {
+        "country": "Brazil",
+        "location": "Joinville",
+        "industry": "Sales",
+        "date": "2020",
+        "total_laid_off": 51
+    },
+    {
+        "country": "Brazil",
+        "location": "Porto Alegre",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 50
+    },
+    {
+        "country": "Brazil",
+        "location": "Sao Paulo",
+        "industry": "Consumer",
+        "date": "2020",
+        "total_laid_off": 11
+    },
+    {
+        "country": "Brazil",
+        "location": "Sao Paulo",
+        "industry": "Consumer",
+        "date": "2022",
+        "total_laid_off": 300
+    },
+    {
+        "country": "Brazil",
+        "location": "Sao Paulo",
+        "industry": "Crypto",
+        "date": "2022",
+        "total_laid_off": 190
+    },
+    {
+        "country": "Brazil",
+        "location": "Sao Paulo",
+        "industry": "Education",
+        "date": "2020",
+        "total_laid_off": 4
+    },
+    {
+        "country": "Brazil",
+        "location": "Sao Paulo",
+        "industry": "Education",
+        "date": "2022",
+        "total_laid_off": 47
+    },
+    {
+        "country": "Brazil",
+        "location": "Sao Paulo",
+        "industry": "Finance",
+        "date": "2020",
+        "total_laid_off": 1596
+    },
+    {
+        "country": "Brazil",
+        "location": "Sao Paulo",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 376
+    },
+    {
+        "country": "Brazil",
+        "location": "Sao Paulo",
+        "industry": "Fitness",
+        "date": "2020",
+        "total_laid_off": 467
+    },
+    {
+        "country": "Brazil",
+        "location": "Sao Paulo",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 270
+    },
+    {
+        "country": "Brazil",
+        "location": "Sao Paulo",
+        "industry": "HR",
+        "date": "2020",
+        "total_laid_off": 10
+    },
+    {
+        "country": "Brazil",
+        "location": "Sao Paulo",
+        "industry": "Healthcare",
+        "date": "2022",
+        "total_laid_off": 311
+    },
+    {
+        "country": "Brazil",
+        "location": "Sao Paulo",
+        "industry": "Logistics",
+        "date": "2022",
+        "total_laid_off": 500
+    },
+    {
+        "country": "Brazil",
+        "location": "Sao Paulo",
+        "industry": "Other",
+        "date": "2022",
+        "total_laid_off": 83
+    },
+    {
+        "country": "Brazil",
+        "location": "Sao Paulo",
+        "industry": "Real Estate",
+        "date": "2020",
+        "total_laid_off": 182
+    },
+    {
+        "country": "Brazil",
+        "location": "Sao Paulo",
+        "industry": "Real Estate",
+        "date": "2022",
+        "total_laid_off": 1015
+    },
+    {
+        "country": "Brazil",
+        "location": "Sao Paulo",
+        "industry": "Recruiting",
+        "date": "2020",
+        "total_laid_off": 18
+    },
+    {
+        "country": "Brazil",
+        "location": "Sao Paulo",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 485
+    },
+    {
+        "country": "Brazil",
+        "location": "Sao Paulo",
+        "industry": "Transportation",
+        "date": "2022",
+        "total_laid_off": 445
+    },
+    {
+        "country": "Brazil",
+        "location": "Sao Paulo",
+        "industry": "Travel",
+        "date": "2020",
+        "total_laid_off": 500
+    },
+    {
+        "country": "Bulgaria",
+        "location": "Sofia",
+        "industry": "Infrastructure",
+        "date": "2020",
+        "total_laid_off": 120
+    },
+    {
+        "country": "Canada",
+        "location": "Calgary",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 70
+    },
+    {
+        "country": "Canada",
+        "location": "Calgary",
+        "industry": "Other",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Canada",
+        "location": "Calgary",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Canada",
+        "location": "Ferdericton",
+        "industry": "Sales",
+        "date": "2022",
+        "total_laid_off": 57
+    },
+    {
+        "country": "Canada",
+        "location": "Montreal",
+        "industry": "Construction",
+        "date": "2022",
+        "total_laid_off": 350
+    },
+    {
+        "country": "Canada",
+        "location": "Montreal",
+        "industry": "Data",
+        "date": "2022",
+        "total_laid_off": 24
+    },
+    {
+        "country": "Canada",
+        "location": "Montreal",
+        "industry": "Healthcare",
+        "date": "2022",
+        "total_laid_off": 80
+    },
+    {
+        "country": "Canada",
+        "location": "Montreal",
+        "industry": "Other",
+        "date": "2020",
+        "total_laid_off": 62
+    },
+    {
+        "country": "Canada",
+        "location": "Montreal",
+        "industry": "Real Estate",
+        "date": "2020",
+        "total_laid_off": 120
+    },
+    {
+        "country": "Canada",
+        "location": "Montreal",
+        "industry": "Transportation",
+        "date": "2020",
+        "total_laid_off": 23
+    },
+    {
+        "country": "Canada",
+        "location": "Ottawa",
+        "industry": "Retail",
+        "date": "2020",
+        "total_laid_off": 30
+    },
+    {
+        "country": "Canada",
+        "location": "Ottawa",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 1120
+    },
+    {
+        "country": "Canada",
+        "location": "Ottawa",
+        "industry": "Tech",
+        "date": "2022",
+        "total_laid_off": 1000
+    },
+    {
+        "country": "Canada",
+        "location": "Quebec",
+        "industry": "Crypto",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Canada",
+        "location": "Saskatoon",
+        "industry": "Marketing",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Canada",
+        "location": "Toronto",
+        "industry": "Crypto",
+        "date": "2022",
+        "total_laid_off": 30
+    },
+    {
+        "country": "Canada",
+        "location": "Toronto",
+        "industry": "Education",
+        "date": "2020",
+        "total_laid_off": 30
+    },
+    {
+        "country": "Canada",
+        "location": "Toronto",
+        "industry": "Energy",
+        "date": "2020",
+        "total_laid_off": 47
+    },
+    {
+        "country": "Canada",
+        "location": "Toronto",
+        "industry": "Finance",
+        "date": "2020",
+        "total_laid_off": 87
+    },
+    {
+        "country": "Canada",
+        "location": "Toronto",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 385
+    },
+    {
+        "country": "Canada",
+        "location": "Toronto",
+        "industry": "Food",
+        "date": "2020",
+        "total_laid_off": 402
+    },
+    {
+        "country": "Canada",
+        "location": "Toronto",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 23
+    },
+    {
+        "country": "Canada",
+        "location": "Toronto",
+        "industry": "Healthcare",
+        "date": "2020",
+        "total_laid_off": 18
+    },
+    {
+        "country": "Canada",
+        "location": "Toronto",
+        "industry": "Logistics",
+        "date": "2022",
+        "total_laid_off": 10
+    },
+    {
+        "country": "Canada",
+        "location": "Toronto",
+        "industry": "Marketing",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Canada",
+        "location": "Toronto",
+        "industry": "Marketing",
+        "date": "2022",
+        "total_laid_off": 55
+    },
+    {
+        "country": "Canada",
+        "location": "Toronto",
+        "industry": "Other",
+        "date": "2022",
+        "total_laid_off": 84
+    },
+    {
+        "country": "Canada",
+        "location": "Toronto",
+        "industry": "Product",
+        "date": "2020",
+        "total_laid_off": 114
+    },
+    {
+        "country": "Canada",
+        "location": "Toronto",
+        "industry": "Real Estate",
+        "date": "2022",
+        "total_laid_off": 71
+    },
+    {
+        "country": "Canada",
+        "location": "Toronto",
+        "industry": "Retail",
+        "date": "2020",
+        "total_laid_off": 50
+    },
+    {
+        "country": "Canada",
+        "location": "Toronto",
+        "industry": "Retail",
+        "date": "2021",
+        "total_laid_off": 45
+    },
+    {
+        "country": "Canada",
+        "location": "Toronto",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 109
+    },
+    {
+        "country": "Canada",
+        "location": "Toronto",
+        "industry": "Sales",
+        "date": "2020",
+        "total_laid_off": 11
+    },
+    {
+        "country": "Canada",
+        "location": "Toronto",
+        "industry": "Sales",
+        "date": "2022",
+        "total_laid_off": 15
+    },
+    {
+        "country": "Canada",
+        "location": "Toronto",
+        "industry": "Support",
+        "date": "2020",
+        "total_laid_off": 62
+    },
+    {
+        "country": "Canada",
+        "location": "Toronto",
+        "industry": "Support",
+        "date": "2022",
+        "total_laid_off": 78
+    },
+    {
+        "country": "Canada",
+        "location": "Toronto",
+        "industry": "Tech",
+        "date": "2022",
+        "total_laid_off": 5000
+    },
+    {
+        "country": "Canada",
+        "location": "Toronto",
+        "industry": "Transportation",
+        "date": "2022",
+        "total_laid_off": 76
+    },
+    {
+        "country": "Canada",
+        "location": "Toronto",
+        "industry": "Travel",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Canada",
+        "location": "Toronto",
+        "industry": "Travel",
+        "date": "2022",
+        "total_laid_off": 22
+    },
+    {
+        "country": "Canada",
+        "location": "Vancouver",
+        "industry": "Education",
+        "date": "2022",
+        "total_laid_off": 100
+    },
+    {
+        "country": "Canada",
+        "location": "Vancouver",
+        "industry": "Finance",
+        "date": "2020",
+        "total_laid_off": 125
+    },
+    {
+        "country": "Canada",
+        "location": "Vancouver",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Canada",
+        "location": "Vancouver",
+        "industry": "Infrastructure",
+        "date": "2020",
+        "total_laid_off": 30
+    },
+    {
+        "country": "Canada",
+        "location": "Vancouver",
+        "industry": "Marketing",
+        "date": "2022",
+        "total_laid_off": 497
+    },
+    {
+        "country": "Canada",
+        "location": "Vancouver",
+        "industry": "Media",
+        "date": "2022",
+        "total_laid_off": 23
+    },
+    {
+        "country": "Canada",
+        "location": "Vancouver",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 216
+    },
+    {
+        "country": "Canada",
+        "location": "Vancouver",
+        "industry": "Sales",
+        "date": "2022",
+        "total_laid_off": 12
+    },
+    {
+        "country": "Canada",
+        "location": "Vancouver",
+        "industry": "Security",
+        "date": "2022",
+        "total_laid_off": 24
+    },
+    {
+        "country": "Canada",
+        "location": "Waterloo",
+        "industry": "Construction",
+        "date": "2022",
+        "total_laid_off": 13
+    },
+    {
+        "country": "Canada",
+        "location": "Waterloo",
+        "industry": "Consumer",
+        "date": "2022",
+        "total_laid_off": 22
+    },
+    {
+        "country": "Canada",
+        "location": "Waterloo",
+        "industry": "Education",
+        "date": "2022",
+        "total_laid_off": 90
+    },
+    {
+        "country": "Canada",
+        "location": "Winnipeg",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 350
+    },
+    {
+        "country": "Chile",
+        "location": "Santiago",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Chile",
+        "location": "Santiago",
+        "industry": "Healthcare",
+        "date": "2022",
+        "total_laid_off": 30
+    },
+    {
+        "country": "China",
+        "location": "Beijing",
+        "industry": "Consumer",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "China",
+        "location": "Beijing",
+        "industry": "Crypto",
+        "date": "2022",
+        "total_laid_off": 300
+    },
+    {
+        "country": "China",
+        "location": "Beijing",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "China",
+        "location": "Beijing",
+        "industry": "Real Estate",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "China",
+        "location": "Beijing",
+        "industry": "Tech",
+        "date": "2022",
+        "total_laid_off": 3000
+    },
+    {
+        "country": "China",
+        "location": "Non-U.S.",
+        "industry": "Healthcare",
+        "date": "2022",
+        "total_laid_off": 500
+    },
+    {
+        "country": "China",
+        "location": "Shanghai",
+        "industry": "Consumer",
+        "date": "2021",
+        "total_laid_off": 1800
+    },
+    {
+        "country": "China",
+        "location": "Shanghai",
+        "industry": "Consumer",
+        "date": "2022",
+        "total_laid_off": 330
+    },
+    {
+        "country": "China",
+        "location": "Shenzen",
+        "industry": "Consumer",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "China",
+        "location": "Shenzen",
+        "industry": "Consumer",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "China",
+        "location": "Shenzen",
+        "industry": "Other",
+        "date": "2022",
+        "total_laid_off": 1500
+    },
+    {
+        "country": "China",
+        "location": "Shenzen",
+        "industry": "Real Estate",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Colombia",
+        "location": "Bogota",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Colombia",
+        "location": "Bogota",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Colombia",
+        "location": "Bogota",
+        "industry": "HR",
+        "date": "2022",
+        "total_laid_off": 30
+    },
+    {
+        "country": "Czech Republic",
+        "location": "Prague",
+        "industry": "Travel",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Denmark",
+        "location": "Copenhagen",
+        "industry": "Consumer",
+        "date": "2022",
+        "total_laid_off": 15
+    },
+    {
+        "country": "Denmark",
+        "location": "Copenhagen",
+        "industry": "Education",
+        "date": "2020",
+        "total_laid_off": 40
+    },
+    {
+        "country": "Denmark",
+        "location": "Copenhagen",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 150
+    },
+    {
+        "country": "Denmark",
+        "location": "Copenhagen",
+        "industry": "Marketing",
+        "date": "2022",
+        "total_laid_off": 35
+    },
+    {
+        "country": "Egypt",
+        "location": "Cairo",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Egypt",
+        "location": "Cairo",
+        "industry": "Transportation",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Estonia",
+        "location": "Tallin",
+        "industry": "Sales",
+        "date": "2020",
+        "total_laid_off": 31
+    },
+    {
+        "country": "Estonia",
+        "location": "Tallin",
+        "industry": "Sales",
+        "date": "2022",
+        "total_laid_off": 143
+    },
+    {
+        "country": "Estonia",
+        "location": "Tallin",
+        "industry": "Security",
+        "date": "2020",
+        "total_laid_off": 63
+    },
+    {
+        "country": "Estonia",
+        "location": "Tallin",
+        "industry": "Transportation",
+        "date": "2020",
+        "total_laid_off": 30
+    },
+    {
+        "country": "Finland",
+        "location": "Helsinki",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 250
+    },
+    {
+        "country": "France",
+        "location": "Paris",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 93
+    },
+    {
+        "country": "France",
+        "location": "Paris",
+        "industry": "Transportation",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Germany",
+        "location": "Berlin",
+        "industry": "Construction",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Germany",
+        "location": "Berlin",
+        "industry": "Consumer",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Germany",
+        "location": "Berlin",
+        "industry": "Crypto",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Germany",
+        "location": "Berlin",
+        "industry": "Data",
+        "date": "2022",
+        "total_laid_off": 59
+    },
+    {
+        "country": "Germany",
+        "location": "Berlin",
+        "industry": "Finance",
+        "date": "2020",
+        "total_laid_off": 75
+    },
+    {
+        "country": "Germany",
+        "location": "Berlin",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 408
+    },
+    {
+        "country": "Germany",
+        "location": "Berlin",
+        "industry": "Fitness",
+        "date": "2022",
+        "total_laid_off": 55
+    },
+    {
+        "country": "Germany",
+        "location": "Berlin",
+        "industry": "Food",
+        "date": "2021",
+        "total_laid_off": 387
+    },
+    {
+        "country": "Germany",
+        "location": "Berlin",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 940
+    },
+    {
+        "country": "Germany",
+        "location": "Berlin",
+        "industry": "HR",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Germany",
+        "location": "Berlin",
+        "industry": "Healthcare",
+        "date": "2022",
+        "total_laid_off": 50
+    },
+    {
+        "country": "Germany",
+        "location": "Berlin",
+        "industry": "Marketing",
+        "date": "2022",
+        "total_laid_off": 121
+    },
+    {
+        "country": "Germany",
+        "location": "Berlin",
+        "industry": "Media",
+        "date": "2020",
+        "total_laid_off": 51
+    },
+    {
+        "country": "Germany",
+        "location": "Berlin",
+        "industry": "Other",
+        "date": "2022",
+        "total_laid_off": 811
+    },
+    {
+        "country": "Germany",
+        "location": "Berlin",
+        "industry": "Product",
+        "date": "2022",
+        "total_laid_off": 100
+    },
+    {
+        "country": "Germany",
+        "location": "Berlin",
+        "industry": "Real Estate",
+        "date": "2022",
+        "total_laid_off": 190
+    },
+    {
+        "country": "Germany",
+        "location": "Berlin",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 154
+    },
+    {
+        "country": "Germany",
+        "location": "Berlin",
+        "industry": "Transportation",
+        "date": "2020",
+        "total_laid_off": 100
+    },
+    {
+        "country": "Germany",
+        "location": "Berlin",
+        "industry": "Transportation",
+        "date": "2022",
+        "total_laid_off": 330
+    },
+    {
+        "country": "Germany",
+        "location": "Berlin",
+        "industry": "Travel",
+        "date": "2020",
+        "total_laid_off": 105
+    },
+    {
+        "country": "Germany",
+        "location": "Dusseldorf",
+        "industry": "Travel",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Germany",
+        "location": "D\u00fcsseldorf",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Germany",
+        "location": "Hamburg",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 44
+    },
+    {
+        "country": "Germany",
+        "location": "Hamburg",
+        "industry": "Other",
+        "date": "2022",
+        "total_laid_off": 50
+    },
+    {
+        "country": "Germany",
+        "location": "Munich",
+        "industry": "Fitness",
+        "date": "2020",
+        "total_laid_off": 100
+    },
+    {
+        "country": "Germany",
+        "location": "Munich",
+        "industry": "Product",
+        "date": "2022",
+        "total_laid_off": 20
+    },
+    {
+        "country": "Germany",
+        "location": "Munich",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 125
+    },
+    {
+        "country": "Germany",
+        "location": "Munich",
+        "industry": "Transportation",
+        "date": "2020",
+        "total_laid_off": 100
+    },
+    {
+        "country": "Ghana",
+        "location": "Accra",
+        "industry": "Other",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Greece",
+        "location": "Athens",
+        "industry": "Transportation",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Hong Kong",
+        "location": "Hong Kong",
+        "industry": "Crypto",
+        "date": "2022",
+        "total_laid_off": 30
+    },
+    {
+        "country": "Hong Kong",
+        "location": "Hong Kong",
+        "industry": "Finance",
+        "date": "2020",
+        "total_laid_off": 400
+    },
+    {
+        "country": "Hong Kong",
+        "location": "Hong Kong",
+        "industry": "Travel",
+        "date": "2020",
+        "total_laid_off": 300
+    },
+    {
+        "country": "Hungary",
+        "location": "Budapest",
+        "industry": "Infrastructure",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "India",
+        "location": "Ahmedabad",
+        "industry": "Finance",
+        "date": "2020",
+        "total_laid_off": 500
+    },
+    {
+        "country": "India",
+        "location": "Bangalore",
+        "industry": "Tech",
+        "date": "2022",
+        "total_laid_off": 4670
+    },
+    {
+        "country": "India",
+        "location": "Bengaluru",
+        "industry": "Consumer",
+        "date": "2022",
+        "total_laid_off": 240
+    },
+    {
+        "country": "India",
+        "location": "Bengaluru",
+        "industry": "Education",
+        "date": "2022",
+        "total_laid_off": 5599
+    },
+    {
+        "country": "India",
+        "location": "Bengaluru",
+        "industry": "Finance",
+        "date": "2020",
+        "total_laid_off": 46
+    },
+    {
+        "country": "India",
+        "location": "Bengaluru",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 545
+    },
+    {
+        "country": "India",
+        "location": "Bengaluru",
+        "industry": "Fitness",
+        "date": "2020",
+        "total_laid_off": 920
+    },
+    {
+        "country": "India",
+        "location": "Bengaluru",
+        "industry": "Fitness",
+        "date": "2022",
+        "total_laid_off": 150
+    },
+    {
+        "country": "India",
+        "location": "Bengaluru",
+        "industry": "Food",
+        "date": "2020",
+        "total_laid_off": 2250
+    },
+    {
+        "country": "India",
+        "location": "Bengaluru",
+        "industry": "Food",
+        "date": "2021",
+        "total_laid_off": 200
+    },
+    {
+        "country": "India",
+        "location": "Bengaluru",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 250
+    },
+    {
+        "country": "India",
+        "location": "Bengaluru",
+        "industry": "HR",
+        "date": "2021",
+        "total_laid_off": 80
+    },
+    {
+        "country": "India",
+        "location": "Bengaluru",
+        "industry": "Healthcare",
+        "date": "2022",
+        "total_laid_off": 636
+    },
+    {
+        "country": "India",
+        "location": "Bengaluru",
+        "industry": "Logistics",
+        "date": "2020",
+        "total_laid_off": 200
+    },
+    {
+        "country": "India",
+        "location": "Bengaluru",
+        "industry": "Marketing",
+        "date": "2020",
+        "total_laid_off": 101
+    },
+    {
+        "country": "India",
+        "location": "Bengaluru",
+        "industry": "Media",
+        "date": "2022",
+        "total_laid_off": 150
+    },
+    {
+        "country": "India",
+        "location": "Bengaluru",
+        "industry": "Recruiting",
+        "date": "2022",
+        "total_laid_off": 200
+    },
+    {
+        "country": "India",
+        "location": "Bengaluru",
+        "industry": "Retail",
+        "date": "2020",
+        "total_laid_off": 650
+    },
+    {
+        "country": "India",
+        "location": "Bengaluru",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 1833
+    },
+    {
+        "country": "India",
+        "location": "Bengaluru",
+        "industry": "Transportation",
+        "date": "2020",
+        "total_laid_off": 2250
+    },
+    {
+        "country": "India",
+        "location": "Bengaluru",
+        "industry": "Transportation",
+        "date": "2021",
+        "total_laid_off": 200
+    },
+    {
+        "country": "India",
+        "location": "Bengaluru",
+        "industry": "Transportation",
+        "date": "2022",
+        "total_laid_off": 1200
+    },
+    {
+        "country": "India",
+        "location": "Bengaluru",
+        "industry": "Travel",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "India",
+        "location": "Chennai",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 80
+    },
+    {
+        "country": "India",
+        "location": "Chennai",
+        "industry": "Travel",
+        "date": "2020",
+        "total_laid_off": 70
+    },
+    {
+        "country": "India",
+        "location": "Gurgoan",
+        "industry": "Tech",
+        "date": "2022",
+        "total_laid_off": 2391
+    },
+    {
+        "country": "India",
+        "location": "Gurugram",
+        "industry": "Construction",
+        "date": "2022",
+        "total_laid_off": 140
+    },
+    {
+        "country": "India",
+        "location": "Gurugram",
+        "industry": "Education",
+        "date": "2022",
+        "total_laid_off": 100
+    },
+    {
+        "country": "India",
+        "location": "Gurugram",
+        "industry": "Finance",
+        "date": "2020",
+        "total_laid_off": 1500
+    },
+    {
+        "country": "India",
+        "location": "Gurugram",
+        "industry": "Food",
+        "date": "2020",
+        "total_laid_off": 520
+    },
+    {
+        "country": "India",
+        "location": "Gurugram",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 100
+    },
+    {
+        "country": "India",
+        "location": "Gurugram",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 191
+    },
+    {
+        "country": "India",
+        "location": "Gurugram",
+        "industry": "Transportation",
+        "date": "2020",
+        "total_laid_off": 200
+    },
+    {
+        "country": "India",
+        "location": "Gurugram",
+        "industry": "Transportation",
+        "date": "2022",
+        "total_laid_off": 600
+    },
+    {
+        "country": "India",
+        "location": "Gurugram",
+        "industry": "Travel",
+        "date": "2020",
+        "total_laid_off": 1400
+    },
+    {
+        "country": "India",
+        "location": "Gurugram",
+        "industry": "Travel",
+        "date": "2022",
+        "total_laid_off": 600
+    },
+    {
+        "country": "India",
+        "location": "Hyderabad",
+        "industry": "Education",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "India",
+        "location": "Mumbai",
+        "industry": "Consumer",
+        "date": "2020",
+        "total_laid_off": 270
+    },
+    {
+        "country": "India",
+        "location": "Mumbai",
+        "industry": "Consumer",
+        "date": "2021",
+        "total_laid_off": 1800
+    },
+    {
+        "country": "India",
+        "location": "Mumbai",
+        "industry": "Crypto",
+        "date": "2022",
+        "total_laid_off": 60
+    },
+    {
+        "country": "India",
+        "location": "Mumbai",
+        "industry": "Education",
+        "date": "2021",
+        "total_laid_off": 1800
+    },
+    {
+        "country": "India",
+        "location": "Mumbai",
+        "industry": "Education",
+        "date": "2022",
+        "total_laid_off": 920
+    },
+    {
+        "country": "India",
+        "location": "Mumbai",
+        "industry": "Finance",
+        "date": "2020",
+        "total_laid_off": 85
+    },
+    {
+        "country": "India",
+        "location": "Mumbai",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 150
+    },
+    {
+        "country": "India",
+        "location": "Mumbai",
+        "industry": "Healthcare",
+        "date": "2022",
+        "total_laid_off": 40
+    },
+    {
+        "country": "India",
+        "location": "Mumbai",
+        "industry": "Logistics",
+        "date": "2020",
+        "total_laid_off": 140
+    },
+    {
+        "country": "India",
+        "location": "Mumbai",
+        "industry": "Marketing",
+        "date": "2020",
+        "total_laid_off": 60
+    },
+    {
+        "country": "India",
+        "location": "Mumbai",
+        "industry": "Media",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "India",
+        "location": "Mumbai",
+        "industry": "Retail",
+        "date": "2020",
+        "total_laid_off": 200
+    },
+    {
+        "country": "India",
+        "location": "Mumbai",
+        "industry": "Tech",
+        "date": "2022",
+        "total_laid_off": 200
+    },
+    {
+        "country": "India",
+        "location": "New Delhi",
+        "industry": "Data",
+        "date": "2022",
+        "total_laid_off": 40
+    },
+    {
+        "country": "India",
+        "location": "New Delhi",
+        "industry": "Finance",
+        "date": "2020",
+        "total_laid_off": 500
+    },
+    {
+        "country": "India",
+        "location": "New Delhi",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 30
+    },
+    {
+        "country": "India",
+        "location": "New Delhi",
+        "industry": "Healthcare",
+        "date": "2022",
+        "total_laid_off": 80
+    },
+    {
+        "country": "India",
+        "location": "New Delhi",
+        "industry": "Logistics",
+        "date": "2022",
+        "total_laid_off": 250
+    },
+    {
+        "country": "India",
+        "location": "New Delhi",
+        "industry": "Marketing",
+        "date": "2020",
+        "total_laid_off": 250
+    },
+    {
+        "country": "India",
+        "location": "New Delhi",
+        "industry": "Real Estate",
+        "date": "2020",
+        "total_laid_off": 100
+    },
+    {
+        "country": "India",
+        "location": "New Delhi",
+        "industry": "Transportation",
+        "date": "2020",
+        "total_laid_off": 40
+    },
+    {
+        "country": "India",
+        "location": "New Delhi",
+        "industry": "Transportation",
+        "date": "2022",
+        "total_laid_off": 40
+    },
+    {
+        "country": "India",
+        "location": "New Delhi",
+        "industry": "Travel",
+        "date": "2020",
+        "total_laid_off": 430
+    },
+    {
+        "country": "India",
+        "location": "Noida",
+        "industry": "Education",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "India",
+        "location": "Noida",
+        "industry": "Real Estate",
+        "date": "2020",
+        "total_laid_off": 250
+    },
+    {
+        "country": "Indonesia",
+        "location": "Jakarta",
+        "industry": "Consumer",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Indonesia",
+        "location": "Jakarta",
+        "industry": "Education",
+        "date": "2022",
+        "total_laid_off": 200
+    },
+    {
+        "country": "Indonesia",
+        "location": "Jakarta",
+        "industry": "Finance",
+        "date": "2020",
+        "total_laid_off": 100
+    },
+    {
+        "country": "Indonesia",
+        "location": "Jakarta",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 137
+    },
+    {
+        "country": "Indonesia",
+        "location": "Jakarta",
+        "industry": "Food",
+        "date": "2020",
+        "total_laid_off": 250
+    },
+    {
+        "country": "Indonesia",
+        "location": "Jakarta",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Indonesia",
+        "location": "Jakarta",
+        "industry": "Marketing",
+        "date": "2022",
+        "total_laid_off": 150
+    },
+    {
+        "country": "Indonesia",
+        "location": "Jakarta",
+        "industry": "Retail",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Indonesia",
+        "location": "Jakarta",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 494
+    },
+    {
+        "country": "Indonesia",
+        "location": "Jakarta",
+        "industry": "Transportation",
+        "date": "2020",
+        "total_laid_off": 430
+    },
+    {
+        "country": "Indonesia",
+        "location": "Jakarta",
+        "industry": "Transportation",
+        "date": "2022",
+        "total_laid_off": 1300
+    },
+    {
+        "country": "Indonesia",
+        "location": "Jakarta",
+        "industry": "Travel",
+        "date": "2020",
+        "total_laid_off": 100
+    },
+    {
+        "country": "Ireland",
+        "location": "Cork",
+        "industry": "Other",
+        "date": "2020",
+        "total_laid_off": 21
+    },
+    {
+        "country": "Ireland",
+        "location": "Dublin",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Ireland",
+        "location": "Dublin",
+        "industry": "Marketing",
+        "date": "2022",
+        "total_laid_off": 209
+    },
+    {
+        "country": "Ireland",
+        "location": "Dublin",
+        "industry": "Tech",
+        "date": "2022",
+        "total_laid_off": 400
+    },
+    {
+        "country": "Israel",
+        "location": "Jerusalem",
+        "industry": "Consumer",
+        "date": "2022",
+        "total_laid_off": 80
+    },
+    {
+        "country": "Israel",
+        "location": "Jerusalem",
+        "industry": "Healthcare",
+        "date": "2022",
+        "total_laid_off": 62
+    },
+    {
+        "country": "Israel",
+        "location": "SF Bay Area",
+        "industry": "Data",
+        "date": "2022",
+        "total_laid_off": 30
+    },
+    {
+        "country": "Israel",
+        "location": "Tel Aviv",
+        "industry": "Consumer",
+        "date": "2022",
+        "total_laid_off": 850
+    },
+    {
+        "country": "Israel",
+        "location": "Tel Aviv",
+        "industry": "Data",
+        "date": "2022",
+        "total_laid_off": 77
+    },
+    {
+        "country": "Israel",
+        "location": "Tel Aviv",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 100
+    },
+    {
+        "country": "Israel",
+        "location": "Tel Aviv",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 500
+    },
+    {
+        "country": "Israel",
+        "location": "Tel Aviv",
+        "industry": "HR",
+        "date": "2020",
+        "total_laid_off": 70
+    },
+    {
+        "country": "Israel",
+        "location": "Tel Aviv",
+        "industry": "HR",
+        "date": "2022",
+        "total_laid_off": 44
+    },
+    {
+        "country": "Israel",
+        "location": "Tel Aviv",
+        "industry": "Healthcare",
+        "date": "2022",
+        "total_laid_off": 23
+    },
+    {
+        "country": "Israel",
+        "location": "Tel Aviv",
+        "industry": "Legal",
+        "date": "2022",
+        "total_laid_off": 30
+    },
+    {
+        "country": "Israel",
+        "location": "Tel Aviv",
+        "industry": "Logistics",
+        "date": "2020",
+        "total_laid_off": 10
+    },
+    {
+        "country": "Israel",
+        "location": "Tel Aviv",
+        "industry": "Marketing",
+        "date": "2022",
+        "total_laid_off": 150
+    },
+    {
+        "country": "Israel",
+        "location": "Tel Aviv",
+        "industry": "Media",
+        "date": "2022",
+        "total_laid_off": 74
+    },
+    {
+        "country": "Israel",
+        "location": "Tel Aviv",
+        "industry": "Other",
+        "date": "2022",
+        "total_laid_off": 90
+    },
+    {
+        "country": "Israel",
+        "location": "Tel Aviv",
+        "industry": "Real Estate",
+        "date": "2022",
+        "total_laid_off": 11
+    },
+    {
+        "country": "Israel",
+        "location": "Tel Aviv",
+        "industry": "Retail",
+        "date": "2020",
+        "total_laid_off": 120
+    },
+    {
+        "country": "Israel",
+        "location": "Tel Aviv",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 13
+    },
+    {
+        "country": "Israel",
+        "location": "Tel Aviv",
+        "industry": "Security",
+        "date": "2020",
+        "total_laid_off": 24
+    },
+    {
+        "country": "Israel",
+        "location": "Tel Aviv",
+        "industry": "Security",
+        "date": "2022",
+        "total_laid_off": 320
+    },
+    {
+        "country": "Israel",
+        "location": "Tel Aviv",
+        "industry": "Support",
+        "date": "2022",
+        "total_laid_off": 120
+    },
+    {
+        "country": "Israel",
+        "location": "Tel Aviv",
+        "industry": "Transportation",
+        "date": "2022",
+        "total_laid_off": 110
+    },
+    {
+        "country": "Kenya",
+        "location": "Nairobi",
+        "industry": "Data",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Kenya",
+        "location": "Nairobi",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 211
+    },
+    {
+        "country": "Kenya",
+        "location": "Nairobi",
+        "industry": "Logistics",
+        "date": "2022",
+        "total_laid_off": 84
+    },
+    {
+        "country": "Kenya",
+        "location": "Nairobi",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 54
+    },
+    {
+        "country": "Lithuania",
+        "location": "Vilnius",
+        "industry": "Transportation",
+        "date": "2022",
+        "total_laid_off": 60
+    },
+    {
+        "country": "Luxembourg",
+        "location": "Luxembourg",
+        "industry": "Consumer",
+        "date": "2022",
+        "total_laid_off": 45
+    },
+    {
+        "country": "Luxembourg",
+        "location": "Luxembourg",
+        "industry": "Marketing",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Luxembourg",
+        "location": "Luxembourg",
+        "industry": "Media",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Malaysia",
+        "location": "Kuala Lumpur",
+        "industry": "Consumer",
+        "date": "2020",
+        "total_laid_off": 50
+    },
+    {
+        "country": "Malaysia",
+        "location": "Kuala Lumpur",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 50
+    },
+    {
+        "country": "Malaysia",
+        "location": "Kuala Lumpur",
+        "industry": "Transportation",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Mexico",
+        "location": "Guadalajara",
+        "industry": "Finance",
+        "date": "2020",
+        "total_laid_off": 90
+    },
+    {
+        "country": "Mexico",
+        "location": "Guadalajara",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Mexico",
+        "location": "Mexico City",
+        "industry": "Crypto",
+        "date": "2022",
+        "total_laid_off": 180
+    },
+    {
+        "country": "Myanmar",
+        "location": "Yangon",
+        "industry": "Travel",
+        "date": "2020",
+        "total_laid_off": 200
+    },
+    {
+        "country": "Netherlands",
+        "location": "Amsterdam",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 150
+    },
+    {
+        "country": "Netherlands",
+        "location": "Amsterdam",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 390
+    },
+    {
+        "country": "Netherlands",
+        "location": "Amsterdam",
+        "industry": "Other",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Netherlands",
+        "location": "Amsterdam",
+        "industry": "Transportation",
+        "date": "2020",
+        "total_laid_off": 225
+    },
+    {
+        "country": "Netherlands",
+        "location": "Amsterdam",
+        "industry": "Travel",
+        "date": "2020",
+        "total_laid_off": 4375
+    },
+    {
+        "country": "Netherlands",
+        "location": "The Hague",
+        "industry": "Other",
+        "date": "2022",
+        "total_laid_off": 80
+    },
+    {
+        "country": "New Zealand",
+        "location": "Auckland",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 45
+    },
+    {
+        "country": "Nigeria",
+        "location": "Lagos",
+        "industry": "Crypto",
+        "date": "2022",
+        "total_laid_off": 50
+    },
+    {
+        "country": "Nigeria",
+        "location": "Lagos",
+        "industry": "Finance",
+        "date": "2020",
+        "total_laid_off": 391
+    },
+    {
+        "country": "Nigeria",
+        "location": "Lagos",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 23
+    },
+    {
+        "country": "Nigeria",
+        "location": "Lagos",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 27
+    },
+    {
+        "country": "Nigeria",
+        "location": "Lagos",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Nigeria",
+        "location": "Lagos",
+        "industry": "Transportation",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Norway",
+        "location": "Oslo",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 140
+    },
+    {
+        "country": "Norway",
+        "location": "Oslo",
+        "industry": "Other",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Norway",
+        "location": "Trondheim",
+        "industry": "Security",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Pakistan",
+        "location": "Karachi",
+        "industry": "Logistics",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Pakistan",
+        "location": "Lahore",
+        "industry": "Logistics",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Peru",
+        "location": "Lima",
+        "industry": "Education",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Poland",
+        "location": "Krakow",
+        "industry": "Education",
+        "date": "2022",
+        "total_laid_off": 25
+    },
+    {
+        "country": "Portugal",
+        "location": "Lisbon",
+        "industry": "Finance",
+        "date": "2020",
+        "total_laid_off": 35
+    },
+    {
+        "country": "Portugal",
+        "location": "Lisbon",
+        "industry": "Support",
+        "date": "2020",
+        "total_laid_off": 80
+    },
+    {
+        "country": "Romania",
+        "location": "Bucharest",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 80
+    },
+    {
+        "country": "Romania",
+        "location": "Singapore",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 60
+    },
+    {
+        "country": "Russia",
+        "location": "Moscow",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 400
+    },
+    {
+        "country": "Senegal",
+        "location": "Dakar",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 300
+    },
+    {
+        "country": "Seychelles",
+        "location": "Non-U.S.",
+        "industry": "Crypto",
+        "date": "2022",
+        "total_laid_off": 75
+    },
+    {
+        "country": "Seychelles",
+        "location": "Victoria",
+        "industry": "Crypto",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Singapore",
+        "location": "Singapore",
+        "industry": "Consumer",
+        "date": "2020",
+        "total_laid_off": 250
+    },
+    {
+        "country": "Singapore",
+        "location": "Singapore",
+        "industry": "Consumer",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Singapore",
+        "location": "Singapore",
+        "industry": "Crypto",
+        "date": "2022",
+        "total_laid_off": 2900
+    },
+    {
+        "country": "Singapore",
+        "location": "Singapore",
+        "industry": "Finance",
+        "date": "2020",
+        "total_laid_off": 87
+    },
+    {
+        "country": "Singapore",
+        "location": "Singapore",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 31
+    },
+    {
+        "country": "Singapore",
+        "location": "Singapore",
+        "industry": "Food",
+        "date": "2020",
+        "total_laid_off": 20
+    },
+    {
+        "country": "Singapore",
+        "location": "Singapore",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 65
+    },
+    {
+        "country": "Singapore",
+        "location": "Singapore",
+        "industry": "HR",
+        "date": "2022",
+        "total_laid_off": 198
+    },
+    {
+        "country": "Singapore",
+        "location": "Singapore",
+        "industry": "Marketing",
+        "date": "2021",
+        "total_laid_off": 21
+    },
+    {
+        "country": "Singapore",
+        "location": "Singapore",
+        "industry": "Retail",
+        "date": "2020",
+        "total_laid_off": 144
+    },
+    {
+        "country": "Singapore",
+        "location": "Singapore",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 290
+    },
+    {
+        "country": "Singapore",
+        "location": "Singapore",
+        "industry": "Transportation",
+        "date": "2020",
+        "total_laid_off": 360
+    },
+    {
+        "country": "Singapore",
+        "location": "Singapore",
+        "industry": "Travel",
+        "date": "2020",
+        "total_laid_off": 1500
+    },
+    {
+        "country": "South Africa",
+        "location": "Cape Town",
+        "industry": "Finance",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Spain",
+        "location": "Barcelona",
+        "industry": "Marketing",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Sweden",
+        "location": "Gothenburg",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 72
+    },
+    {
+        "country": "Sweden",
+        "location": "Malmo",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 70
+    },
+    {
+        "country": "Sweden",
+        "location": "Malm\u00f6",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Sweden",
+        "location": "Oslo",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 70
+    },
+    {
+        "country": "Sweden",
+        "location": "Stockholm",
+        "industry": "Consumer",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Sweden",
+        "location": "Stockholm",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 932
+    },
+    {
+        "country": "Sweden",
+        "location": "Stockholm",
+        "industry": "Healthcare",
+        "date": "2022",
+        "total_laid_off": 400
+    },
+    {
+        "country": "Sweden",
+        "location": "Stockholm",
+        "industry": "Media",
+        "date": "2022",
+        "total_laid_off": 170
+    },
+    {
+        "country": "Sweden",
+        "location": "Stockholm",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 200
+    },
+    {
+        "country": "Sweden",
+        "location": "Stockholm",
+        "industry": "Tech",
+        "date": "2022",
+        "total_laid_off": 700
+    },
+    {
+        "country": "Sweden",
+        "location": "Stockholm",
+        "industry": "Transportation",
+        "date": "2020",
+        "total_laid_off": 100
+    },
+    {
+        "country": "Switzerland",
+        "location": "Vevey",
+        "industry": "Tech",
+        "date": "2022",
+        "total_laid_off": 104
+    },
+    {
+        "country": "Switzerland",
+        "location": "Zug",
+        "industry": "Media",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Switzerland",
+        "location": "Zurich",
+        "industry": "Finance",
+        "date": "2020",
+        "total_laid_off": 62
+    },
+    {
+        "country": "Thailand",
+        "location": "Bangkok",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 55
+    },
+    {
+        "country": "Turkey",
+        "location": "Istanbul",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United Arab Emirates",
+        "location": "Dubai",
+        "industry": "Crypto",
+        "date": "2022",
+        "total_laid_off": 9
+    },
+    {
+        "country": "United Arab Emirates",
+        "location": "Dubai",
+        "industry": "Healthcare",
+        "date": "2022",
+        "total_laid_off": 50
+    },
+    {
+        "country": "United Arab Emirates",
+        "location": "Dubai",
+        "industry": "Retail",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United Arab Emirates",
+        "location": "Dubai",
+        "industry": "Transportation",
+        "date": "2020",
+        "total_laid_off": 536
+    },
+    {
+        "country": "United Arab Emirates",
+        "location": "Dubai",
+        "industry": "Transportation",
+        "date": "2022",
+        "total_laid_off": 400
+    },
+    {
+        "country": "United Kingdom",
+        "location": "Bristol",
+        "industry": "Data",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United Kingdom",
+        "location": "Bristol",
+        "industry": "Security",
+        "date": "2022",
+        "total_laid_off": 38
+    },
+    {
+        "country": "United Kingdom",
+        "location": "Edinburgh",
+        "industry": "Travel",
+        "date": "2020",
+        "total_laid_off": 300
+    },
+    {
+        "country": "United Kingdom",
+        "location": "Las Vegas",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United Kingdom",
+        "location": "London",
+        "industry": "Aerospace",
+        "date": "2020",
+        "total_laid_off": 451
+    },
+    {
+        "country": "United Kingdom",
+        "location": "London",
+        "industry": "Consumer",
+        "date": "2022",
+        "total_laid_off": 79
+    },
+    {
+        "country": "United Kingdom",
+        "location": "London",
+        "industry": "Crypto",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United Kingdom",
+        "location": "London",
+        "industry": "Crypto",
+        "date": "2022",
+        "total_laid_off": 166
+    },
+    {
+        "country": "United Kingdom",
+        "location": "London",
+        "industry": "Data",
+        "date": "2021",
+        "total_laid_off": 20
+    },
+    {
+        "country": "United Kingdom",
+        "location": "London",
+        "industry": "Education",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United Kingdom",
+        "location": "London",
+        "industry": "Energy",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United Kingdom",
+        "location": "London",
+        "industry": "Finance",
+        "date": "2020",
+        "total_laid_off": 180
+    },
+    {
+        "country": "United Kingdom",
+        "location": "London",
+        "industry": "Finance",
+        "date": "2021",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United Kingdom",
+        "location": "London",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 409
+    },
+    {
+        "country": "United Kingdom",
+        "location": "London",
+        "industry": "Food",
+        "date": "2020",
+        "total_laid_off": 367
+    },
+    {
+        "country": "United Kingdom",
+        "location": "London",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United Kingdom",
+        "location": "London",
+        "industry": "HR",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United Kingdom",
+        "location": "London",
+        "industry": "HR",
+        "date": "2022",
+        "total_laid_off": 28
+    },
+    {
+        "country": "United Kingdom",
+        "location": "London",
+        "industry": "Healthcare",
+        "date": "2020",
+        "total_laid_off": 8
+    },
+    {
+        "country": "United Kingdom",
+        "location": "London",
+        "industry": "Healthcare",
+        "date": "2022",
+        "total_laid_off": 100
+    },
+    {
+        "country": "United Kingdom",
+        "location": "London",
+        "industry": "Marketing",
+        "date": "2020",
+        "total_laid_off": 8
+    },
+    {
+        "country": "United Kingdom",
+        "location": "London",
+        "industry": "Marketing",
+        "date": "2022",
+        "total_laid_off": 30
+    },
+    {
+        "country": "United Kingdom",
+        "location": "London",
+        "industry": "Media",
+        "date": "2020",
+        "total_laid_off": 115
+    },
+    {
+        "country": "United Kingdom",
+        "location": "London",
+        "industry": "Media",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United Kingdom",
+        "location": "London",
+        "industry": "Other",
+        "date": "2022",
+        "total_laid_off": 242
+    },
+    {
+        "country": "United Kingdom",
+        "location": "London",
+        "industry": "Product",
+        "date": "2020",
+        "total_laid_off": 10
+    },
+    {
+        "country": "United Kingdom",
+        "location": "London",
+        "industry": "Real Estate",
+        "date": "2020",
+        "total_laid_off": 200
+    },
+    {
+        "country": "United Kingdom",
+        "location": "London",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 80
+    },
+    {
+        "country": "United Kingdom",
+        "location": "London",
+        "industry": "Security",
+        "date": "2022",
+        "total_laid_off": 20
+    },
+    {
+        "country": "United Kingdom",
+        "location": "London",
+        "industry": "Tech",
+        "date": "2022",
+        "total_laid_off": 2200
+    },
+    {
+        "country": "United Kingdom",
+        "location": "London",
+        "industry": "Transportation",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United Kingdom",
+        "location": "London",
+        "industry": "Transportation",
+        "date": "2022",
+        "total_laid_off": 1570
+    },
+    {
+        "country": "United Kingdom",
+        "location": "London",
+        "industry": "Travel",
+        "date": "2020",
+        "total_laid_off": 219
+    },
+    {
+        "country": "United Kingdom",
+        "location": "London",
+        "industry": "Travel",
+        "date": "2022",
+        "total_laid_off": 230
+    },
+    {
+        "country": "United Kingdom",
+        "location": "Welwyn Garden City",
+        "industry": "Tech",
+        "date": "2022",
+        "total_laid_off": 1600
+    },
+    {
+        "country": "United States",
+        "location": "Ann Arbor",
+        "industry": "Support",
+        "date": "2020",
+        "total_laid_off": 40
+    },
+    {
+        "country": "United States",
+        "location": "Atlanta",
+        "industry": "Crypto",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Atlanta",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 90
+    },
+    {
+        "country": "United States",
+        "location": "Atlanta",
+        "industry": "Fitness",
+        "date": "2022",
+        "total_laid_off": 50
+    },
+    {
+        "country": "United States",
+        "location": "Atlanta",
+        "industry": "Legal",
+        "date": "2020",
+        "total_laid_off": 150
+    },
+    {
+        "country": "United States",
+        "location": "Atlanta",
+        "industry": "Logistics",
+        "date": "2022",
+        "total_laid_off": 59
+    },
+    {
+        "country": "United States",
+        "location": "Atlanta",
+        "industry": "Marketing",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Atlanta",
+        "industry": "Marketing",
+        "date": "2022",
+        "total_laid_off": 51
+    },
+    {
+        "country": "United States",
+        "location": "Atlanta",
+        "industry": "Real Estate",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Atlanta",
+        "industry": "Sales",
+        "date": "2020",
+        "total_laid_off": 111
+    },
+    {
+        "country": "United States",
+        "location": "Atlanta",
+        "industry": "Security",
+        "date": "2022",
+        "total_laid_off": 950
+    },
+    {
+        "country": "United States",
+        "location": "Austin",
+        "industry": "Crypto",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Austin",
+        "industry": "Data",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Austin",
+        "industry": "Data",
+        "date": "2022",
+        "total_laid_off": 85
+    },
+    {
+        "country": "United States",
+        "location": "Austin",
+        "industry": "Energy",
+        "date": "2020",
+        "total_laid_off": 120
+    },
+    {
+        "country": "United States",
+        "location": "Austin",
+        "industry": "Energy",
+        "date": "2022",
+        "total_laid_off": 450
+    },
+    {
+        "country": "United States",
+        "location": "Austin",
+        "industry": "Finance",
+        "date": "2020",
+        "total_laid_off": 90
+    },
+    {
+        "country": "United States",
+        "location": "Austin",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 90
+    },
+    {
+        "country": "United States",
+        "location": "Austin",
+        "industry": "HR",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Austin",
+        "industry": "Healthcare",
+        "date": "2020",
+        "total_laid_off": 82
+    },
+    {
+        "country": "United States",
+        "location": "Austin",
+        "industry": "Healthcare",
+        "date": "2022",
+        "total_laid_off": 35
+    },
+    {
+        "country": "United States",
+        "location": "Austin",
+        "industry": "Infrastructure",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Austin",
+        "industry": "Infrastructure",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Austin",
+        "industry": "Legal",
+        "date": "2020",
+        "total_laid_off": 75
+    },
+    {
+        "country": "United States",
+        "location": "Austin",
+        "industry": "Logistics",
+        "date": "2020",
+        "total_laid_off": 140
+    },
+    {
+        "country": "United States",
+        "location": "Austin",
+        "industry": "Marketing",
+        "date": "2020",
+        "total_laid_off": 503
+    },
+    {
+        "country": "United States",
+        "location": "Austin",
+        "industry": "Media",
+        "date": "2020",
+        "total_laid_off": 18
+    },
+    {
+        "country": "United States",
+        "location": "Austin",
+        "industry": "Other",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Austin",
+        "industry": "Real Estate",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Austin",
+        "industry": "Retail",
+        "date": "2020",
+        "total_laid_off": 30
+    },
+    {
+        "country": "United States",
+        "location": "Austin",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 180
+    },
+    {
+        "country": "United States",
+        "location": "Austin",
+        "industry": "Sales",
+        "date": "2022",
+        "total_laid_off": 120
+    },
+    {
+        "country": "United States",
+        "location": "Austin",
+        "industry": "Support",
+        "date": "2020",
+        "total_laid_off": 16
+    },
+    {
+        "country": "United States",
+        "location": "Austin",
+        "industry": "Tech",
+        "date": "2022",
+        "total_laid_off": 200
+    },
+    {
+        "country": "United States",
+        "location": "Austin",
+        "industry": "Transportation",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Austin",
+        "industry": "Travel",
+        "date": "2020",
+        "total_laid_off": 38
+    },
+    {
+        "country": "United States",
+        "location": "Baltimore",
+        "industry": "Data",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Baltimore",
+        "industry": "Sales",
+        "date": "2022",
+        "total_laid_off": 20
+    },
+    {
+        "country": "United States",
+        "location": "Beijing",
+        "industry": "Consumer",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Bend",
+        "industry": "Consumer",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Bend",
+        "industry": "Other",
+        "date": "2022",
+        "total_laid_off": 50
+    },
+    {
+        "country": "United States",
+        "location": "Bentonville",
+        "industry": "Tech",
+        "date": "2022",
+        "total_laid_off": 200
+    },
+    {
+        "country": "United States",
+        "location": "Berlin",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 40
+    },
+    {
+        "country": "United States",
+        "location": "Birmingham",
+        "industry": "Real Estate",
+        "date": "2022",
+        "total_laid_off": 110
+    },
+    {
+        "country": "United States",
+        "location": "Boston",
+        "industry": "Consumer",
+        "date": "2020",
+        "total_laid_off": 81
+    },
+    {
+        "country": "United States",
+        "location": "Boston",
+        "industry": "Consumer",
+        "date": "2022",
+        "total_laid_off": 140
+    },
+    {
+        "country": "United States",
+        "location": "Boston",
+        "industry": "Data",
+        "date": "2020",
+        "total_laid_off": 404
+    },
+    {
+        "country": "United States",
+        "location": "Boston",
+        "industry": "Data",
+        "date": "2022",
+        "total_laid_off": 70
+    },
+    {
+        "country": "United States",
+        "location": "Boston",
+        "industry": "Education",
+        "date": "2022",
+        "total_laid_off": 26
+    },
+    {
+        "country": "United States",
+        "location": "Boston",
+        "industry": "Energy",
+        "date": "2022",
+        "total_laid_off": 97
+    },
+    {
+        "country": "United States",
+        "location": "Boston",
+        "industry": "Finance",
+        "date": "2020",
+        "total_laid_off": 60
+    },
+    {
+        "country": "United States",
+        "location": "Boston",
+        "industry": "Fitness",
+        "date": "2022",
+        "total_laid_off": 95
+    },
+    {
+        "country": "United States",
+        "location": "Boston",
+        "industry": "Food",
+        "date": "2020",
+        "total_laid_off": 1734
+    },
+    {
+        "country": "United States",
+        "location": "Boston",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Boston",
+        "industry": "HR",
+        "date": "2020",
+        "total_laid_off": 105
+    },
+    {
+        "country": "United States",
+        "location": "Boston",
+        "industry": "HR",
+        "date": "2022",
+        "total_laid_off": 40
+    },
+    {
+        "country": "United States",
+        "location": "Boston",
+        "industry": "Healthcare",
+        "date": "2020",
+        "total_laid_off": 410
+    },
+    {
+        "country": "United States",
+        "location": "Boston",
+        "industry": "Healthcare",
+        "date": "2022",
+        "total_laid_off": 527
+    },
+    {
+        "country": "United States",
+        "location": "Boston",
+        "industry": "Infrastructure",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Boston",
+        "industry": "Legal",
+        "date": "2022",
+        "total_laid_off": 170
+    },
+    {
+        "country": "United States",
+        "location": "Boston",
+        "industry": "Marketing",
+        "date": "2020",
+        "total_laid_off": 46
+    },
+    {
+        "country": "United States",
+        "location": "Boston",
+        "industry": "Marketing",
+        "date": "2022",
+        "total_laid_off": 100
+    },
+    {
+        "country": "United States",
+        "location": "Boston",
+        "industry": "Media",
+        "date": "2020",
+        "total_laid_off": 10
+    },
+    {
+        "country": "United States",
+        "location": "Boston",
+        "industry": "Other",
+        "date": "2020",
+        "total_laid_off": 30
+    },
+    {
+        "country": "United States",
+        "location": "Boston",
+        "industry": "Other",
+        "date": "2021",
+        "total_laid_off": 80
+    },
+    {
+        "country": "United States",
+        "location": "Boston",
+        "industry": "Other",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Boston",
+        "industry": "Recruiting",
+        "date": "2020",
+        "total_laid_off": 64
+    },
+    {
+        "country": "United States",
+        "location": "Boston",
+        "industry": "Retail",
+        "date": "2020",
+        "total_laid_off": 60
+    },
+    {
+        "country": "United States",
+        "location": "Boston",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 1000
+    },
+    {
+        "country": "United States",
+        "location": "Boston",
+        "industry": "Sales",
+        "date": "2020",
+        "total_laid_off": 100
+    },
+    {
+        "country": "United States",
+        "location": "Boston",
+        "industry": "Security",
+        "date": "2020",
+        "total_laid_off": 13
+    },
+    {
+        "country": "United States",
+        "location": "Boston",
+        "industry": "Security",
+        "date": "2022",
+        "total_laid_off": 745
+    },
+    {
+        "country": "United States",
+        "location": "Boston",
+        "industry": "Support",
+        "date": "2020",
+        "total_laid_off": 24
+    },
+    {
+        "country": "United States",
+        "location": "Boston",
+        "industry": "Support",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Boston",
+        "industry": "Transportation",
+        "date": "2020",
+        "total_laid_off": 230
+    },
+    {
+        "country": "United States",
+        "location": "Boston",
+        "industry": "Transportation",
+        "date": "2022",
+        "total_laid_off": 35
+    },
+    {
+        "country": "United States",
+        "location": "Boston",
+        "industry": "Travel",
+        "date": "2020",
+        "total_laid_off": 934
+    },
+    {
+        "country": "United States",
+        "location": "Boulder",
+        "industry": "Crypto",
+        "date": "2022",
+        "total_laid_off": 24
+    },
+    {
+        "country": "United States",
+        "location": "Boulder",
+        "industry": "Healthcare",
+        "date": "2022",
+        "total_laid_off": 43
+    },
+    {
+        "country": "United States",
+        "location": "Boulder",
+        "industry": "Infrastructure",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Boulder",
+        "industry": "Marketing",
+        "date": "2020",
+        "total_laid_off": 4
+    },
+    {
+        "country": "United States",
+        "location": "Boulder",
+        "industry": "Media",
+        "date": "2022",
+        "total_laid_off": 87
+    },
+    {
+        "country": "United States",
+        "location": "Boulder",
+        "industry": "Product",
+        "date": "2022",
+        "total_laid_off": 43
+    },
+    {
+        "country": "United States",
+        "location": "Burlington",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 47
+    },
+    {
+        "country": "United States",
+        "location": "Campbell",
+        "industry": "Tech",
+        "date": "2022",
+        "total_laid_off": 150
+    },
+    {
+        "country": "United States",
+        "location": "Charlotte",
+        "industry": "Transportation",
+        "date": "2020",
+        "total_laid_off": 44
+    },
+    {
+        "country": "United States",
+        "location": "Chicago",
+        "industry": "Consumer",
+        "date": "2020",
+        "total_laid_off": 6
+    },
+    {
+        "country": "United States",
+        "location": "Chicago",
+        "industry": "Consumer",
+        "date": "2022",
+        "total_laid_off": 167
+    },
+    {
+        "country": "United States",
+        "location": "Chicago",
+        "industry": "Crypto",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Chicago",
+        "industry": "Education",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Chicago",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 38
+    },
+    {
+        "country": "United States",
+        "location": "Chicago",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 26
+    },
+    {
+        "country": "United States",
+        "location": "Chicago",
+        "industry": "HR",
+        "date": "2020",
+        "total_laid_off": 10
+    },
+    {
+        "country": "United States",
+        "location": "Chicago",
+        "industry": "HR",
+        "date": "2022",
+        "total_laid_off": 54
+    },
+    {
+        "country": "United States",
+        "location": "Chicago",
+        "industry": "Healthcare",
+        "date": "2022",
+        "total_laid_off": 800
+    },
+    {
+        "country": "United States",
+        "location": "Chicago",
+        "industry": "Infrastructure",
+        "date": "2022",
+        "total_laid_off": 80
+    },
+    {
+        "country": "United States",
+        "location": "Chicago",
+        "industry": "Legal",
+        "date": "2022",
+        "total_laid_off": 150
+    },
+    {
+        "country": "United States",
+        "location": "Chicago",
+        "industry": "Logistics",
+        "date": "2022",
+        "total_laid_off": 123
+    },
+    {
+        "country": "United States",
+        "location": "Chicago",
+        "industry": "Marketing",
+        "date": "2020",
+        "total_laid_off": 88
+    },
+    {
+        "country": "United States",
+        "location": "Chicago",
+        "industry": "Marketing",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Chicago",
+        "industry": "Recruiting",
+        "date": "2020",
+        "total_laid_off": 64
+    },
+    {
+        "country": "United States",
+        "location": "Chicago",
+        "industry": "Recruiting",
+        "date": "2022",
+        "total_laid_off": 50
+    },
+    {
+        "country": "United States",
+        "location": "Chicago",
+        "industry": "Retail",
+        "date": "2020",
+        "total_laid_off": 2800
+    },
+    {
+        "country": "United States",
+        "location": "Chicago",
+        "industry": "Retail",
+        "date": "2021",
+        "total_laid_off": 243
+    },
+    {
+        "country": "United States",
+        "location": "Chicago",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 500
+    },
+    {
+        "country": "United States",
+        "location": "Chicago",
+        "industry": "Transportation",
+        "date": "2020",
+        "total_laid_off": 40
+    },
+    {
+        "country": "United States",
+        "location": "Chicago",
+        "industry": "Travel",
+        "date": "2020",
+        "total_laid_off": 50
+    },
+    {
+        "country": "United States",
+        "location": "Cincinnati",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 30
+    },
+    {
+        "country": "United States",
+        "location": "Columbus",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 467
+    },
+    {
+        "country": "United States",
+        "location": "Columbus",
+        "industry": "Healthcare",
+        "date": "2022",
+        "total_laid_off": 450
+    },
+    {
+        "country": "United States",
+        "location": "Columbus",
+        "industry": "Real Estate",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Columbus",
+        "industry": "Security",
+        "date": "2022",
+        "total_laid_off": 16
+    },
+    {
+        "country": "United States",
+        "location": "Copenhagen",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 150
+    },
+    {
+        "country": "United States",
+        "location": "Culver city",
+        "industry": "Tech",
+        "date": "2022",
+        "total_laid_off": 100
+    },
+    {
+        "country": "United States",
+        "location": "Dallas",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 41
+    },
+    {
+        "country": "United States",
+        "location": "Dallas",
+        "industry": "Logistics",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Dallas",
+        "industry": "Travel",
+        "date": "2020",
+        "total_laid_off": 10
+    },
+    {
+        "country": "United States",
+        "location": "Davenport",
+        "industry": "Healthcare",
+        "date": "2022",
+        "total_laid_off": 62
+    },
+    {
+        "country": "United States",
+        "location": "DearBorn",
+        "industry": "Tech",
+        "date": "2022",
+        "total_laid_off": 3000
+    },
+    {
+        "country": "United States",
+        "location": "Denver",
+        "industry": "Consumer",
+        "date": "2020",
+        "total_laid_off": 5
+    },
+    {
+        "country": "United States",
+        "location": "Denver",
+        "industry": "Data",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Denver",
+        "industry": "Education",
+        "date": "2020",
+        "total_laid_off": 137
+    },
+    {
+        "country": "United States",
+        "location": "Denver",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Denver",
+        "industry": "Healthcare",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Denver",
+        "industry": "Logistics",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Denver",
+        "industry": "Logistics",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Denver",
+        "industry": "Retail",
+        "date": "2020",
+        "total_laid_off": 110
+    },
+    {
+        "country": "United States",
+        "location": "Denver",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Denver",
+        "industry": "Travel",
+        "date": "2020",
+        "total_laid_off": 148
+    },
+    {
+        "country": "United States",
+        "location": "Detroit",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Detroit",
+        "industry": "Retail",
+        "date": "2020",
+        "total_laid_off": 100
+    },
+    {
+        "country": "United States",
+        "location": "Detroit",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 200
+    },
+    {
+        "country": "United States",
+        "location": "Detroit",
+        "industry": "Transportation",
+        "date": "2020",
+        "total_laid_off": 40
+    },
+    {
+        "country": "United States",
+        "location": "Detroit",
+        "industry": "Transportation",
+        "date": "2022",
+        "total_laid_off": 840
+    },
+    {
+        "country": "United States",
+        "location": "Dover",
+        "industry": "Other",
+        "date": "2022",
+        "total_laid_off": 76
+    },
+    {
+        "country": "United States",
+        "location": "Dubai",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 93
+    },
+    {
+        "country": "United States",
+        "location": "Durham",
+        "industry": "Marketing",
+        "date": "2022",
+        "total_laid_off": 40
+    },
+    {
+        "country": "United States",
+        "location": "Eindhoven",
+        "industry": "Logistics",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Fayetteville",
+        "industry": "Retail",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Grand Rapids",
+        "industry": "Travel",
+        "date": "2022",
+        "total_laid_off": 226
+    },
+    {
+        "country": "United States",
+        "location": "Houston",
+        "industry": "Infrastructure",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Huntsville",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Indianapolis",
+        "industry": "HR",
+        "date": "2022",
+        "total_laid_off": 5
+    },
+    {
+        "country": "United States",
+        "location": "Kansas City",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 20
+    },
+    {
+        "country": "United States",
+        "location": "Las Vegas",
+        "industry": "Data",
+        "date": "2020",
+        "total_laid_off": 240
+    },
+    {
+        "country": "United States",
+        "location": "Las Vegas",
+        "industry": "Finance",
+        "date": "2020",
+        "total_laid_off": 165
+    },
+    {
+        "country": "United States",
+        "location": "Lehi",
+        "industry": "Crypto",
+        "date": "2022",
+        "total_laid_off": 20
+    },
+    {
+        "country": "United States",
+        "location": "Lehi",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 200
+    },
+    {
+        "country": "United States",
+        "location": "Lehi",
+        "industry": "Healthcare",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Lehi",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Lehi",
+        "industry": "Support",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Lexington",
+        "industry": "Other",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Logan",
+        "industry": "Fitness",
+        "date": "2021",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Logan",
+        "industry": "Fitness",
+        "date": "2022",
+        "total_laid_off": 300
+    },
+    {
+        "country": "United States",
+        "location": "London",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 40
+    },
+    {
+        "country": "United States",
+        "location": "London",
+        "industry": "Other",
+        "date": "2022",
+        "total_laid_off": 138
+    },
+    {
+        "country": "United States",
+        "location": "London",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 24
+    },
+    {
+        "country": "United States",
+        "location": "Los Angeles",
+        "industry": "Aerospace",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Los Angeles",
+        "industry": "Construction",
+        "date": "2020",
+        "total_laid_off": 180
+    },
+    {
+        "country": "United States",
+        "location": "Los Angeles",
+        "industry": "Consumer",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Los Angeles",
+        "industry": "Consumer",
+        "date": "2022",
+        "total_laid_off": 1492
+    },
+    {
+        "country": "United States",
+        "location": "Los Angeles",
+        "industry": "Crypto",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Los Angeles",
+        "industry": "Data",
+        "date": "2020",
+        "total_laid_off": 20
+    },
+    {
+        "country": "United States",
+        "location": "Los Angeles",
+        "industry": "Finance",
+        "date": "2020",
+        "total_laid_off": 51
+    },
+    {
+        "country": "United States",
+        "location": "Los Angeles",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 432
+    },
+    {
+        "country": "United States",
+        "location": "Los Angeles",
+        "industry": "Fitness",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Los Angeles",
+        "industry": "Fitness",
+        "date": "2022",
+        "total_laid_off": 150
+    },
+    {
+        "country": "United States",
+        "location": "Los Angeles",
+        "industry": "Food",
+        "date": "2020",
+        "total_laid_off": 210
+    },
+    {
+        "country": "United States",
+        "location": "Los Angeles",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 380
+    },
+    {
+        "country": "United States",
+        "location": "Los Angeles",
+        "industry": "Healthcare",
+        "date": "2020",
+        "total_laid_off": 117
+    },
+    {
+        "country": "United States",
+        "location": "Los Angeles",
+        "industry": "Healthcare",
+        "date": "2022",
+        "total_laid_off": 589
+    },
+    {
+        "country": "United States",
+        "location": "Los Angeles",
+        "industry": "Infrastructure",
+        "date": "2021",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Los Angeles",
+        "industry": "Infrastructure",
+        "date": "2022",
+        "total_laid_off": 50
+    },
+    {
+        "country": "United States",
+        "location": "Los Angeles",
+        "industry": "Legal",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Los Angeles",
+        "industry": "Marketing",
+        "date": "2020",
+        "total_laid_off": 196
+    },
+    {
+        "country": "United States",
+        "location": "Los Angeles",
+        "industry": "Marketing",
+        "date": "2022",
+        "total_laid_off": 124
+    },
+    {
+        "country": "United States",
+        "location": "Los Angeles",
+        "industry": "Media",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Los Angeles",
+        "industry": "Media",
+        "date": "2022",
+        "total_laid_off": 56
+    },
+    {
+        "country": "United States",
+        "location": "Los Angeles",
+        "industry": "Other",
+        "date": "2022",
+        "total_laid_off": 175
+    },
+    {
+        "country": "United States",
+        "location": "Los Angeles",
+        "industry": "Product",
+        "date": "2020",
+        "total_laid_off": 39
+    },
+    {
+        "country": "United States",
+        "location": "Los Angeles",
+        "industry": "Real Estate",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Los Angeles",
+        "industry": "Recruiting",
+        "date": "2020",
+        "total_laid_off": 400
+    },
+    {
+        "country": "United States",
+        "location": "Los Angeles",
+        "industry": "Retail",
+        "date": "2020",
+        "total_laid_off": 40
+    },
+    {
+        "country": "United States",
+        "location": "Los Angeles",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Los Angeles",
+        "industry": "Sales",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Los Angeles",
+        "industry": "Support",
+        "date": "2022",
+        "total_laid_off": 52
+    },
+    {
+        "country": "United States",
+        "location": "Los Angeles",
+        "industry": "Transportation",
+        "date": "2020",
+        "total_laid_off": 690
+    },
+    {
+        "country": "United States",
+        "location": "Los Angeles",
+        "industry": "Transportation",
+        "date": "2022",
+        "total_laid_off": 307
+    },
+    {
+        "country": "United States",
+        "location": "Los Angeles",
+        "industry": "Travel",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Los Angeles",
+        "industry": "Travel",
+        "date": "2022",
+        "total_laid_off": 80
+    },
+    {
+        "country": "United States",
+        "location": "Los Gatos",
+        "industry": "Tech",
+        "date": "2022",
+        "total_laid_off": 300
+    },
+    {
+        "country": "United States",
+        "location": "Louisville",
+        "industry": "Healthcare",
+        "date": "2022",
+        "total_laid_off": 52
+    },
+    {
+        "country": "United States",
+        "location": "Madison",
+        "industry": "Healthcare",
+        "date": "2020",
+        "total_laid_off": 44
+    },
+    {
+        "country": "United States",
+        "location": "Melbourne",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Menlo Park",
+        "industry": "Tech",
+        "date": "2022",
+        "total_laid_off": 11700
+    },
+    {
+        "country": "United States",
+        "location": "Mexico City",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 180
+    },
+    {
+        "country": "United States",
+        "location": "Miami",
+        "industry": "Consumer",
+        "date": "2020",
+        "total_laid_off": 1000
+    },
+    {
+        "country": "United States",
+        "location": "Miami",
+        "industry": "Consumer",
+        "date": "2022",
+        "total_laid_off": 90
+    },
+    {
+        "country": "United States",
+        "location": "Miami",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Miami",
+        "industry": "Healthcare",
+        "date": "2022",
+        "total_laid_off": 149
+    },
+    {
+        "country": "United States",
+        "location": "Miami",
+        "industry": "Other",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Miami",
+        "industry": "Sales",
+        "date": "2022",
+        "total_laid_off": 37
+    },
+    {
+        "country": "United States",
+        "location": "Miami",
+        "industry": "Security",
+        "date": "2022",
+        "total_laid_off": 130
+    },
+    {
+        "country": "United States",
+        "location": "Miami",
+        "industry": "Transportation",
+        "date": "2022",
+        "total_laid_off": 750
+    },
+    {
+        "country": "United States",
+        "location": "Milwaukee",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Milwaukee",
+        "industry": "Travel",
+        "date": "2020",
+        "total_laid_off": 35
+    },
+    {
+        "country": "United States",
+        "location": "Minneapolis",
+        "industry": "Data",
+        "date": "2020",
+        "total_laid_off": 25
+    },
+    {
+        "country": "United States",
+        "location": "Minneapolis",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Minneapolis",
+        "industry": "Food",
+        "date": "2020",
+        "total_laid_off": 87
+    },
+    {
+        "country": "United States",
+        "location": "Minneapolis",
+        "industry": "HR",
+        "date": "2020",
+        "total_laid_off": 55
+    },
+    {
+        "country": "United States",
+        "location": "Minneapolis",
+        "industry": "Marketing",
+        "date": "2020",
+        "total_laid_off": 40
+    },
+    {
+        "country": "United States",
+        "location": "Minneapolis",
+        "industry": "Media",
+        "date": "2020",
+        "total_laid_off": 5
+    },
+    {
+        "country": "United States",
+        "location": "Minneapolis",
+        "industry": "Security",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Missoula",
+        "industry": "Marketing",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Missoula",
+        "industry": "Other",
+        "date": "2020",
+        "total_laid_off": 30
+    },
+    {
+        "country": "United States",
+        "location": "Nashua",
+        "industry": "Infrastructure",
+        "date": "2022",
+        "total_laid_off": 60
+    },
+    {
+        "country": "United States",
+        "location": "Nashville",
+        "industry": "Consumer",
+        "date": "2020",
+        "total_laid_off": 130
+    },
+    {
+        "country": "United States",
+        "location": "Nashville",
+        "industry": "Healthcare",
+        "date": "2020",
+        "total_laid_off": 154
+    },
+    {
+        "country": "United States",
+        "location": "New Delhi",
+        "industry": "HR",
+        "date": "2022",
+        "total_laid_off": 13
+    },
+    {
+        "country": "United States",
+        "location": "New Haven",
+        "industry": "Healthcare",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "New Orleans",
+        "industry": "Construction",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "New York",
+        "industry": "Tech",
+        "date": "2021",
+        "total_laid_off": 900
+    },
+    {
+        "country": "United States",
+        "location": "New York",
+        "industry": "Tech",
+        "date": "2022",
+        "total_laid_off": 3950
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Consumer",
+        "date": "2020",
+        "total_laid_off": 186
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Consumer",
+        "date": "2021",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Consumer",
+        "date": "2022",
+        "total_laid_off": 238
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Crypto",
+        "date": "2020",
+        "total_laid_off": 91
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Crypto",
+        "date": "2022",
+        "total_laid_off": 763
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Data",
+        "date": "2020",
+        "total_laid_off": 80
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Data",
+        "date": "2022",
+        "total_laid_off": 661
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Education",
+        "date": "2020",
+        "total_laid_off": 100
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Education",
+        "date": "2022",
+        "total_laid_off": 63
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Finance",
+        "date": "2020",
+        "total_laid_off": 69
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 535
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Fitness",
+        "date": "2020",
+        "total_laid_off": 938
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Fitness",
+        "date": "2022",
+        "total_laid_off": 4084
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Food",
+        "date": "2020",
+        "total_laid_off": 133
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 1281
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "HR",
+        "date": "2020",
+        "total_laid_off": 110
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Healthcare",
+        "date": "2020",
+        "total_laid_off": 70
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Healthcare",
+        "date": "2022",
+        "total_laid_off": 1258
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Infrastructure",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Logistics",
+        "date": "2020",
+        "total_laid_off": 24
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Logistics",
+        "date": "2022",
+        "total_laid_off": 120
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Marketing",
+        "date": "2020",
+        "total_laid_off": 277
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Marketing",
+        "date": "2022",
+        "total_laid_off": 624
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Media",
+        "date": "2020",
+        "total_laid_off": 258
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Media",
+        "date": "2021",
+        "total_laid_off": 47
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Media",
+        "date": "2022",
+        "total_laid_off": 203
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Other",
+        "date": "2020",
+        "total_laid_off": 50
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Other",
+        "date": "2022",
+        "total_laid_off": 201
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Product",
+        "date": "2020",
+        "total_laid_off": 18
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Product",
+        "date": "2021",
+        "total_laid_off": 22
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Product",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Real Estate",
+        "date": "2020",
+        "total_laid_off": 1291
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Real Estate",
+        "date": "2021",
+        "total_laid_off": 900
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Real Estate",
+        "date": "2022",
+        "total_laid_off": 4409
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Recruiting",
+        "date": "2020",
+        "total_laid_off": 295
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Recruiting",
+        "date": "2021",
+        "total_laid_off": 13
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Retail",
+        "date": "2020",
+        "total_laid_off": 391
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Retail",
+        "date": "2021",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 217
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Sales",
+        "date": "2022",
+        "total_laid_off": 58
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Security",
+        "date": "2020",
+        "total_laid_off": 60
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Security",
+        "date": "2022",
+        "total_laid_off": 555
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Support",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Support",
+        "date": "2022",
+        "total_laid_off": 243
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Transportation",
+        "date": "2020",
+        "total_laid_off": 500
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Transportation",
+        "date": "2022",
+        "total_laid_off": 607
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "industry": "Travel",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Norwalk",
+        "industry": "Infrastructure",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Philadelphia",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 2340
+    },
+    {
+        "country": "United States",
+        "location": "Phoenix",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 329
+    },
+    {
+        "country": "United States",
+        "location": "Phoenix",
+        "industry": "Infrastructure",
+        "date": "2022",
+        "total_laid_off": 95
+    },
+    {
+        "country": "United States",
+        "location": "Phoenix",
+        "industry": "Other",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Phoenix",
+        "industry": "Real Estate",
+        "date": "2022",
+        "total_laid_off": 113
+    },
+    {
+        "country": "United States",
+        "location": "Phoenix",
+        "industry": "Recruiting",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Phoenix",
+        "industry": "Retail",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Phoenix",
+        "industry": "Security",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Phoenix",
+        "industry": "Transportation",
+        "date": "2022",
+        "total_laid_off": 4000
+    },
+    {
+        "country": "United States",
+        "location": "Pittsburgh",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 100
+    },
+    {
+        "country": "United States",
+        "location": "Pittsburgh",
+        "industry": "Logistics",
+        "date": "2022",
+        "total_laid_off": 90
+    },
+    {
+        "country": "United States",
+        "location": "Pittsburgh",
+        "industry": "Transportation",
+        "date": "2022",
+        "total_laid_off": 323
+    },
+    {
+        "country": "United States",
+        "location": "Portland",
+        "industry": "Education",
+        "date": "2021",
+        "total_laid_off": 41
+    },
+    {
+        "country": "United States",
+        "location": "Portland",
+        "industry": "Finance",
+        "date": "2020",
+        "total_laid_off": 50
+    },
+    {
+        "country": "United States",
+        "location": "Portland",
+        "industry": "Finance",
+        "date": "2021",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Portland",
+        "industry": "Healthcare",
+        "date": "2022",
+        "total_laid_off": 40
+    },
+    {
+        "country": "United States",
+        "location": "Portland",
+        "industry": "Infrastructure",
+        "date": "2020",
+        "total_laid_off": 70
+    },
+    {
+        "country": "United States",
+        "location": "Portland",
+        "industry": "Infrastructure",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Portland",
+        "industry": "Marketing",
+        "date": "2020",
+        "total_laid_off": 20
+    },
+    {
+        "country": "United States",
+        "location": "Portland",
+        "industry": "Other",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Portland",
+        "industry": "Product",
+        "date": "2020",
+        "total_laid_off": 12
+    },
+    {
+        "country": "United States",
+        "location": "Portland",
+        "industry": "Real Estate",
+        "date": "2020",
+        "total_laid_off": 24
+    },
+    {
+        "country": "United States",
+        "location": "Portland",
+        "industry": "Security",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Portland",
+        "industry": "Support",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Portland",
+        "industry": "Transportation",
+        "date": "2020",
+        "total_laid_off": 28
+    },
+    {
+        "country": "United States",
+        "location": "Portland",
+        "industry": "Travel",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Raleigh",
+        "industry": "Other",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Raleigh",
+        "industry": "Other",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Raleigh",
+        "industry": "Product",
+        "date": "2022",
+        "total_laid_off": 45
+    },
+    {
+        "country": "United States",
+        "location": "Redmond",
+        "industry": "Tech",
+        "date": "2022",
+        "total_laid_off": 1000
+    },
+    {
+        "country": "United States",
+        "location": "Reno",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 69
+    },
+    {
+        "country": "United States",
+        "location": "Richmond",
+        "industry": "HR",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Aerospace",
+        "date": "2020",
+        "total_laid_off": 110
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Aerospace",
+        "date": "2022",
+        "total_laid_off": 100
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Construction",
+        "date": "2020",
+        "total_laid_off": 656
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Construction",
+        "date": "2021",
+        "total_laid_off": 2434
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Consumer",
+        "date": "2020",
+        "total_laid_off": 3880
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Consumer",
+        "date": "2021",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Consumer",
+        "date": "2022",
+        "total_laid_off": 15648
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Crypto",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Crypto",
+        "date": "2022",
+        "total_laid_off": 2314
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Data",
+        "date": "2020",
+        "total_laid_off": 397
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Data",
+        "date": "2021",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Data",
+        "date": "2022",
+        "total_laid_off": 88
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Education",
+        "date": "2020",
+        "total_laid_off": 77
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Education",
+        "date": "2021",
+        "total_laid_off": 102
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Education",
+        "date": "2022",
+        "total_laid_off": 776
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Energy",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Energy",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Finance",
+        "date": "2020",
+        "total_laid_off": 2143
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Finance",
+        "date": "2021",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 5691
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Fitness",
+        "date": "2022",
+        "total_laid_off": 262
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Food",
+        "date": "2020",
+        "total_laid_off": 240
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Food",
+        "date": "2021",
+        "total_laid_off": 2057
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 2190
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "HR",
+        "date": "2020",
+        "total_laid_off": 326
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "HR",
+        "date": "2022",
+        "total_laid_off": 266
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Healthcare",
+        "date": "2020",
+        "total_laid_off": 182
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Healthcare",
+        "date": "2022",
+        "total_laid_off": 2985
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Infrastructure",
+        "date": "2020",
+        "total_laid_off": 121
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Infrastructure",
+        "date": "2021",
+        "total_laid_off": 160
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Infrastructure",
+        "date": "2022",
+        "total_laid_off": 4631
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Legal",
+        "date": "2020",
+        "total_laid_off": 45
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Logistics",
+        "date": "2020",
+        "total_laid_off": 729
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Logistics",
+        "date": "2022",
+        "total_laid_off": 60
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Marketing",
+        "date": "2020",
+        "total_laid_off": 573
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Marketing",
+        "date": "2022",
+        "total_laid_off": 861
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Media",
+        "date": "2020",
+        "total_laid_off": 163
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Media",
+        "date": "2021",
+        "total_laid_off": 36
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Media",
+        "date": "2022",
+        "total_laid_off": 1077
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Other",
+        "date": "2020",
+        "total_laid_off": 273
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Other",
+        "date": "2021",
+        "total_laid_off": 435
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Other",
+        "date": "2022",
+        "total_laid_off": 1746
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Product",
+        "date": "2020",
+        "total_laid_off": 6
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Product",
+        "date": "2022",
+        "total_laid_off": 653
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Real Estate",
+        "date": "2020",
+        "total_laid_off": 1194
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Real Estate",
+        "date": "2022",
+        "total_laid_off": 1555
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Recruiting",
+        "date": "2020",
+        "total_laid_off": 1511
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Recruiting",
+        "date": "2022",
+        "total_laid_off": 123
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Retail",
+        "date": "2020",
+        "total_laid_off": 3174
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 1115
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Sales",
+        "date": "2020",
+        "total_laid_off": 1000
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Sales",
+        "date": "2022",
+        "total_laid_off": 2014
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Security",
+        "date": "2020",
+        "total_laid_off": 128
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Security",
+        "date": "2022",
+        "total_laid_off": 480
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Support",
+        "date": "2020",
+        "total_laid_off": 39
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Support",
+        "date": "2022",
+        "total_laid_off": 743
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Tech",
+        "date": "2022",
+        "total_laid_off": 4800
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Transportation",
+        "date": "2020",
+        "total_laid_off": 8690
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Transportation",
+        "date": "2022",
+        "total_laid_off": 1470
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Travel",
+        "date": "2020",
+        "total_laid_off": 2676
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "industry": "Travel",
+        "date": "2022",
+        "total_laid_off": 335
+    },
+    {
+        "country": "United States",
+        "location": "Sacramento",
+        "industry": "Marketing",
+        "date": "2020",
+        "total_laid_off": 5
+    },
+    {
+        "country": "United States",
+        "location": "Sacramento",
+        "industry": "Marketing",
+        "date": "2022",
+        "total_laid_off": 60
+    },
+    {
+        "country": "United States",
+        "location": "Sacramento",
+        "industry": "Real Estate",
+        "date": "2020",
+        "total_laid_off": 50
+    },
+    {
+        "country": "United States",
+        "location": "Salt Lake City",
+        "industry": "Crypto",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Salt Lake City",
+        "industry": "Data",
+        "date": "2020",
+        "total_laid_off": 90
+    },
+    {
+        "country": "United States",
+        "location": "Salt Lake City",
+        "industry": "Education",
+        "date": "2020",
+        "total_laid_off": 150
+    },
+    {
+        "country": "United States",
+        "location": "Salt Lake City",
+        "industry": "Education",
+        "date": "2022",
+        "total_laid_off": 412
+    },
+    {
+        "country": "United States",
+        "location": "Salt Lake City",
+        "industry": "Finance",
+        "date": "2020",
+        "total_laid_off": 30
+    },
+    {
+        "country": "United States",
+        "location": "Salt Lake City",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Salt Lake City",
+        "industry": "Food",
+        "date": "2020",
+        "total_laid_off": 5
+    },
+    {
+        "country": "United States",
+        "location": "Salt Lake City",
+        "industry": "Legal",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Salt Lake City",
+        "industry": "Logistics",
+        "date": "2020",
+        "total_laid_off": 75
+    },
+    {
+        "country": "United States",
+        "location": "Salt Lake City",
+        "industry": "Marketing",
+        "date": "2020",
+        "total_laid_off": 230
+    },
+    {
+        "country": "United States",
+        "location": "Salt Lake City",
+        "industry": "Real Estate",
+        "date": "2022",
+        "total_laid_off": 159
+    },
+    {
+        "country": "United States",
+        "location": "Salt Lake City",
+        "industry": "Retail",
+        "date": "2020",
+        "total_laid_off": 12
+    },
+    {
+        "country": "United States",
+        "location": "Salt Lake City",
+        "industry": "Security",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Salt Lake City",
+        "industry": "Travel",
+        "date": "2020",
+        "total_laid_off": 45
+    },
+    {
+        "country": "United States",
+        "location": "San Diego",
+        "industry": "Construction",
+        "date": "2020",
+        "total_laid_off": 60
+    },
+    {
+        "country": "United States",
+        "location": "San Diego",
+        "industry": "Healthcare",
+        "date": "2022",
+        "total_laid_off": 670
+    },
+    {
+        "country": "United States",
+        "location": "San Diego",
+        "industry": "Marketing",
+        "date": "2020",
+        "total_laid_off": 25
+    },
+    {
+        "country": "United States",
+        "location": "San Diego",
+        "industry": "Other",
+        "date": "2022",
+        "total_laid_off": 60
+    },
+    {
+        "country": "United States",
+        "location": "San Diego",
+        "industry": "Transportation",
+        "date": "2022",
+        "total_laid_off": 350
+    },
+    {
+        "country": "United States",
+        "location": "San Luis Obispo",
+        "industry": "Fitness",
+        "date": "2020",
+        "total_laid_off": 700
+    },
+    {
+        "country": "United States",
+        "location": "San Luis Obispo",
+        "industry": "Fitness",
+        "date": "2022",
+        "total_laid_off": 400
+    },
+    {
+        "country": "United States",
+        "location": "Santa Barbara",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Santa Fe",
+        "industry": "Data",
+        "date": "2020",
+        "total_laid_off": 12
+    },
+    {
+        "country": "United States",
+        "location": "Santa Fe",
+        "industry": "Media",
+        "date": "2020",
+        "total_laid_off": 201
+    },
+    {
+        "country": "United States",
+        "location": "Sao Paulo",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 100
+    },
+    {
+        "country": "United States",
+        "location": "Seattle",
+        "industry": "Consumer",
+        "date": "2020",
+        "total_laid_off": 194
+    },
+    {
+        "country": "United States",
+        "location": "Seattle",
+        "industry": "Crypto",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Seattle",
+        "industry": "Data",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Seattle",
+        "industry": "Data",
+        "date": "2021",
+        "total_laid_off": 70
+    },
+    {
+        "country": "United States",
+        "location": "Seattle",
+        "industry": "Data",
+        "date": "2022",
+        "total_laid_off": 80
+    },
+    {
+        "country": "United States",
+        "location": "Seattle",
+        "industry": "Education",
+        "date": "2020",
+        "total_laid_off": 7
+    },
+    {
+        "country": "United States",
+        "location": "Seattle",
+        "industry": "Education",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Seattle",
+        "industry": "Finance",
+        "date": "2020",
+        "total_laid_off": 40
+    },
+    {
+        "country": "United States",
+        "location": "Seattle",
+        "industry": "Fitness",
+        "date": "2020",
+        "total_laid_off": 17
+    },
+    {
+        "country": "United States",
+        "location": "Seattle",
+        "industry": "Food",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Seattle",
+        "industry": "Food",
+        "date": "2022",
+        "total_laid_off": 43
+    },
+    {
+        "country": "United States",
+        "location": "Seattle",
+        "industry": "Healthcare",
+        "date": "2020",
+        "total_laid_off": 40
+    },
+    {
+        "country": "United States",
+        "location": "Seattle",
+        "industry": "Healthcare",
+        "date": "2022",
+        "total_laid_off": 143
+    },
+    {
+        "country": "United States",
+        "location": "Seattle",
+        "industry": "Infrastructure",
+        "date": "2020",
+        "total_laid_off": 6
+    },
+    {
+        "country": "United States",
+        "location": "Seattle",
+        "industry": "Logistics",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Seattle",
+        "industry": "Logistics",
+        "date": "2022",
+        "total_laid_off": 90
+    },
+    {
+        "country": "United States",
+        "location": "Seattle",
+        "industry": "Marketing",
+        "date": "2020",
+        "total_laid_off": 32
+    },
+    {
+        "country": "United States",
+        "location": "Seattle",
+        "industry": "Marketing",
+        "date": "2022",
+        "total_laid_off": 13
+    },
+    {
+        "country": "United States",
+        "location": "Seattle",
+        "industry": "Media",
+        "date": "2020",
+        "total_laid_off": 286
+    },
+    {
+        "country": "United States",
+        "location": "Seattle",
+        "industry": "Other",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Seattle",
+        "industry": "Real Estate",
+        "date": "2020",
+        "total_laid_off": 288
+    },
+    {
+        "country": "United States",
+        "location": "Seattle",
+        "industry": "Real Estate",
+        "date": "2021",
+        "total_laid_off": 2000
+    },
+    {
+        "country": "United States",
+        "location": "Seattle",
+        "industry": "Real Estate",
+        "date": "2022",
+        "total_laid_off": 2132
+    },
+    {
+        "country": "United States",
+        "location": "Seattle",
+        "industry": "Recruiting",
+        "date": "2020",
+        "total_laid_off": 30
+    },
+    {
+        "country": "United States",
+        "location": "Seattle",
+        "industry": "Retail",
+        "date": "2020",
+        "total_laid_off": 91
+    },
+    {
+        "country": "United States",
+        "location": "Seattle",
+        "industry": "Retail",
+        "date": "2022",
+        "total_laid_off": 10096
+    },
+    {
+        "country": "United States",
+        "location": "Seattle",
+        "industry": "Sales",
+        "date": "2022",
+        "total_laid_off": 60
+    },
+    {
+        "country": "United States",
+        "location": "Seattle",
+        "industry": "Security",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Seattle",
+        "industry": "Security",
+        "date": "2021",
+        "total_laid_off": 30
+    },
+    {
+        "country": "United States",
+        "location": "Seattle",
+        "industry": "Security",
+        "date": "2022",
+        "total_laid_off": 100
+    },
+    {
+        "country": "United States",
+        "location": "Seattle",
+        "industry": "Tech",
+        "date": "2022",
+        "total_laid_off": 100000
+    },
+    {
+        "country": "United States",
+        "location": "Seattle",
+        "industry": "Transportation",
+        "date": "2022",
+        "total_laid_off": 163
+    },
+    {
+        "country": "United States",
+        "location": "Selangor",
+        "industry": "Consumer",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Spokane",
+        "industry": "Security",
+        "date": "2022",
+        "total_laid_off": 22
+    },
+    {
+        "country": "United States",
+        "location": "Spokane",
+        "industry": "Travel",
+        "date": "2020",
+        "total_laid_off": 221
+    },
+    {
+        "country": "United States",
+        "location": "St. Louis",
+        "industry": "Education",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "St. Louis",
+        "industry": "Real Estate",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "St. Louis",
+        "industry": "Real Estate",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "St. Louis",
+        "industry": "Sales",
+        "date": "2022",
+        "total_laid_off": 65
+    },
+    {
+        "country": "United States",
+        "location": "Stamford",
+        "industry": "Crypto",
+        "date": "2022",
+        "total_laid_off": 10
+    },
+    {
+        "country": "United States",
+        "location": "Stamford",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 44
+    },
+    {
+        "country": "United States",
+        "location": "Stamford",
+        "industry": "Healthcare",
+        "date": "2022",
+        "total_laid_off": 750
+    },
+    {
+        "country": "United States",
+        "location": "Stamford",
+        "industry": "Travel",
+        "date": "2020",
+        "total_laid_off": 160
+    },
+    {
+        "country": "United States",
+        "location": "Stockholm",
+        "industry": "Transportation",
+        "date": "2022",
+        "total_laid_off": 165
+    },
+    {
+        "country": "United States",
+        "location": "Sydney",
+        "industry": "Healthcare",
+        "date": "2022",
+        "total_laid_off": 50
+    },
+    {
+        "country": "United States",
+        "location": "Tampa Bay",
+        "industry": "HR",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Tel Aviv",
+        "industry": "Data",
+        "date": "2022",
+        "total_laid_off": 35
+    },
+    {
+        "country": "United States",
+        "location": "Toronto",
+        "industry": "Finance",
+        "date": "2020",
+        "total_laid_off": 5
+    },
+    {
+        "country": "United States",
+        "location": "Vancouver",
+        "industry": "Crypto",
+        "date": "2022",
+        "total_laid_off": 134
+    },
+    {
+        "country": "United States",
+        "location": "Vancouver",
+        "industry": "HR",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Vancouver",
+        "industry": "Healthcare",
+        "date": "2022",
+        "total_laid_off": 40
+    },
+    {
+        "country": "United States",
+        "location": "Washington D.C.",
+        "industry": "Data",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Washington D.C.",
+        "industry": "Education",
+        "date": "2022",
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Washington D.C.",
+        "industry": "Finance",
+        "date": "2022",
+        "total_laid_off": 15
+    },
+    {
+        "country": "United States",
+        "location": "Washington D.C.",
+        "industry": "Healthcare",
+        "date": "2022",
+        "total_laid_off": 95
+    },
+    {
+        "country": "United States",
+        "location": "Washington D.C.",
+        "industry": "Marketing",
+        "date": "2020",
+        "total_laid_off": 400
+    },
+    {
+        "country": "United States",
+        "location": "Washington D.C.",
+        "industry": "Media",
+        "date": "2020",
+        "total_laid_off": 43
+    },
+    {
+        "country": "United States",
+        "location": "Washington D.C.",
+        "industry": "Media",
+        "date": "2022",
+        "total_laid_off": 39
+    },
+    {
+        "country": "United States",
+        "location": "Washington D.C.",
+        "industry": "Security",
+        "date": "2022",
+        "total_laid_off": 275
+    },
+    {
+        "country": "United States",
+        "location": "Washington D.C.",
+        "industry": "Travel",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Uruguay",
+        "location": "Montevideo",
+        "industry": "Transportation",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Vietnam",
+        "location": "Hanoi",
+        "industry": "Fitness",
+        "date": "2020",
+        "total_laid_off": 0
+    },
+    {
+        "country": "Vietnam",
+        "location": "Ho Chi Minh City",
+        "industry": "Real Estate",
+        "date": "2022",
+        "total_laid_off": 0
+    }
+]

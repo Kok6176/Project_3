@@ -1,0 +1,42 @@
+company,location,industry,founded,total_laid_off,month,year,m,date,country
+Microsoft,Redmond,Tech,1975,1000,October,2022,10,2022-10-15,United States
+Twitter,SF Bay Area,Tech,2006,3700,November,2022,11,2022-11-15,United States
+Meta,Menlo Park,Tech,2004,11000,November,2022,11,2022-11-15,United States
+Netflix,Los Gatos,Tech,1997,300,June,2022,6,2022-06-15,United States
+Udaan,Bangalore,Tech,2016,350,November,2022,11,2022-11-15,India
+Unacademy,Bangalore,Tech,2015,350,November,2022,11,2022-11-15,India
+Clear,New York,Tech,2011,200,September,2022,9,2022-09-15,United States
+Amazon,Seattle,Tech,1994,100000,July,2022,7,2022-07-15,United States
+Walmart,Bentonville,Tech,1962,200,August,2022,8,2022-08-15,United States
+Lido Learning,Mumbai,Tech,2019,200,February,2022,2,2022-02-15,India
+BlueStacks,Campbell,Tech,2011,150,July,2022,7,2022-07-15,United States
+TikTok,Culver city,Tech,2016,100,July,2022,7,2022-07-15,United States
+Vedantu,Bangalore,Tech,2011,100,July,2022,7,2022-07-15,India
+Cars24,Gurgoan,Tech,2015,600,May,2022,5,2022-05-15,India
+Meesho,Bangalore,Tech,2015,300,August,2022,8,2022-08-15,India
+BYJU'S,Bangalore,Tech,2011,2500,October,2022,10,2022-10-15,India
+Better.Com,New York,Tech,2016,250,August,2022,8,2022-08-15,United States
+Blinkit,Gurgoan,Tech,2013,1600,March,2022,3,2022-03-15,India
+OkCredit,Bangalore,Tech,2017,40,February,2022,2,2022-02-15,India
+Furlenco,Bangalore,Tech,2012,180,March,2022,3,2022-03-15,India
+Trell,Bangalore,Tech,2016,300,March,2022,3,2022-03-15,India
+Ford,DearBorn,Tech,1903,3000,August,2022,8,2022-08-15,United States
+Noom,New York,Tech,2008,500,October,2022,10,2022-10-15,United States
+Robinhood,Menlo Park,Tech,2013,700,August,2022,8,2022-08-15,United States
+Nestlé,Vevey,Tech,1866,104,March,2022,3,2022-03-15,Switzerland
+Tesco,Welwyn Garden City,Tech,1919,1600,February,2022,2,2022-02-15,United Kingdom
+Unilever,London,Tech,1929,1500,January,2022,1,2022-01-15,United Kingdom
+Mfine,Bangalore,Tech,2017,500,May,2022,5,2022-05-15,India
+Klarna,Stockholm,Tech,2005,700,May,2022,5,2022-05-15,Sweden
+Rupeek,Bangalore,Tech,2015,50,September,2022,9,2022-09-15,India
+Coinbase,SF Bay Area,Tech,2012,1100,June,2022,6,2022-06-15,United States
+CityMall,Gurgoan,Tech,2019,191,June,2022,6,2022-06-15,India
+Tesla,Austin,Tech,2003,200,June,2022,6,2022-06-15,United States
+Cineplex,Toronto,Tech,1999,5000,January,2022,1,2022-01-15,Canada
+Primark,Dublin,Tech,1969,400,January,2022,1,2022-01-15,Ireland
+Royal Mail,London,Tech,1516,700,January,2022,1,2022-01-15,United Kingdom
+DiDi,Beijing,Tech,2012,3000,February,2022,2,2022-02-15,China
+Better.Com,New York,Tech,2016,900,December,2021,12,2021-12-15,United States
+Better.Com,New York,Tech,2016,2000,March,2022,3,2022-03-15,United States
+Better.Com,New York,Tech,2016,1000,April,2022,4,2022-04-15,United States
+Shopify,Ottawa,Tech,2006,1000,July,2022,7,2022-07-15,Canada

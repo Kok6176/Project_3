@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Layoff Dashboard</title>
+        <link rel="stylesheet" href="/static/css/bootstrap.min.css">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+      </head>
+<body>
+  
+    <div class="container">
+        <div class="row">
+          <div class="col-md-12 jumbotron text-center">
+            <img src="/static/images/GT Tech Nubys logo.png" alt="logo" />            
+            <h1>Layoff Dashboard - Line Chart</h1>
+            <p>Use the interactive chart below to explore the dataset</p>
+            <p><a href="{{ url_for('add_record', message = request.args.get('message')) }}">Back to Visualization menu</a></p>            
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-4">
+            <div class="well">
+              <h5>Select Country</h5>
+              <select id="selDatasetC" onchange="optionChanged()"></select>
+            </div>
+
+          </div>
+          <div class="col-md-4">
+            <div class="well">
+              <h5>Select Industry</h5>
+              <select id="selDatasetI" onchange="optionChanged()"></select>
+            </div>
+
+          </div>
+          <div class="col-md-4">
+            <div class="well">
+              <h5>Select Year</h5>
+              <select id="selDatasetY" onchange="optionChanged()"></select>
+            </div>
+
+          </div>
+          <div class="row">
+            <!-- <div class="col-md-9"> -->
+              <canvas id="lineChart" width="900" height="400"></canvas>
+            <!-- </div> -->
+          </div>
+
+      </div>
+    
+      <script src="{{url_for('static',filename='d3.v5.min.js')}}"></script>
+      <!-- <script src="{{url_for('static',filename='plotly-latest.min.js')}}"></script> -->
+      <script>
+        const data = "{{url_for('static',filename='layoff_line_data1.json')}}";
+      </script> 
+      <script src="{{url_for('static',filename='linechart.js')}}"></script>
+
+</body>
+</html>

@@ -1,0 +1,1748 @@
+[
+    {
+        "country": "Argentina",
+        "location": "Buenos Aires",
+        "coordinates": [
+            -34.60839711,
+            -58.43330549
+        ],
+        "total_laid_off": 323
+    },
+    {
+        "country": "Australia",
+        "location": "Brisbane",
+        "coordinates": [
+            -27.47937432,
+            153.0329909
+        ],
+        "total_laid_off": 194
+    },
+    {
+        "country": "Australia",
+        "location": "Melbourne",
+        "coordinates": [
+            -37.89324894,
+            145.0859886
+        ],
+        "total_laid_off": 386
+    },
+    {
+        "country": "Australia",
+        "location": "Sydney",
+        "coordinates": [
+            -33.87434482,
+            151.1433471
+        ],
+        "total_laid_off": 635
+    },
+    {
+        "country": "Austria",
+        "location": "Vienna",
+        "coordinates": [
+            48.19654959,
+            16.35394133
+        ],
+        "total_laid_off": 570
+    },
+    {
+        "country": "Bahrain",
+        "location": "Manama",
+        "coordinates": [
+            26.22245462,
+            50.59208117
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "Belgium",
+        "location": "Brussels",
+        "coordinates": [
+            50.84513221,
+            4.356189435
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "Brazil",
+        "location": "Belo Horizonte",
+        "coordinates": [
+            -19.92562092,
+            -43.9788151
+        ],
+        "total_laid_off": 494
+    },
+    {
+        "country": "Brazil",
+        "location": "Blumenau",
+        "coordinates": [
+            -26.91574608,
+            -49.07988547
+        ],
+        "total_laid_off": 33
+    },
+    {
+        "country": "Brazil",
+        "location": "Curitiba",
+        "coordinates": [
+            -25.46219713,
+            -49.27675988
+        ],
+        "total_laid_off": 462
+    },
+    {
+        "country": "Brazil",
+        "location": "Florian\u00f3polis",
+        "coordinates": [
+            -27.59322413,
+            -48.53210846
+        ],
+        "total_laid_off": 70
+    },
+    {
+        "country": "Brazil",
+        "location": "Joinville",
+        "coordinates": [
+            -26.28161408,
+            -48.91210126
+        ],
+        "total_laid_off": 191
+    },
+    {
+        "country": "Brazil",
+        "location": "Porto Alegre",
+        "coordinates": [
+            -30.06304718,
+            -51.224528
+        ],
+        "total_laid_off": 50
+    },
+    {
+        "country": "Brazil",
+        "location": "Sao Paulo",
+        "coordinates": [
+            -23.59912955,
+            -46.64065048
+        ],
+        "total_laid_off": 6810
+    },
+    {
+        "country": "Bulgaria",
+        "location": "Sofia",
+        "coordinates": [
+            42.69938399,
+            23.32393947
+        ],
+        "total_laid_off": 120
+    },
+    {
+        "country": "Canada",
+        "location": "Calgary",
+        "coordinates": [
+            51.02383332,
+            -114.0370479
+        ],
+        "total_laid_off": 70
+    },
+    {
+        "country": "Canada",
+        "location": "Ferdericton",
+        "coordinates": [
+            45.98737653,
+            -66.66076526
+        ],
+        "total_laid_off": 57
+    },
+    {
+        "country": "Canada",
+        "location": "Montreal",
+        "coordinates": [
+            45.50496791,
+            -73.62812998
+        ],
+        "total_laid_off": 659
+    },
+    {
+        "country": "Canada",
+        "location": "Ottawa",
+        "coordinates": [
+            45.31642474,
+            -75.78937839
+        ],
+        "total_laid_off": 2150
+    },
+    {
+        "country": "Canada",
+        "location": "Quebec",
+        "coordinates": [
+            46.82768053,
+            -71.21585286
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "Canada",
+        "location": "Saskatoon",
+        "coordinates": [
+            52.15098477,
+            -106.6410886
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "Canada",
+        "location": "Toronto",
+        "coordinates": [
+            43.71194348,
+            -79.40005894
+        ],
+        "total_laid_off": 6824
+    },
+    {
+        "country": "Canada",
+        "location": "Vancouver",
+        "coordinates": [
+            49.28318844,
+            -123.1005646
+        ],
+        "total_laid_off": 1027
+    },
+    {
+        "country": "Canada",
+        "location": "Waterloo",
+        "coordinates": [
+            43.46419434,
+            -80.51857408
+        ],
+        "total_laid_off": 125
+    },
+    {
+        "country": "Canada",
+        "location": "Winnipeg",
+        "coordinates": [
+            49.88973171,
+            -97.14325209
+        ],
+        "total_laid_off": 350
+    },
+    {
+        "country": "Chile",
+        "location": "Santiago",
+        "coordinates": [
+            -33.44099373,
+            -70.63807105
+        ],
+        "total_laid_off": 30
+    },
+    {
+        "country": "China",
+        "location": "Beijing",
+        "coordinates": [
+            39.90063003,
+            116.3740834
+        ],
+        "total_laid_off": 3300
+    },
+    {
+        "country": "China",
+        "location": "Non-U.S.",
+        "coordinates": [
+            -3.897526929,
+            55.28990027
+        ],
+        "total_laid_off": 500
+    },
+    {
+        "country": "China",
+        "location": "Shanghai",
+        "coordinates": [
+            31.40251943,
+            121.3498683
+        ],
+        "total_laid_off": 2130
+    },
+    {
+        "country": "China",
+        "location": "Shenzen",
+        "coordinates": [
+            22.64493411,
+            114.04835
+        ],
+        "total_laid_off": 1500
+    },
+    {
+        "country": "Colombia",
+        "location": "Bogota",
+        "coordinates": [
+            4.604437411,
+            -74.09140627
+        ],
+        "total_laid_off": 30
+    },
+    {
+        "country": "Czech Republic",
+        "location": "Prague",
+        "coordinates": [
+            50.07167394,
+            14.45049253
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "Denmark",
+        "location": "Copenhagen",
+        "coordinates": [
+            55.66847692,
+            12.55742599
+        ],
+        "total_laid_off": 240
+    },
+    {
+        "country": "Egypt",
+        "location": "Cairo",
+        "coordinates": [
+            30.04163942,
+            31.245416
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "Estonia",
+        "location": "Tallin",
+        "coordinates": [
+            59.43509922,
+            24.74096795
+        ],
+        "total_laid_off": 267
+    },
+    {
+        "country": "Finland",
+        "location": "Helsinki",
+        "coordinates": [
+            60.19666743,
+            24.94587621
+        ],
+        "total_laid_off": 250
+    },
+    {
+        "country": "France",
+        "location": "Paris",
+        "coordinates": [
+            48.86644928,
+            2.34634181
+        ],
+        "total_laid_off": 93
+    },
+    {
+        "country": "Germany",
+        "location": "Berlin",
+        "coordinates": [
+            52.52096904,
+            13.41511266
+        ],
+        "total_laid_off": 3936
+    },
+    {
+        "country": "Germany",
+        "location": "Dusseldorf",
+        "coordinates": [
+            51.2615797,
+            6.774518503
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "Germany",
+        "location": "D\u00fcsseldorf",
+        "coordinates": [
+            51.2615797,
+            6.774518503
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "Germany",
+        "location": "Hamburg",
+        "coordinates": [
+            53.54600679,
+            9.99783599
+        ],
+        "total_laid_off": 94
+    },
+    {
+        "country": "Germany",
+        "location": "Munich",
+        "coordinates": [
+            48.15548649,
+            11.57751519
+        ],
+        "total_laid_off": 345
+    },
+    {
+        "country": "Ghana",
+        "location": "Accra",
+        "coordinates": [
+            5.593241424,
+            -0.181808909
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "Greece",
+        "location": "Athens",
+        "coordinates": [
+            33.96077224,
+            -83.36921178
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "Hong Kong",
+        "location": "Hong Kong",
+        "coordinates": [
+            22.34359155,
+            114.1729829
+        ],
+        "total_laid_off": 730
+    },
+    {
+        "country": "Hungary",
+        "location": "Budapest",
+        "coordinates": [
+            47.49757576,
+            19.14126287
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "India",
+        "location": "Ahmedabad",
+        "coordinates": [
+            23.05177638,
+            72.5831671
+        ],
+        "total_laid_off": 500
+    },
+    {
+        "country": "India",
+        "location": "Bangalore",
+        "coordinates": [
+            12.99276888,
+            77.59728476
+        ],
+        "total_laid_off": 4670
+    },
+    {
+        "country": "India",
+        "location": "Bengaluru",
+        "coordinates": [
+            12.99276888,
+            77.59728476
+        ],
+        "total_laid_off": 17700
+    },
+    {
+        "country": "India",
+        "location": "Chennai",
+        "coordinates": [
+            13.08026264,
+            80.21724229
+        ],
+        "total_laid_off": 150
+    },
+    {
+        "country": "India",
+        "location": "Gurgoan",
+        "coordinates": [
+            28.4494531,
+            77.01926638
+        ],
+        "total_laid_off": 2391
+    },
+    {
+        "country": "India",
+        "location": "Gurugram",
+        "coordinates": [
+            28.4494531,
+            77.01926638
+        ],
+        "total_laid_off": 5351
+    },
+    {
+        "country": "India",
+        "location": "Hyderabad",
+        "coordinates": [
+            17.45932012,
+            78.45882064
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "India",
+        "location": "Mumbai",
+        "coordinates": [
+            19.07246385,
+            72.87362405
+        ],
+        "total_laid_off": 5725
+    },
+    {
+        "country": "India",
+        "location": "New Delhi",
+        "coordinates": [
+            28.66775072,
+            77.21378315
+        ],
+        "total_laid_off": 1760
+    },
+    {
+        "country": "India",
+        "location": "Noida",
+        "coordinates": [
+            28.55046338,
+            77.38467714
+        ],
+        "total_laid_off": 250
+    },
+    {
+        "country": "Indonesia",
+        "location": "Jakarta",
+        "coordinates": [
+            -6.224949848,
+            106.8528548
+        ],
+        "total_laid_off": 3161
+    },
+    {
+        "country": "Ireland",
+        "location": "Cork",
+        "coordinates": [
+            51.89676935,
+            -8.456876319
+        ],
+        "total_laid_off": 21
+    },
+    {
+        "country": "Ireland",
+        "location": "Dublin",
+        "coordinates": [
+            53.38055184,
+            -6.269073519
+        ],
+        "total_laid_off": 609
+    },
+    {
+        "country": "Israel",
+        "location": "Jerusalem",
+        "coordinates": [
+            31.78398554,
+            35.11423932
+        ],
+        "total_laid_off": 142
+    },
+    {
+        "country": "Israel",
+        "location": "SF Bay Area",
+        "coordinates": [
+            37.79089052,
+            -122.4208226
+        ],
+        "total_laid_off": 30
+    },
+    {
+        "country": "Israel",
+        "location": "Tel Aviv",
+        "coordinates": [
+            32.08733049,
+            34.78969085
+        ],
+        "total_laid_off": 2736
+    },
+    {
+        "country": "Kenya",
+        "location": "Nairobi",
+        "coordinates": [
+            -1.308685021,
+            36.81165373
+        ],
+        "total_laid_off": 349
+    },
+    {
+        "country": "Lithuania",
+        "location": "Vilnius",
+        "coordinates": [
+            54.68448712,
+            25.28185008
+        ],
+        "total_laid_off": 60
+    },
+    {
+        "country": "Luxembourg",
+        "location": "Luxembourg",
+        "coordinates": [
+            49.60436618,
+            6.130475594
+        ],
+        "total_laid_off": 45
+    },
+    {
+        "country": "Malaysia",
+        "location": "Kuala Lumpur",
+        "coordinates": [
+            3.140217603,
+            101.6979735
+        ],
+        "total_laid_off": 100
+    },
+    {
+        "country": "Mexico",
+        "location": "Guadalajara",
+        "coordinates": [
+            20.66735328,
+            -103.3556714
+        ],
+        "total_laid_off": 90
+    },
+    {
+        "country": "Mexico",
+        "location": "Mexico City",
+        "coordinates": [
+            19.40476785,
+            -99.12716947
+        ],
+        "total_laid_off": 180
+    },
+    {
+        "country": "Myanmar",
+        "location": "Yangon",
+        "coordinates": [
+            16.80477489,
+            96.16230971
+        ],
+        "total_laid_off": 200
+    },
+    {
+        "country": "Netherlands",
+        "location": "Amsterdam",
+        "coordinates": [
+            52.36953057,
+            4.878896305
+        ],
+        "total_laid_off": 5140
+    },
+    {
+        "country": "Netherlands",
+        "location": "The Hague",
+        "coordinates": [
+            52.07030502,
+            4.293382701
+        ],
+        "total_laid_off": 80
+    },
+    {
+        "country": "New Zealand",
+        "location": "Auckland",
+        "coordinates": [
+            -36.86412364,
+            174.7507463
+        ],
+        "total_laid_off": 45
+    },
+    {
+        "country": "Nigeria",
+        "location": "Lagos",
+        "coordinates": [
+            6.53979151,
+            3.307267754
+        ],
+        "total_laid_off": 491
+    },
+    {
+        "country": "Norway",
+        "location": "Oslo",
+        "coordinates": [
+            59.92247699,
+            10.73565819
+        ],
+        "total_laid_off": 140
+    },
+    {
+        "country": "Norway",
+        "location": "Trondheim",
+        "coordinates": [
+            63.4388302,
+            10.39302129
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "Pakistan",
+        "location": "Karachi",
+        "coordinates": [
+            24.99066817,
+            67.06468274
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "Pakistan",
+        "location": "Lahore",
+        "coordinates": [
+            31.5294692,
+            74.31924999
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "Peru",
+        "location": "Lima",
+        "coordinates": [
+            -12.0264986,
+            -77.02214742
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "Poland",
+        "location": "Krakow",
+        "coordinates": [
+            50.05260125,
+            19.9856218
+        ],
+        "total_laid_off": 25
+    },
+    {
+        "country": "Portugal",
+        "location": "Lisbon",
+        "coordinates": [
+            38.72967999,
+            -9.139262474
+        ],
+        "total_laid_off": 115
+    },
+    {
+        "country": "Romania",
+        "location": "Bucharest",
+        "coordinates": [
+            44.44509379,
+            26.09806373
+        ],
+        "total_laid_off": 80
+    },
+    {
+        "country": "Romania",
+        "location": "Singapore",
+        "coordinates": [
+            1.340069964,
+            103.8483322
+        ],
+        "total_laid_off": 60
+    },
+    {
+        "country": "Russia",
+        "location": "Moscow",
+        "coordinates": [
+            55.74805934,
+            37.56946013
+        ],
+        "total_laid_off": 400
+    },
+    {
+        "country": "Senegal",
+        "location": "Dakar",
+        "coordinates": [
+            14.71964754,
+            -17.45690089
+        ],
+        "total_laid_off": 300
+    },
+    {
+        "country": "Seychelles",
+        "location": "Non-U.S.",
+        "coordinates": [
+            -3.897526929,
+            55.28990027
+        ],
+        "total_laid_off": 75
+    },
+    {
+        "country": "Seychelles",
+        "location": "Victoria",
+        "coordinates": [
+            -3.897526929,
+            55.64146275
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "Singapore",
+        "location": "Singapore",
+        "coordinates": [
+            1.340069964,
+            103.8483322
+        ],
+        "total_laid_off": 5866
+    },
+    {
+        "country": "South Africa",
+        "location": "Cape Town",
+        "coordinates": [
+            -33.86867024,
+            18.55706811
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "Spain",
+        "location": "Barcelona",
+        "coordinates": [
+            41.39960045,
+            2.178982733
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "Sweden",
+        "location": "Gothenburg",
+        "coordinates": [
+            57.71975665,
+            11.96934642
+        ],
+        "total_laid_off": 72
+    },
+    {
+        "country": "Sweden",
+        "location": "Malmo",
+        "coordinates": [
+            55.60540149,
+            13.00910023
+        ],
+        "total_laid_off": 70
+    },
+    {
+        "country": "Sweden",
+        "location": "Malm\u00f6",
+        "coordinates": [
+            55.60540149,
+            13.00910023
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "Sweden",
+        "location": "Oslo",
+        "coordinates": [
+            59.92247699,
+            10.73565819
+        ],
+        "total_laid_off": 70
+    },
+    {
+        "country": "Sweden",
+        "location": "Stockholm",
+        "coordinates": [
+            59.34125093,
+            18.05756334
+        ],
+        "total_laid_off": 2502
+    },
+    {
+        "country": "Switzerland",
+        "location": "Vevey",
+        "coordinates": [
+            46.46560705,
+            6.845533194
+        ],
+        "total_laid_off": 104
+    },
+    {
+        "country": "Switzerland",
+        "location": "Zug",
+        "coordinates": [
+            47.1648365,
+            8.519537842
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "Switzerland",
+        "location": "Zurich",
+        "coordinates": [
+            47.37642643,
+            8.556641502
+        ],
+        "total_laid_off": 62
+    },
+    {
+        "country": "Thailand",
+        "location": "Bangkok",
+        "coordinates": [
+            13.75924362,
+            100.5074456
+        ],
+        "total_laid_off": 55
+    },
+    {
+        "country": "Turkey",
+        "location": "Istanbul",
+        "coordinates": [
+            41.04126349,
+            29.03403564
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "United Arab Emirates",
+        "location": "Dubai",
+        "coordinates": [
+            25.14957961,
+            55.29326376
+        ],
+        "total_laid_off": 995
+    },
+    {
+        "country": "United Kingdom",
+        "location": "Bristol",
+        "coordinates": [
+            51.47873276,
+            -2.602392031
+        ],
+        "total_laid_off": 38
+    },
+    {
+        "country": "United Kingdom",
+        "location": "Edinburgh",
+        "coordinates": [
+            55.94266708,
+            -3.213584161
+        ],
+        "total_laid_off": 300
+    },
+    {
+        "country": "United Kingdom",
+        "location": "Las Vegas",
+        "coordinates": [
+            36.17235738,
+            -115.1887643
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "United Kingdom",
+        "location": "London",
+        "coordinates": [
+            51.49754058,
+            -0.093383322
+        ],
+        "total_laid_off": 6732
+    },
+    {
+        "country": "United Kingdom",
+        "location": "Welwyn Garden City",
+        "coordinates": [
+            51.80072405,
+            -0.189261259
+        ],
+        "total_laid_off": 1600
+    },
+    {
+        "country": "United States",
+        "location": "Ann Arbor",
+        "coordinates": [
+            42.28398384,
+            -83.74163812
+        ],
+        "total_laid_off": 40
+    },
+    {
+        "country": "United States",
+        "location": "Atlanta",
+        "coordinates": [
+            33.80016297,
+            -84.40262309
+        ],
+        "total_laid_off": 1461
+    },
+    {
+        "country": "United States",
+        "location": "Austin",
+        "coordinates": [
+            30.27507688,
+            -97.74751097
+        ],
+        "total_laid_off": 2272
+    },
+    {
+        "country": "United States",
+        "location": "Baltimore",
+        "coordinates": [
+            39.29239132,
+            -76.62496183
+        ],
+        "total_laid_off": 20
+    },
+    {
+        "country": "United States",
+        "location": "Beijing",
+        "coordinates": [
+            39.90063003,
+            116.3740834
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Bend",
+        "coordinates": [
+            44.05716755,
+            -121.3029732
+        ],
+        "total_laid_off": 50
+    },
+    {
+        "country": "United States",
+        "location": "Bentonville",
+        "coordinates": [
+            36.36586717,
+            -94.26305114
+        ],
+        "total_laid_off": 200
+    },
+    {
+        "country": "United States",
+        "location": "Berlin",
+        "coordinates": [
+            52.52096904,
+            13.41511266
+        ],
+        "total_laid_off": 40
+    },
+    {
+        "country": "United States",
+        "location": "Birmingham",
+        "coordinates": [
+            33.51971025,
+            -86.8068863
+        ],
+        "total_laid_off": 110
+    },
+    {
+        "country": "United States",
+        "location": "Boston",
+        "coordinates": [
+            42.34097981,
+            -71.08976212
+        ],
+        "total_laid_off": 7430
+    },
+    {
+        "country": "United States",
+        "location": "Boulder",
+        "coordinates": [
+            40.01929836,
+            -105.2852979
+        ],
+        "total_laid_off": 201
+    },
+    {
+        "country": "United States",
+        "location": "Burlington",
+        "coordinates": [
+            36.08611208,
+            -79.43383809
+        ],
+        "total_laid_off": 47
+    },
+    {
+        "country": "United States",
+        "location": "Campbell",
+        "coordinates": [
+            37.28403691,
+            -121.9515483
+        ],
+        "total_laid_off": 150
+    },
+    {
+        "country": "United States",
+        "location": "Charlotte",
+        "coordinates": [
+            35.18936403,
+            -80.83162099
+        ],
+        "total_laid_off": 44
+    },
+    {
+        "country": "United States",
+        "location": "Chicago",
+        "coordinates": [
+            41.84771607,
+            -87.68255456
+        ],
+        "total_laid_off": 5289
+    },
+    {
+        "country": "United States",
+        "location": "Cincinnati",
+        "coordinates": [
+            39.14559081,
+            -84.53219194
+        ],
+        "total_laid_off": 30
+    },
+    {
+        "country": "United States",
+        "location": "Columbus",
+        "coordinates": [
+            39.95103883,
+            -82.97849926
+        ],
+        "total_laid_off": 933
+    },
+    {
+        "country": "United States",
+        "location": "Copenhagen",
+        "coordinates": [
+            55.66847692,
+            12.55742599
+        ],
+        "total_laid_off": 150
+    },
+    {
+        "country": "United States",
+        "location": "Culver city",
+        "coordinates": [
+            34.01157162,
+            -118.3966669
+        ],
+        "total_laid_off": 100
+    },
+    {
+        "country": "United States",
+        "location": "Dallas",
+        "coordinates": [
+            32.82612278,
+            -96.75767773
+        ],
+        "total_laid_off": 51
+    },
+    {
+        "country": "United States",
+        "location": "Davenport",
+        "coordinates": [
+            41.53894517,
+            -90.55396793
+        ],
+        "total_laid_off": 62
+    },
+    {
+        "country": "United States",
+        "location": "DearBorn",
+        "coordinates": [
+            42.31864099,
+            -83.21032127
+        ],
+        "total_laid_off": 3000
+    },
+    {
+        "country": "United States",
+        "location": "Denver",
+        "coordinates": [
+            39.74499824,
+            -104.9183128
+        ],
+        "total_laid_off": 400
+    },
+    {
+        "country": "United States",
+        "location": "Detroit",
+        "coordinates": [
+            42.3574442,
+            -83.08824752
+        ],
+        "total_laid_off": 1180
+    },
+    {
+        "country": "United States",
+        "location": "Dover",
+        "coordinates": [
+            39.16305016,
+            -75.5323046
+        ],
+        "total_laid_off": 76
+    },
+    {
+        "country": "United States",
+        "location": "Dubai",
+        "coordinates": [
+            25.14957961,
+            55.29326376
+        ],
+        "total_laid_off": 93
+    },
+    {
+        "country": "United States",
+        "location": "Durham",
+        "coordinates": [
+            35.97396581,
+            -78.90826482
+        ],
+        "total_laid_off": 40
+    },
+    {
+        "country": "United States",
+        "location": "Eindhoven",
+        "coordinates": [
+            51.44455056,
+            5.476910049
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Fayetteville",
+        "coordinates": [
+            35.05155217,
+            -78.96597232
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Grand Rapids",
+        "coordinates": [
+            42.95979067,
+            -85.64842323
+        ],
+        "total_laid_off": 226
+    },
+    {
+        "country": "United States",
+        "location": "Houston",
+        "coordinates": [
+            29.76832424,
+            -95.43438619
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Huntsville",
+        "coordinates": [
+            34.73045749,
+            -86.61171629
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Indianapolis",
+        "coordinates": [
+            39.77417053,
+            -86.14651287
+        ],
+        "total_laid_off": 5
+    },
+    {
+        "country": "United States",
+        "location": "Kansas City",
+        "coordinates": [
+            39.08945202,
+            -94.56201684
+        ],
+        "total_laid_off": 20
+    },
+    {
+        "country": "United States",
+        "location": "Las Vegas",
+        "coordinates": [
+            36.17235738,
+            -115.1887643
+        ],
+        "total_laid_off": 405
+    },
+    {
+        "country": "United States",
+        "location": "Lehi",
+        "coordinates": [
+            40.40758974,
+            -111.8533478
+        ],
+        "total_laid_off": 220
+    },
+    {
+        "country": "United States",
+        "location": "Lexington",
+        "coordinates": [
+            38.03340614,
+            -84.49768826
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Logan",
+        "coordinates": [
+            41.74095397,
+            -111.8418353
+        ],
+        "total_laid_off": 300
+    },
+    {
+        "country": "United States",
+        "location": "London",
+        "coordinates": [
+            51.49754058,
+            -0.093383322
+        ],
+        "total_laid_off": 202
+    },
+    {
+        "country": "United States",
+        "location": "Los Angeles",
+        "coordinates": [
+            33.94222083,
+            -118.4084871
+        ],
+        "total_laid_off": 5830
+    },
+    {
+        "country": "United States",
+        "location": "Los Gatos",
+        "coordinates": [
+            37.23359618,
+            -121.9690465
+        ],
+        "total_laid_off": 300
+    },
+    {
+        "country": "United States",
+        "location": "Louisville",
+        "coordinates": [
+            38.17875709,
+            -85.67130796
+        ],
+        "total_laid_off": 52
+    },
+    {
+        "country": "United States",
+        "location": "Madison",
+        "coordinates": [
+            43.07261489,
+            -89.41331543
+        ],
+        "total_laid_off": 44
+    },
+    {
+        "country": "United States",
+        "location": "Melbourne",
+        "coordinates": [
+            -37.89324894,
+            145.0859886
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Menlo Park",
+        "coordinates": [
+            37.45403928,
+            -122.1780796
+        ],
+        "total_laid_off": 11700
+    },
+    {
+        "country": "United States",
+        "location": "Mexico City",
+        "coordinates": [
+            19.40476785,
+            -99.12716947
+        ],
+        "total_laid_off": 180
+    },
+    {
+        "country": "United States",
+        "location": "Miami",
+        "coordinates": [
+            25.76997397,
+            -80.22809381
+        ],
+        "total_laid_off": 2156
+    },
+    {
+        "country": "United States",
+        "location": "Milwaukee",
+        "coordinates": [
+            43.06081621,
+            -87.94477794
+        ],
+        "total_laid_off": 35
+    },
+    {
+        "country": "United States",
+        "location": "Minneapolis",
+        "coordinates": [
+            44.97043271,
+            -93.26319687
+        ],
+        "total_laid_off": 212
+    },
+    {
+        "country": "United States",
+        "location": "Missoula",
+        "coordinates": [
+            46.87341975,
+            -113.9975745
+        ],
+        "total_laid_off": 30
+    },
+    {
+        "country": "United States",
+        "location": "Nashua",
+        "coordinates": [
+            42.75354635,
+            -71.48915911
+        ],
+        "total_laid_off": 60
+    },
+    {
+        "country": "United States",
+        "location": "Nashville",
+        "coordinates": [
+            36.18188044,
+            -86.71249244
+        ],
+        "total_laid_off": 284
+    },
+    {
+        "country": "United States",
+        "location": "New Delhi",
+        "coordinates": [
+            28.66775072,
+            77.21378315
+        ],
+        "total_laid_off": 13
+    },
+    {
+        "country": "United States",
+        "location": "New Haven",
+        "coordinates": [
+            41.30213606,
+            -72.92909775
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "New Orleans",
+        "coordinates": [
+            30.02794391,
+            -90.01031309
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "New York",
+        "coordinates": [
+            40.74606714,
+            -73.98383045
+        ],
+        "total_laid_off": 4850
+    },
+    {
+        "country": "United States",
+        "location": "New York City",
+        "coordinates": [
+            40.74606714,
+            -73.98383045
+        ],
+        "total_laid_off": 22043
+    },
+    {
+        "country": "United States",
+        "location": "Norwalk",
+        "coordinates": [
+            41.11023002,
+            -73.41795237
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Philadelphia",
+        "coordinates": [
+            39.98111811,
+            -75.18260285
+        ],
+        "total_laid_off": 2340
+    },
+    {
+        "country": "United States",
+        "location": "Phoenix",
+        "coordinates": [
+            33.45628022,
+            -112.1099772
+        ],
+        "total_laid_off": 4537
+    },
+    {
+        "country": "United States",
+        "location": "Pittsburgh",
+        "coordinates": [
+            40.44852962,
+            -79.97844802
+        ],
+        "total_laid_off": 513
+    },
+    {
+        "country": "United States",
+        "location": "Portland",
+        "coordinates": [
+            45.57698667,
+            -122.6338291
+        ],
+        "total_laid_off": 285
+    },
+    {
+        "country": "United States",
+        "location": "Raleigh",
+        "coordinates": [
+            35.80892558,
+            -78.63684775
+        ],
+        "total_laid_off": 45
+    },
+    {
+        "country": "United States",
+        "location": "Redmond",
+        "coordinates": [
+            47.67553267,
+            -122.1283336
+        ],
+        "total_laid_off": 1000
+    },
+    {
+        "country": "United States",
+        "location": "Reno",
+        "coordinates": [
+            39.52872435,
+            -119.8165167
+        ],
+        "total_laid_off": 69
+    },
+    {
+        "country": "United States",
+        "location": "Richmond",
+        "coordinates": [
+            37.53165735,
+            -77.46031021
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "SF Bay Area",
+        "coordinates": [
+            37.79089052,
+            -122.4208226
+        ],
+        "total_laid_off": 85540
+    },
+    {
+        "country": "United States",
+        "location": "Sacramento",
+        "coordinates": [
+            38.56111358,
+            -121.4456667
+        ],
+        "total_laid_off": 115
+    },
+    {
+        "country": "United States",
+        "location": "Salt Lake City",
+        "coordinates": [
+            40.77522924,
+            -111.927381
+        ],
+        "total_laid_off": 1208
+    },
+    {
+        "country": "United States",
+        "location": "San Diego",
+        "coordinates": [
+            32.74804203,
+            -117.1282372
+        ],
+        "total_laid_off": 1165
+    },
+    {
+        "country": "United States",
+        "location": "San Luis Obispo",
+        "coordinates": [
+            35.26939258,
+            -120.6566551
+        ],
+        "total_laid_off": 1100
+    },
+    {
+        "country": "United States",
+        "location": "Santa Barbara",
+        "coordinates": [
+            34.42909646,
+            -119.7210245
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Santa Fe",
+        "coordinates": [
+            35.6801813,
+            -105.9439052
+        ],
+        "total_laid_off": 213
+    },
+    {
+        "country": "United States",
+        "location": "Sao Paulo",
+        "coordinates": [
+            -23.59912955,
+            -46.64065048
+        ],
+        "total_laid_off": 100
+    },
+    {
+        "country": "United States",
+        "location": "Seattle",
+        "coordinates": [
+            47.6124803,
+            -122.338638
+        ],
+        "total_laid_off": 116051
+    },
+    {
+        "country": "United States",
+        "location": "Selangor",
+        "coordinates": [
+            3.155284299,
+            101.6472304
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Spokane",
+        "coordinates": [
+            47.65934498,
+            -117.3922439
+        ],
+        "total_laid_off": 243
+    },
+    {
+        "country": "United States",
+        "location": "St. Louis",
+        "coordinates": [
+            38.62620037,
+            -90.19403116
+        ],
+        "total_laid_off": 65
+    },
+    {
+        "country": "United States",
+        "location": "Stamford",
+        "coordinates": [
+            41.06197344,
+            -73.538062
+        ],
+        "total_laid_off": 964
+    },
+    {
+        "country": "United States",
+        "location": "Stockholm",
+        "coordinates": [
+            59.34125093,
+            18.05756334
+        ],
+        "total_laid_off": 165
+    },
+    {
+        "country": "United States",
+        "location": "Sydney",
+        "coordinates": [
+            -33.87434482,
+            151.1433471
+        ],
+        "total_laid_off": 50
+    },
+    {
+        "country": "United States",
+        "location": "Tampa Bay",
+        "coordinates": [
+            27.9531417,
+            -82.47178083
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "United States",
+        "location": "Tel Aviv",
+        "coordinates": [
+            32.08733049,
+            34.78969085
+        ],
+        "total_laid_off": 35
+    },
+    {
+        "country": "United States",
+        "location": "Toronto",
+        "coordinates": [
+            43.71194348,
+            -79.40005894
+        ],
+        "total_laid_off": 5
+    },
+    {
+        "country": "United States",
+        "location": "Vancouver",
+        "coordinates": [
+            49.28318844,
+            -123.1005646
+        ],
+        "total_laid_off": 174
+    },
+    {
+        "country": "United States",
+        "location": "Washington D.C.",
+        "coordinates": [
+            38.88992976,
+            -77.01664355
+        ],
+        "total_laid_off": 867
+    },
+    {
+        "country": "Uruguay",
+        "location": "Montevideo",
+        "coordinates": [
+            -34.85346501,
+            -56.19389477
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "Vietnam",
+        "location": "Hanoi",
+        "coordinates": [
+            20.95480585,
+            105.7623924
+        ],
+        "total_laid_off": 0
+    },
+    {
+        "country": "Vietnam",
+        "location": "Ho Chi Minh City",
+        "coordinates": [
+            10.79724203,
+            106.6560262
+        ],
+        "total_laid_off": 0
+    }
+]

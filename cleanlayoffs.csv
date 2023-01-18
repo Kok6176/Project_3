@@ -1,0 +1,1873 @@
+id,company,location,industry,country,date,total_laid_off,lat,lng
+0, Included Health,SF Bay Area,Healthcare,United States,2022-07-25,0,37.79089052,-122.4208226
+1,&Open,Dublin,Marketing,Ireland,2022-11-17,9,53.38055184,-6.269073519
+2,100 Thieves,Los Angeles,Consumer,United States,2022-07-13,12,33.94222083,-118.4084871
+3,10X Genomics,SF Bay Area,Healthcare,United States,2022-08-04,100,37.79089052,-122.4208226
+4,1stdibs,New York City,Retail,United States,2020-04-02,70,40.74606714,-73.98383045
+5,2TM,Sao Paulo,Crypto,Brazil,2022-06-01,90,-23.59912955,-46.64065048
+6,2TM,Sao Paulo,Crypto,Brazil,2022-09-01,100,-23.59912955,-46.64065048
+7,2U,Washington D.C.,Education,United States,2022-07-28,0,38.88992976,-77.01664355
+8,54gene,Washington D.C.,Healthcare,United States,2022-08-29,95,38.88992976,-77.01664355
+9,5B Solar,Sydney,Energy,Australia,2022-06-03,0,-33.87434482,151.1433471
+10,6sense,SF Bay Area,Sales,United States,2022-10-12,150,37.79089052,-122.4208226
+11,98point6,Seattle,Healthcare,United States,2022-07-21,0,47.6124803,-122.338638
+12,99,Sao Paulo,Transportation,Brazil,2022-09-20,75,-23.59912955,-46.64065048
+13,Abra,SF Bay Area,Crypto,United States,2022-06-30,12,37.79089052,-122.4208226
+14,Absci,Vancouver,Healthcare,United States,2022-08-09,40,49.28318844,-123.1005646
+15,Acast,Stockholm,Media,Sweden,2022-09-15,70,59.34125093,18.05756334
+16,Acko,Mumbai,Finance,India,2020-04-01,45,19.07246385,72.87362405
+17,Acorns,Portland,Finance,United States,2020-05-26,50,45.57698667,-122.6338291
+18,Actifio,Boston,Data,United States,2020-12-16,54,42.34097981,-71.08976212
+19,ActiveCampaign,Chicago,Marketing,United States,2022-10-03,0,41.84771607,-87.68255456
+20,AdRoll,Salt Lake City,Marketing,United States,2020-03-31,210,40.77522924,-111.927381
+21,Ada,Toronto,Support,Canada,2022-09-20,78,43.71194348,-79.40005894
+22,Ada Health,Berlin,Healthcare,Germany,2022-10-17,50,52.52096904,13.41511266
+23,Ada Support,Toronto,Support,Canada,2020-04-24,36,43.71194348,-79.40005894
+24,Adaptive Biotechnologies,Seattle,Healthcare,United States,2022-03-08,100,47.6124803,-122.338638
+25,Adara,SF Bay Area,Travel,United States,2020-03-31,0,37.79089052,-122.4208226
+26,Addi,Bogota,Finance,Colombia,2022-06-14,0,4.604437411,-74.09140627
+27,Adobe,SF Bay Area,Marketing,United States,2022-12-06,100,37.79089052,-122.4208226
+28,Advata,Seattle,Healthcare,United States,2022-10-28,32,47.6124803,-122.338638
+29,Adwerx,Durham,Marketing,United States,2022-07-07,40,35.97396581,-78.90826482
+30,Affirm,SF Bay Area,Finance,United States,2022-11-03,0,37.79089052,-122.4208226
+31,Agoda,Singapore,Travel,Singapore,2020-05-18,1500,1.340069964,103.8483322
+32,Ahead,SF Bay Area,Healthcare,United States,2022-04-14,44,37.79089052,-122.4208226
+33,Air,New York City,Marketing,United States,2020-09-16,0,40.74606714,-73.98383045
+34,AirMap,Los Angeles,Aerospace,United States,2020-04-30,0,33.94222083,-118.4084871
+35,Airbnb,SF Bay Area,Travel,United States,2020-05-05,1900,37.79089052,-122.4208226
+36,Airlift,Lahore,Logistics,Pakistan,2022-05-25,0,31.5294692,74.31924999
+37,Airlift,Lahore,Logistics,Pakistan,2022-07-12,0,31.5294692,74.31924999
+38,Airtable,SF Bay Area,Product,United States,2022-12-08,254,37.79089052,-122.4208226
+39,Airtame,Copenhagen,Consumer,Denmark,2022-06-15,15,55.66847692,12.55742599
+40,Airtasker,Sydney,Consumer,Australia,2022-07-04,0,-33.87434482,151.1433471
+41,Airtime,New York City,Consumer,United States,2022-05-23,30,40.74606714,-73.98383045
+42,Airy Rooms,Jakarta,Travel,Indonesia,2020-04-22,0,-6.224949848,106.8528548
+43,Airy Rooms,Jakarta,Travel,Indonesia,2020-05-07,0,-6.224949848,106.8528548
+44,Ajaib,Jakarta,Finance,Indonesia,2022-11-28,67,-6.224949848,106.8528548
+45,Akerna,Denver,Logistics,United States,2020-09-02,0,39.74499824,-104.9183128
+46,Akerna,Denver,Logistics,United States,2022-05-27,0,39.74499824,-104.9183128
+47,Akulaku,Jakarta,Finance,Indonesia,2020-04-15,100,-6.224949848,106.8528548
+48,AlayaCare,Montreal,Healthcare,Canada,2022-08-16,80,45.50496791,-73.62812998
+49,Albert,Los Angeles,Finance,United States,2022-06-10,20,33.94222083,-118.4084871
+50,Alegion,Austin,Data,United States,2020-04-03,0,30.27507688,-97.74751097
+51,AliExpress Russia,Moscow,Retail,Russia,2022-05-14,400,55.74805934,37.56946013
+52,Alice,Sao Paulo,Healthcare,Brazil,2022-07-11,63,-23.59912955,-46.64065048
+53,Alice,Sao Paulo,Healthcare,Brazil,2022-12-09,113,-23.59912955,-46.64065048
+54,Allbirds,SF Bay Area,Retail,United States,2022-07-28,23,37.79089052,-122.4208226
+55,AllyO,SF Bay Area,HR,United States,2020-04-03,0,37.79089052,-122.4208226
+56,Almanac,SF Bay Area,Other,United States,2022-08-13,0,37.79089052,-122.4208226
+57,Alto Pharmacy,SF Bay Area,Healthcare,United States,2020-09-29,47,37.79089052,-122.4208226
+58,Alto Pharmacy,SF Bay Area,Healthcare,United States,2022-07-14,0,37.79089052,-122.4208226
+59,Amazon,Seattle,Retail,United States,2022-11-16,10000,47.6124803,-122.338638
+60,Amazon,Seattle,Tech,United States,2022-07-15,100000,47.6124803,-122.338638
+61,Amber Group,Hong Kong,Crypto,Hong Kong,2022-09-09,0,22.34359155,114.1729829
+62,Amobee,SF Bay Area,Marketing,United States,2022-11-09,0,37.79089052,-122.4208226
+63,Amount,Chicago,Finance,United States,2022-06-27,0,41.84771607,-87.68255456
+64,Amperity,Seattle,Marketing,United States,2022-08-20,13,47.6124803,-122.338638
+65,Amplero,Seattle,Marketing,United States,2020-03-29,17,47.6124803,-122.338638
+66,Anagram,Los Angeles,Healthcare,United States,2020-04-03,17,33.94222083,-118.4084871
+67,Andela,New York City,Recruiting,United States,2020-05-05,135,40.74606714,-73.98383045
+68,AngelList,SF Bay Area,Recruiting,United States,2020-03-31,20,37.79089052,-122.4208226
+69,Anodot,Tel Aviv,Data,United States,2022-07-06,35,32.08733049,34.78969085
+70,Antidote Health,Tel Aviv,Healthcare,Israel,2022-10-23,23,32.08733049,34.78969085
+71,Anyvision,Tel Aviv,Security,Israel,2020-03-19,0,32.08733049,34.78969085
+72,Anywell,Tel Aviv,Real Estate,Israel,2022-08-14,11,32.08733049,34.78969085
+73,Apartment List,SF Bay Area,Real Estate,United States,2022-08-31,29,37.79089052,-122.4208226
+74,Apeel Sciences,Santa Barbara,Food,United States,2022-07-11,0,34.42909646,-119.7210245
+75,Apollo,SF Bay Area,Product,United States,2022-12-15,0,37.79089052,-122.4208226
+76,Apollo Insurance,Vancouver,Finance,Canada,2022-11-15,0,49.28318844,-123.1005646
+77,App Annie,SF Bay Area,Data,United States,2020-04-28,80,37.79089052,-122.4208226
+78,AppGate,Miami,Security,United States,2022-07-21,130,25.76997397,-80.22809381
+79,AppLovin,SF Bay Area,Marketing,United States,2022-06-27,300,37.79089052,-122.4208226
+80,ApplyBoard,Waterloo,Education,Canada,2022-11-28,90,43.46419434,-80.51857408
+81,Aqgromalin,Chennai,Food,India,2022-06-20,80,13.08026264,80.21724229
+82,Aqua Security,Boston,Security,United States,2022-12-05,65,42.34097981,-71.08976212
+83,Aqua Security,Tel Aviv,Security,Israel,2020-04-01,24,32.08733049,34.78969085
+84,Arc,SF Bay Area,HR,United States,2022-07-20,13,37.79089052,-122.4208226
+85,Arete,Miami,Security,United States,2022-07-22,0,25.76997397,-80.22809381
+86,Argo AI,Munich,Transportation,Germany,2020-06-29,100,48.15548649,11.57751519
+87,Argo AI,Pittsburgh,Transportation,United States,2022-07-07,150,40.44852962,-79.97844802
+88,Argo AI,Pittsburgh,Transportation,United States,2022-10-26,173,40.44852962,-79.97844802
+89,Argyle,New York City,Finance,United States,2022-08-26,20,40.74606714,-73.98383045
+90,Armis,SF Bay Area,Security,United States,2022-12-08,25,37.79089052,-122.4208226
+91,Arrival,London,Transportation,United Kingdom,2022-07-13,0,51.49754058,-0.093383322
+92,Arrival,London,Transportation,United Kingdom,2022-10-20,0,51.49754058,-0.093383322
+93,Arrive Logistics,Austin,Logistics,United States,2020-04-03,75,30.27507688,-97.74751097
+94,Article,Vancouver,Retail,Canada,2022-08-04,216,49.28318844,-123.1005646
+95,Artnight,Berlin,Retail,Germany,2022-08-31,26,52.52096904,13.41511266
+96,Asana,SF Bay Area,Other,United States,2022-11-15,180,37.79089052,-122.4208226
+97,AskNicely,Portland,Support,United States,2020-04-07,0,45.57698667,-122.6338291
+98,Aspire,SF Bay Area,Marketing,United States,2022-07-15,23,37.79089052,-122.4208226
+99,Assure,Salt Lake City,Finance,United States,2022-11-23,0,40.77522924,-111.927381
+100,Astra,SF Bay Area,Aerospace,United States,2020-04-05,40,37.79089052,-122.4208226
+101,Astra,SF Bay Area,Aerospace,United States,2022-11-08,0,37.79089052,-122.4208226
+102,Atlanta Tech Village,Atlanta,Real Estate,United States,2020-04-02,0,33.80016297,-84.40262309
+103,Atlas Obscura ,New York City,Media,United States,2020-06-18,15,40.74606714,-73.98383045
+104,AtoB,SF Bay Area,Finance,United States,2022-10-19,32,37.79089052,-122.4208226
+105,Atome,Singapore,Finance,Singapore,2022-10-06,0,1.340069964,103.8483322
+106,Atsu,Seattle,Infrastructure,United States,2020-04-10,6,47.6124803,-122.338638
+107,Aura,Boston,Security,United States,2022-06-23,70,42.34097981,-71.08976212
+108,Aura Financial,SF Bay Area,Finance,United States,2020-04-14,0,37.79089052,-122.4208226
+109,Aura Financial,SF Bay Area,Finance,United States,2021-01-11,0,37.79089052,-122.4208226
+110,Autobooks,Detroit,Finance,United States,2022-12-10,0,42.3574442,-83.08824752
+111,Autograph,Los Angeles,Crypto,United States,2022-12-16,0,33.94222083,-118.4084871
+112,Automatic,SF Bay Area,Transportation,United States,2020-05-01,0,37.79089052,-122.4208226
+113,Automation Anywhere,SF Bay Area,Other,United States,2020-04-27,260,37.79089052,-122.4208226
+114,Automox,Boulder,Infrastructure,United States,2022-04-18,0,40.01929836,-105.2852979
+115,Automox,Boulder,Infrastructure,United States,2022-06-13,0,40.01929836,-105.2852979
+116,AvantStay,Los Angeles,Travel,United States,2022-06-29,80,33.94222083,-118.4084871
+117,Avantage Entertainment,Minneapolis,Media,United States,2020-04-03,5,44.97043271,-93.26319687
+118,Avast,Phoenix,Security,United States,2022-11-10,0,33.45628022,-112.1099772
+119,Avo,Tel Aviv,Food,Israel,2022-05-01,500,32.08733049,34.78969085
+120,Away,New York City,Retail,United States,2020-04-07,60,40.74606714,-73.98383045
+121,Awok,Dubai,Retail,United Arab Emirates,2020-09-02,0,25.14957961,55.29326376
+122,Aya,Toronto,Finance,United States,2020-11-19,5,43.71194348,-79.40005894
+123,B8ta,SF Bay Area,Retail,United States,2020-03-26,250,37.79089052,-122.4208226
+124,BVAccel,San Diego,Marketing,United States,2020-04-08,25,32.74804203,-117.1282372
+125,BYJU'S,Bangalore,Tech,India,2022-10-15,2500,12.99276888,77.59728476
+126,Babylon,London,Healthcare,United Kingdom,2022-07-12,100,51.49754058,-0.093383322
+127,Back Market,Paris,Retail,France,2022-12-23,93,48.86644928,2.34634181
+128,Bakkt,Atlanta,Crypto,United States,2022-12-08,0,33.80016297,-84.40262309
+129,Balto,St. Louis,Sales,United States,2022-06-22,30,38.62620037,-90.19403116
+130,Balto,St. Louis,Sales,United States,2022-12-12,35,38.62620037,-90.19403116
+131,Bamboo Health,Louisville,Healthcare,United States,2022-07-01,52,38.17875709,-85.67130796
+132,Banxa,Melbourne,Crypto,Australia,2022-06-27,70,-37.89324894,145.0859886
+133,Baton,SF Bay Area,Transportation,United States,2022-06-29,16,37.79089052,-122.4208226
+134,Bcredi,Curitiba,Finance,Brazil,2020-03-27,0,-25.46219713,-49.27675988
+135,Beat,Athens,Transportation,Greece,2022-11-08,0,33.96077224,-83.36921178
+136,BeeTech,Sao Paulo,Finance,Brazil,2020-04-10,30,-23.59912955,-46.64065048
+137,Bench,Vancouver,Finance,Canada,2020-03-27,47,49.28318844,-123.1005646
+138,Benitago Group,New York City,Retail,United States,2022-11-04,0,40.74606714,-73.98383045
+139,Berkeley Lights,SF Bay Area,Healthcare,United States,2022-08-09,0,37.79089052,-122.4208226
+140,Berlin Brands Group,Berlin,Retail,Germany,2022-06-10,100,52.52096904,13.41511266
+141,Bestow,Dallas,Finance,United States,2022-06-24,41,32.82612278,-96.75767773
+142,Better.Com,New York,Tech,United States,2021-12-15,900,40.74606714,-73.98383045
+143,Better.Com,New York,Tech,United States,2022-03-15,2000,40.74606714,-73.98383045
+144,Better.Com,New York,Tech,United States,2022-04-15,1000,40.74606714,-73.98383045
+145,Better.Com,New York,Tech,United States,2022-08-15,250,40.74606714,-73.98383045
+146,Better.com,New York City,Real Estate,United States,2021-12-01,900,40.74606714,-73.98383045
+147,Better.com,New York City,Real Estate,United States,2022-03-08,3000,40.74606714,-73.98383045
+148,Better.com,New York City,Real Estate,United States,2022-04-19,0,40.74606714,-73.98383045
+149,Better.com,New York City,Real Estate,United States,2022-08-26,0,40.74606714,-73.98383045
+150,BetterCloud,New York City,Security,United States,2020-05-13,0,40.74606714,-73.98383045
+151,Betterfly,Santiago,Healthcare,Chile,2022-08-11,30,-33.44099373,-70.63807105
+152,Bevi,Boston,Food,United States,2020-03-27,30,42.34097981,-71.08976212
+153,Beyond Meat,Los Angeles,Food,United States,2022-08-03,40,33.94222083,-118.4084871
+154,Beyond Meat,Los Angeles,Food,United States,2022-10-14,200,33.94222083,-118.4084871
+155,BeyondMinds,Tel Aviv,Data,Israel,2022-05-23,65,32.08733049,34.78969085
+156,Big Fish Games,Seattle,Media,United States,2020-09-01,250,47.6124803,-122.338638
+157,BigBear.ai,Baltimore,Data,United States,2022-09-08,0,39.29239132,-76.62496183
+158,BigCommerce,Austin,Retail,United States,2022-12-15,180,30.27507688,-97.74751097
+159,Bikayi,Bengaluru,Retail,India,2022-07-28,0,12.99276888,77.59728476
+160,BioMarin,SF Bay Area,Healthcare,United States,2022-10-07,120,37.79089052,-122.4208226
+161,Bird,Los Angeles,Transportation,United States,2020-03-27,406,33.94222083,-118.4084871
+162,Bird,Los Angeles,Transportation,United States,2022-06-07,138,33.94222083,-118.4084871
+163,BitGo,SF Bay Area,Crypto,United States,2020-04-17,0,37.79089052,-122.4208226
+164,BitMEX,Non-U.S.,Crypto,Seychelles,2022-04-04,75,-3.897526929,55.28990027
+165,BitMEX,Non-U.S.,Crypto,Seychelles,2022-11-02,0,-3.897526929,55.28990027
+166,BitOasis,Dubai,Crypto,United Arab Emirates,2022-06-19,9,25.14957961,55.29326376
+167,BitTitan,Seattle,Data,United States,2021-11-18,70,47.6124803,-122.338638
+168,Bitfarms,Quebec,Crypto,Canada,2020-04-06,0,46.82768053,-71.21585286
+169,Bitfront,SF Bay Area,Crypto,United States,2022-11-29,0,37.79089052,-122.4208226
+170,Bitpanda,Vienna,Crypto,Austria,2022-06-24,270,48.19654959,16.35394133
+171,Bitrise,Budapest,Infrastructure,Hungary,2022-09-14,0,47.49757576,19.14126287
+172,Bitso,Mexico City,Crypto,Mexico,2022-05-26,80,19.40476785,-99.12716947
+173,Bitso,Mexico City,Crypto,Mexico,2022-11-29,100,19.40476785,-99.12716947
+174,Bizongo,Mumbai,Logistics,India,2020-07-10,140,19.07246385,72.87362405
+175,Bizpay,Sydney,Finance,Australia,2022-05-04,0,-33.87434482,151.1433471
+176,Bizzabo,New York City,Marketing,United States,2022-07-05,120,40.74606714,-73.98383045
+177,Bizzabo,New York City,Marketing,United States,2022-12-01,100,40.74606714,-73.98383045
+178,BlackBuck,Bengaluru,Logistics,India,2020-04-17,200,12.99276888,77.59728476
+179,BlackLine,Los Angeles,Finance,United States,2022-12-08,95,33.94222083,-118.4084871
+180,Bleacher Report,London,Media,United Kingdom,2020-09-11,20,51.49754058,-0.093383322
+181,Blend,SF Bay Area,Finance,United States,2022-04-19,200,37.79089052,-122.4208226
+182,Blend,SF Bay Area,Finance,United States,2022-08-15,220,37.79089052,-122.4208226
+183,Blend,SF Bay Area,Finance,United States,2022-11-10,100,37.79089052,-122.4208226
+184,Blinkit,Gurgoan,Tech,India,2022-03-15,1600,28.4494531,77.01926638
+185,BlockFi,New York City,Crypto,United States,2022-06-13,250,40.74606714,-73.98383045
+186,BlockFi,New York City,Crypto,United States,2022-11-28,0,40.74606714,-73.98383045
+187,Blockchain.com,London,Crypto,United Kingdom,2022-07-21,150,51.49754058,-0.093383322
+188,BloomTech,SF Bay Area,Education,United States,2022-12-01,88,37.79089052,-122.4208226
+189,Blue Apron,New York City,Food,United States,2022-12-08,0,40.74606714,-73.98383045
+190,BlueStacks,Campbell,Tech,United States,2022-07-15,150,37.28403691,-121.9515483
+191,BlueStacks,SF Bay Area,Other,United States,2022-07-20,60,37.79089052,-122.4208226
+192,Blueground,New York City,Real Estate,United States,2020-03-27,130,40.74606714,-73.98383045
+193,Blume Global,SF Bay Area,Logistics,United States,2020-03-30,30,37.79089052,-122.4208226
+194,Bluprint,Denver,Education,United States,2020-05-26,137,39.74499824,-104.9183128
+195,Bolt,SF Bay Area,Finance,United States,2022-05-25,240,37.79089052,-122.4208226
+196,Bond,SF Bay Area,Finance,United States,2022-06-07,0,37.79089052,-122.4208226
+197,Bonsai,Toronto,Retail,Canada,2022-04-26,29,43.71194348,-79.40005894
+198,Bonsai,Toronto,Retail,Canada,2022-06-20,30,43.71194348,-79.40005894
+199,BookClub,Salt Lake City,Education,United States,2022-05-31,12,40.77522924,-111.927381
+200,BookMyShow,Mumbai,Consumer,India,2020-05-28,270,19.07246385,72.87362405
+201,Booking.com,Amsterdam,Travel,Netherlands,2020-07-30,4375,52.36953057,4.878896305
+202,Booking.com,Grand Rapids,Travel,United States,2022-11-01,226,42.95979067,-85.64842323
+203,Booksy,SF Bay Area,Consumer,United States,2020-04-01,200,37.79089052,-122.4208226
+204,Booktopia,Sydney,Retail,Australia,2022-06-28,0,-33.87434482,151.1433471
+205,Boosted Commerce,Los Angeles,Retail,United States,2022-07-22,0,33.94222083,-118.4084871
+206,Boozt,Malmo,Retail,Sweden,2022-06-09,70,55.60540149,13.00910023
+207,Borrowell,Toronto,Finance,Canada,2020-04-06,15,43.71194348,-79.40005894
+208,Bossa Nova,SF Bay Area,Retail,United States,2020-06-29,61,37.79089052,-122.4208226
+209,Bossa Nova,SF Bay Area,Retail,United States,2020-11-02,0,37.79089052,-122.4208226
+210,Bounce,Bengaluru,Transportation,India,2020-03-19,120,12.99276888,77.59728476
+211,Bounce,Bengaluru,Transportation,India,2020-06-29,130,12.99276888,77.59728476
+212,Bounce,Bengaluru,Transportation,India,2021-02-22,200,12.99276888,77.59728476
+213,BounceX,New York City,Marketing,United States,2020-04-06,77,40.74606714,-73.98383045
+214,Brainbase,Los Angeles,Sales,United States,2022-07-28,0,33.94222083,-118.4084871
+215,Brainly,Krakow,Education,Poland,2022-11-06,25,50.05260125,19.9856218
+216,Branch,New York City,Retail,United States,2020-06-11,3,40.74606714,-73.98383045
+217,Branch Metrics,SF Bay Area,Marketing,United States,2020-04-07,100,37.79089052,-122.4208226
+218,Brave Care,Portland,Healthcare,United States,2022-09-06,40,45.57698667,-122.6338291
+219,Breathe,New Delhi,Healthcare,India,2022-06-14,50,28.66775072,77.21378315
+220,Breather,Montreal,Real Estate,Canada,2020-12-16,120,45.50496791,-73.62812998
+221,Brex,SF Bay Area,Finance,United States,2020-05-29,62,37.79089052,-122.4208226
+222,Brex,SF Bay Area,Finance,United States,2022-10-11,136,37.79089052,-122.4208226
+223,Bridge Connector,Nashville,Healthcare,United States,2020-11-17,154,36.18188044,-86.71249244
+224,Bridgit,Waterloo,Construction,Canada,2022-12-06,13,43.46419434,-80.51857408
+225,Bright Machines,SF Bay Area,Data,Israel,2022-06-28,30,37.79089052,-122.4208226
+226,Bright Money,Bengaluru,Finance,India,2022-07-15,100,12.99276888,77.59728476
+227,Brighte,Sydney,Energy,Australia,2022-06-20,30,-33.87434482,151.1433471
+228,Brighte,Sydney,Energy,Australia,2022-09-09,58,-33.87434482,151.1433471
+229,Brightline,SF Bay Area,Healthcare,United States,2022-11-01,0,37.79089052,-122.4208226
+230,Bringg,Tel Aviv,Logistics,Israel,2020-04-21,10,32.08733049,34.78969085
+231,Briza,Toronto,Finance,Canada,2022-12-20,26,43.71194348,-79.40005894
+232,Brodmann17,Tel Aviv,Other,Israel,2022-12-09,0,32.08733049,34.78969085
+233,Bryter,Berlin,Product,Germany,2022-07-13,100,52.52096904,13.41511266
+234,Buenbit,Buenos Aires,Crypto,Argentina,2022-05-23,80,-34.60839711,-58.43330549
+235,Builder,Los Angeles,Product,United States,2020-06-04,39,33.94222083,-118.4084871
+236,Built In,Chicago,Recruiting,United States,2020-04-10,28,41.84771607,-87.68255456
+237,Built In,Chicago,Recruiting,United States,2022-10-05,50,41.84771607,-87.68255456
+238,Bullhorn,Boston,Sales,United States,2020-04-30,100,42.34097981,-71.08976212
+239,Bullish,Hong Kong,Crypto,Hong Kong,2022-07-05,30,22.34359155,114.1729829
+240,Bungalow,SF Bay Area,Real Estate,United States,2022-06-22,70,37.79089052,-122.4208226
+241,BusBud,Montreal,Transportation,Canada,2020-04-06,23,45.50496791,-73.62812998
+242,Buser,Sao Paulo,Transportation,Brazil,2022-12-08,160,-23.59912955,-46.64065048
+243,Bustle Digital Group,New York City,Media,United States,2020-04-03,43,40.74606714,-73.98383045
+244,Butler Hospitality,New York City,Food,United States,2022-07-08,1000,40.74606714,-73.98383045
+245,Butterfly Network,New Haven,Healthcare,United States,2022-08-02,0,41.30213606,-72.92909775
+246,Button,New York City,Marketing,United States,2020-04-08,48,40.74606714,-73.98383045
+247,Buy.com / Rakuten,SF Bay Area,Retail,United States,2020-07-30,87,37.79089052,-122.4208226
+248,BuzzFeed,New York City,Media,United States,2022-12-06,180,40.74606714,-73.98383045
+249,Buzzer,New York City,Media,United States,2022-06-20,0,40.74606714,-73.98383045
+250,Bybit,Singapore,Crypto,Singapore,2022-06-20,600,1.340069964,103.8483322
+251,Bybit,Singapore,Crypto,Singapore,2022-12-03,0,1.340069964,103.8483322
+252,Byju's,Bengaluru,Education,India,2022-10-12,2500,12.99276888,77.59728476
+253,Bytedance,Mumbai,Consumer,India,2021-01-27,1800,19.07246385,72.87362405
+254,Bytedance,Shanghai,Consumer,China,2021-08-05,1800,31.40251943,121.3498683
+255,Bytedance,Shanghai,Consumer,China,2022-06-17,150,31.40251943,121.3498683
+256,Byton,SF Bay Area,Transportation,United States,2020-06-27,0,37.79089052,-122.4208226
+257,C2FO,Kansas City,Finance,United States,2022-12-09,20,39.08945202,-94.56201684
+258,C6 Bank,Sao Paulo,Finance,Brazil,2020-04-06,60,-23.59912955,-46.64065048
+259,CTO.ai,Vancouver,Infrastructure,Canada,2020-03-20,30,49.28318844,-123.1005646
+260,Cabin,SF Bay Area,Travel,United States,2020-03-23,0,37.79089052,-122.4208226
+261,Cadre,New York City,Real Estate,United States,2020-05-11,28,40.74606714,-73.98383045
+262,Calibrate,New York City,Healthcare,United States,2022-07-08,156,40.74606714,-73.98383045
+263,Caliva,SF Bay Area,Retail,United States,2020-03-30,20,37.79089052,-122.4208226
+264,Callisto Media,SF Bay Area,Media,United States,2022-07-21,140,37.79089052,-122.4208226
+265,Callisto Media,SF Bay Area,Media,United States,2022-10-25,0,37.79089052,-122.4208226
+266,Calm,SF Bay Area,Healthcare,United States,2022-08-11,90,37.79089052,-122.4208226
+267,Cameo,Chicago,Consumer,United States,2022-05-04,87,41.84771607,-87.68255456
+268,Cameo,Chicago,Consumer,United States,2022-11-09,80,41.84771607,-87.68255456
+269,Candidate Labs,SF Bay Area,HR,United States,2022-09-21,0,37.79089052,-122.4208226
+270,Candy Digital,New York City,Crypto,United States,2022-11-28,33,40.74606714,-73.98383045
+271,Canoo,Los Angeles,Transportation,United States,2022-07-01,58,33.94222083,-118.4084871
+272,Capillary,Bengaluru,Retail,India,2020-04-02,0,12.99276888,77.59728476
+273,Capiter,Cairo,Finance,Egypt,2022-09-09,0,30.04163942,31.245416
+274,Capitolis,New York City,Finance,United States,2022-11-17,37,40.74606714,-73.98383045
+275,Capitolis,New York City,Finance,United States,2022-11-18,0,40.74606714,-73.98383045
+276,Capsule,New York City,Healthcare,United States,2022-07-19,0,40.74606714,-73.98383045
+277,CaptivateIQ,SF Bay Area,Sales,United States,2022-11-15,31,37.79089052,-122.4208226
+278,CarDekho,Gurugram,Transportation,India,2020-05-25,200,28.4494531,77.01926638
+279,CarDekho,Gurugram,Transportation,India,2022-08-03,0,28.4494531,77.01926638
+280,CarGurus,Boston,Transportation,United States,2020-04-16,130,42.34097981,-71.08976212
+281,Carbon Health,SF Bay Area,Healthcare,United States,2022-06-02,250,37.79089052,-122.4208226
+282,Cardlytics,Atlanta,Marketing,United States,2022-11-14,51,33.80016297,-84.40262309
+283,Care.com,Boston,Consumer,United States,2020-04-30,81,42.34097981,-71.08976212
+284,Careem,Dubai,Transportation,United Arab Emirates,2020-05-04,536,25.14957961,55.29326376
+285,Career Karma,SF Bay Area,Education,United States,2022-07-28,60,37.79089052,-122.4208226
+286,Carousell,Singapore,Retail,Singapore,2022-12-01,110,1.340069964,103.8483322
+287,Cars24,Gurgoan,Tech,India,2022-05-15,600,28.4494531,77.01926638
+288,Cars24,Gurugram,Transportation,India,2022-05-19,600,28.4494531,77.01926638
+289,Carsome,Kuala Lumpur,Transportation,Malaysia,2022-09-30,0,3.140217603,101.6979735
+290,Carta,SF Bay Area,Finance,United States,2020-04-15,161,37.79089052,-122.4208226
+291,Carvana,Phoenix,Transportation,United States,2022-05-10,2500,33.45628022,-112.1099772
+292,Carvana,Phoenix,Transportation,United States,2022-11-18,1500,33.45628022,-112.1099772
+293,Carwow,London,Transportation,United Kingdom,2022-11-25,70,51.49754058,-0.093383322
+294,Casper,New York City,Retail,United States,2020-04-21,78,40.74606714,-73.98383045
+295,Casper,New York City,Retail,United States,2021-09-14,0,40.74606714,-73.98383045
+296,Castlight Health,SF Bay Area,Healthcare,United States,2020-05-04,0,37.79089052,-122.4208226
+297,Catalant,Boston,Other,United States,2020-03-30,30,42.34097981,-71.08976212
+298,Catalyst,New York City,Support,United States,2022-07-21,0,40.74606714,-73.98383045
+299,Cazoo,London,Transportation,United Kingdom,2022-06-07,1500,51.49754058,-0.093383322
+300,Cedar,New York City,Healthcare,United States,2022-07-07,0,40.74606714,-73.98383045
+301,Celsius,New York City,Crypto,United States,2022-07-03,150,40.74606714,-73.98383045
+302,Cerebral,SF Bay Area,Healthcare,United States,2022-05-31,0,37.79089052,-122.4208226
+303,Cerebral,SF Bay Area,Healthcare,United States,2022-10-24,400,37.79089052,-122.4208226
+304,Change.org,SF Bay Area,Other,United States,2022-07-28,0,37.79089052,-122.4208226
+305,Chargebee,SF Bay Area,Finance,United States,2022-11-02,142,37.79089052,-122.4208226
+306,Checkmarx,Tel Aviv,Security,Israel,2020-05-18,0,32.08733049,34.78969085
+307,Checkmarx,Tel Aviv,Security,Israel,2022-11-02,100,32.08733049,34.78969085
+308,Checkout.com,London,Finance,United Kingdom,2022-09-13,100,51.49754058,-0.093383322
+309,Checkr,SF Bay Area,HR,United States,2020-07-23,64,37.79089052,-122.4208226
+310,Cheddar,New York City,Media,United States,2020-04-24,0,40.74606714,-73.98383045
+311,Cheetah,SF Bay Area,Food,United States,2020-10-25,0,37.79089052,-122.4208226
+312,Chef,Seattle,Infrastructure,United States,2020-10-08,0,47.6124803,-122.338638
+313,Chessable,London,Consumer,United Kingdom,2022-07-04,29,51.49754058,-0.093383322
+314,Chili Piper,New York City,Sales,United States,2022-11-17,58,40.74606714,-73.98383045
+315,Chime,SF Bay Area,Finance,United States,2022-11-02,156,37.79089052,-122.4208226
+316,Chipax,Santiago,Finance,Chile,2022-11-11,0,-33.44099373,-70.63807105
+317,Chipper Cash,SF Bay Area,Finance,United States,2022-12-06,50,37.79089052,-122.4208226
+318,Chope,Singapore,Food,Singapore,2022-12-20,65,1.340069964,103.8483322
+319,ChowNow,Los Angeles,Food,United States,2022-07-13,100,33.94222083,-118.4084871
+320,ChowNow,Los Angeles,Food,United States,2022-12-14,40,33.94222083,-118.4084871
+321,Cineplex,Toronto,Tech,Canada,2022-01-15,5000,43.71194348,-79.40005894
+322,CipherTrace,SF Bay Area,Crypto,United States,2020-04-09,0,37.79089052,-122.4208226
+323,Circ,Berlin,Transportation,Germany,2020-06-02,100,52.52096904,13.41511266
+324,CircleCI,SF Bay Area,Product,United States,2022-12-07,0,37.79089052,-122.4208226
+325,CircleUp,SF Bay Area,Finance,United States,2022-07-13,0,37.79089052,-122.4208226
+326,Circulo Health,Columbus,Healthcare,United States,2022-06-16,0,39.95103883,-82.97849926
+327,Cisco,SF Bay Area,Infrastructure,United States,2022-11-16,4100,37.79089052,-122.4208226
+328,CityMall,Gurgoan,Tech,India,2022-06-15,191,28.4494531,77.01926638
+329,CityMall,Gurugram,Retail,India,2022-06-19,191,28.4494531,77.01926638
+330,Claravine,Salt Lake City,Marketing,United States,2020-03-31,0,40.77522924,-111.927381
+331,Clari,SF Bay Area,Sales,United States,2022-08-31,45,37.79089052,-122.4208226
+332,Clarify Health,SF Bay Area,Healthcare,United States,2022-07-22,15,37.79089052,-122.4208226
+333,ClassPass,New York City,Fitness,United States,2020-04-02,154,40.74606714,-73.98383045
+334,Classkick,Chicago,Education,United States,2022-08-01,0,41.84771607,-87.68255456
+335,Clear,Bengaluru,Finance,India,2022-09-16,190,12.99276888,77.59728476
+336,Clear,New York,Tech,United States,2022-09-15,200,40.74606714,-73.98383045
+337,Clear Capital,SF Bay Area,Real Estate,United States,2022-10-14,378,37.79089052,-122.4208226
+338,Clearbanc,Toronto,Finance,Canada,2020-04-13,17,43.71194348,-79.40005894
+339,Clearbit,SF Bay Area,Data,United States,2020-04-22,0,37.79089052,-122.4208226
+340,Clearco,Dublin,Finance,Ireland,2022-06-06,0,53.38055184,-6.269073519
+341,Clearco,Toronto,Finance,Canada,2022-06-06,60,43.71194348,-79.40005894
+342,Clearco,Toronto,Finance,Canada,2022-07-29,125,43.71194348,-79.40005894
+343,Clever Real Estate,St. Louis,Real Estate,United States,2020-03-25,0,38.62620037,-90.19403116
+344,Clever Real Estate,St. Louis,Real Estate,United States,2022-10-19,0,38.62620037,-90.19403116
+345,CleverTap,Mumbai,Marketing,India,2020-04-16,60,19.07246385,72.87362405
+346,ClickUp,San Diego,Other,United States,2022-05-23,60,32.74804203,-117.1282372
+347,Clinc,Ann Arbor,Support,United States,2020-04-09,40,42.28398384,-83.74163812
+348,CloudFactory,Nairobi,Data,Kenya,2022-11-09,0,-1.308685021,36.81165373
+349,CloudKitchens,Los Angeles,Real Estate,United States,2022-11-03,0,33.94222083,-118.4084871
+350,Cloudera,SF Bay Area,Infrastructure,United States,2020-05-05,0,37.79089052,-122.4208226
+351,Cloudinary,SF Bay Area,Media,United States,2022-11-14,40,37.79089052,-122.4208226
+352,Clubhouse,SF Bay Area,Consumer,United States,2022-06-03,0,37.79089052,-122.4208226
+353,Clumio,SF Bay Area,Data,United States,2021-03-01,0,37.79089052,-122.4208226
+354,Clutch,Toronto,Transportation,Canada,2022-06-29,76,43.71194348,-79.40005894
+355,Clutter,Los Angeles,Consumer,United States,2020-03-25,0,33.94222083,-118.4084871
+356,Clyde,New York City,Marketing,United States,2022-04-25,22,40.74606714,-73.98383045
+357,Code42,Minneapolis,Data,United States,2020-04-09,25,44.97043271,-93.26319687
+358,Code42,Minneapolis,Security,United States,2022-11-07,0,44.97043271,-93.26319687
+359,CodeCombat,SF Bay Area,Education,United States,2020-10-23,8,37.79089052,-122.4208226
+360,Codexis,SF Bay Area,Healthcare,United States,2022-11-29,0,37.79089052,-122.4208226
+361,Coding Dojo,Seattle,Education,United States,2020-04-02,7,47.6124803,-122.338638
+362,Cogito,Boston,Support,United States,2020-04-06,24,42.34097981,-71.08976212
+363,Cognyte,Tel Aviv,Security,Israel,2022-12-02,100,32.08733049,34.78969085
+364,Cohesity,SF Bay Area,Data,United States,2020-04-30,0,37.79089052,-122.4208226
+365,CoinFLEX,Victoria,Crypto,Seychelles,2022-07-29,0,-3.897526929,55.64146275
+366,CoinJar,Melbourne,Crypto,Australia,2022-11-29,10,-37.89324894,145.0859886
+367,Coinbase,SF Bay Area,Crypto,United States,2022-06-14,1100,37.79089052,-122.4208226
+368,Coinbase,SF Bay Area,Crypto,United States,2022-11-10,60,37.79089052,-122.4208226
+369,Coinbase,SF Bay Area,Tech,United States,2022-06-15,1100,37.79089052,-122.4208226
+370,Coinsquare,Toronto,Crypto,Canada,2022-07-27,30,43.71194348,-79.40005894
+371,Collibra,Brussels,Data,Belgium,2022-10-19,0,50.84513221,4.356189435
+372,Colossus,Boston,Energy,United States,2022-05-04,97,42.34097981,-71.08976212
+373,CommentSold,Huntsville,Retail,United States,2022-06-29,0,34.73045749,-86.61171629
+374,CommonBond,New York City,Finance,United States,2022-05-13,22,40.74606714,-73.98383045
+375,CommonBond,New York City,Finance,United States,2022-09-09,0,40.74606714,-73.98383045
+376,Community,Los Angeles,Marketing,United States,2022-06-21,40,33.94222083,-118.4084871
+377,Compass,New York City,Real Estate,United States,2020-03-23,375,40.74606714,-73.98383045
+378,Compass,New York City,Real Estate,United States,2022-06-14,450,40.74606714,-73.98383045
+379,Compass,New York City,Real Estate,United States,2022-09-20,271,40.74606714,-73.98383045
+380,Compete,Tel Aviv,HR,Israel,2022-09-12,11,32.08733049,34.78969085
+381,Conga,Denver,Data,United States,2020-06-15,0,39.74499824,-104.9183128
+382,Connected,Toronto,Product,Canada,2020-04-08,17,43.71194348,-79.40005894
+383,ConsenSys,New York City,Crypto,United States,2020-04-20,91,40.74606714,-73.98383045
+384,Consider.co,SF Bay Area,Other,United States,2020-03-26,13,37.79089052,-122.4208226
+385,ContaAzul,Joinville,Education,Brazil,2020-04-17,140,-26.28161408,-48.91210126
+386,ContraFect,New York City,Healthcare,United States,2022-08-15,16,40.74606714,-73.98383045
+387,Convene,New York City,Real Estate,United States,2020-03-23,150,40.74606714,-73.98383045
+388,Convene,New York City,Real Estate,United States,2022-12-10,0,40.74606714,-73.98383045
+389,Convoy,Seattle,Logistics,United States,2020-04-23,0,47.6124803,-122.338638
+390,Convoy,Seattle,Logistics,United States,2022-06-09,90,47.6124803,-122.338638
+391,Convoy,Seattle,Logistics,United States,2022-10-25,0,47.6124803,-122.338638
+392,Copper,SF Bay Area,Marketing,United States,2020-04-02,35,37.79089052,-122.4208226
+393,Core Scientific,Austin,Crypto,United States,2022-08-12,0,30.27507688,-97.74751097
+394,Cosuno,Berlin,Construction,Germany,2022-07-14,0,52.52096904,13.41511266
+395,Coterie Insurance,Cincinnati,Finance,United States,2022-05-25,30,39.14559081,-84.53219194
+396,Coursera,SF Bay Area,Education,United States,2022-11-09,0,37.79089052,-122.4208226
+397,Crayon,Boston,Marketing,United States,2020-04-01,20,42.34097981,-71.08976212
+398,Credit Sesame,SF Bay Area,Finance,United States,2020-06-03,22,37.79089052,-122.4208226
+399,Creditas,Sao Paulo,Finance,Brazil,2020-04-08,0,-23.59912955,-46.64065048
+400,Crehana,Lima,Education,Peru,2022-06-15,0,-12.0264986,-77.02214742
+401,Crejo.Fun,Bengaluru,Education,India,2022-06-30,170,12.99276888,77.59728476
+402,CrowdRiff,Toronto,Marketing,Canada,2020-04-16,0,43.71194348,-79.40005894
+403,CrowdStreet,Portland,Real Estate,United States,2020-06-01,24,45.57698667,-122.6338291
+404,Cruise,SF Bay Area,Transportation,United States,2020-05-14,150,37.79089052,-122.4208226
+405,Crypto.com,Singapore,Crypto,Singapore,2022-06-10,260,1.340069964,103.8483322
+406,Crypto.com,Singapore,Crypto,Singapore,2022-08-16,0,1.340069964,103.8483322
+407,Crypto.com,Singapore,Crypto,Singapore,2022-10-06,2000,1.340069964,103.8483322
+408,Cue,San Diego,Healthcare,United States,2022-06-27,170,32.74804203,-117.1282372
+409,Culture Amp,Melbourne,HR,Australia,2020-05-28,36,-37.89324894,145.0859886
+410,Culture Trip,London,Media,United Kingdom,2020-05-01,95,51.49754058,-0.093383322
+411,Curative,Los Angeles,Healthcare,United States,2022-09-20,109,33.94222083,-118.4084871
+412,CureFit,Bengaluru,Fitness,India,2020-05-04,800,12.99276888,77.59728476
+413,Curefit,Bengaluru,Fitness,India,2020-07-17,120,12.99276888,77.59728476
+414,Curology,SF Bay Area,Healthcare,United States,2022-03-16,150,37.79089052,-122.4208226
+415,Currency,Los Angeles,Finance,United States,2020-04-01,0,33.94222083,-118.4084871
+416,Curve,London,Finance,United Kingdom,2022-06-01,65,51.49754058,-0.093383322
+417,Cuyana,SF Bay Area,Retail,United States,2020-03-30,0,37.79089052,-122.4208226
+418,Cvent,Washington D.C.,Marketing,United States,2020-05-21,400,38.88992976,-77.01664355
+419,CyCognito,SF Bay Area,Security,United States,2022-12-08,30,37.79089052,-122.4208226
+420,CyberCube,SF Bay Area,Finance,United States,2022-06-07,0,37.79089052,-122.4208226
+421,Cybereason,Boston,Security,United States,2022-06-01,100,42.34097981,-71.08976212
+422,Cybereason,Boston,Security,United States,2022-10-26,200,42.34097981,-71.08976212
+423,D2L,Waterloo,Education,Canada,2022-11-16,0,43.46419434,-80.51857408
+424,D2iQ,SF Bay Area,Infrastructure,United States,2020-04-03,34,37.79089052,-122.4208226
+425,DISCO,Austin,Legal,United States,2020-03-27,75,30.27507688,-97.74751097
+426,DJI,SF Bay Area,Consumer,United States,2021-02-24,0,37.79089052,-122.4208226
+427,DJI,Shenzen,Consumer,China,2020-08-17,0,22.64493411,114.04835
+428,DSCO,Salt Lake City,Retail,United States,2020-04-03,12,40.77522924,-111.927381
+429,Daily Harvest,New York City,Food,United States,2022-08-08,0,40.74606714,-73.98383045
+430,DailyPay,New York City,Finance,United States,2022-08-09,0,40.74606714,-73.98383045
+431,Daloopa,New Delhi,Data,India,2022-05-27,40,28.66775072,77.21378315
+432,Dance,Berlin,Transportation,Germany,2022-11-16,0,52.52096904,13.41511266
+433,Daniel Wellington,Stockholm,Retail,Sweden,2022-06-09,200,59.34125093,18.05756334
+434,Dapper Labs,Vancouver,Crypto,United States,2022-11-02,134,49.28318844,-123.1005646
+435,Dark,SF Bay Area,Product,United States,2020-06-23,6,37.79089052,-122.4208226
+436,DataRobot,Boston,Data,United States,2020-03-27,200,42.34097981,-71.08976212
+437,DataRobot,Boston,Data,United States,2022-05-11,70,42.34097981,-71.08976212
+438,DataRobot,Boston,Data,United States,2022-08-08,0,42.34097981,-71.08976212
+439,DataRobot,Boston,Data,United States,2022-08-23,0,42.34097981,-71.08976212
+440,DataStax,SF Bay Area,Data,United States,2020-04-14,15,37.79089052,-122.4208226
+441,Datera,SF Bay Area,Infrastructure,United States,2020-05-18,0,37.79089052,-122.4208226
+442,Datto,Norwalk,Infrastructure,United States,2020-05-12,0,41.11023002,-73.41795237
+443,DayTwo,SF Bay Area,Healthcare,United States,2022-09-15,0,37.79089052,-122.4208226
+444,Dazn,London,Consumer,United Kingdom,2022-05-26,50,51.49754058,-0.093383322
+445,DeHaat,Gurugram,Food,India,2022-08-01,0,28.4494531,77.01926638
+446,Deep Instinct,New York City,Security,United States,2022-06-06,0,40.74606714,-73.98383045
+447,Defined.ai,Seattle,Data,United States,2022-02-07,0,47.6124803,-122.338638
+448,Degreed,SF Bay Area,Education,United States,2022-06-29,0,37.79089052,-122.4208226
+449,Deliv,SF Bay Area,Retail,United States,2020-05-13,669,37.79089052,-122.4208226
+450,Deliveroo,London,Food,United Kingdom,2020-04-28,367,51.49754058,-0.093383322
+451,Deliveroo Australia,Melbourne,Food,Australia,2022-11-15,120,-37.89324894,145.0859886
+452,Delivery Hero,Berlin,Food,Germany,2021-12-22,300,52.52096904,13.41511266
+453,Delivery Hero,Berlin,Food,Germany,2022-11-03,100,52.52096904,13.41511266
+454,Demandbase,SF Bay Area,Sales,United States,2022-09-07,27,37.79089052,-122.4208226
+455,Deputy,Sydney,HR,Australia,2020-05-04,60,-33.87434482,151.1433471
+456,Descartes Labs,Santa Fe,Data,United States,2020-06-02,12,35.6801813,-105.9439052
+457,Desktop Metal,Boston,Other,United States,2020-04-28,0,42.34097981,-71.08976212
+458,Desktop Metal,Boston,Other,United States,2022-06-13,0,42.34097981,-71.08976212
+459,Devo,Boston,Security,United States,2022-11-21,0,42.34097981,-71.08976212
+460,DiDi,Beijing,Tech,China,2022-02-15,3000,39.90063003,116.3740834
+461,DialSource,Sacramento,Marketing,United States,2020-03-31,5,38.56111358,-121.4456667
+462,Digital Currency Gruop,Stamford,Crypto,United States,2022-11-02,10,41.06197344,-73.538062
+463,Digital Surge,Brisbane,Crypto,Australia,2022-12-09,0,-27.47937432,153.0329909
+464,Dispatch,Boston,Other,United States,2020-04-17,0,42.34097981,-71.08976212
+465,Divergent 3D,Los Angeles,Transportation,United States,2020-04-24,57,33.94222083,-118.4084871
+466,Divvy,Salt Lake City,Finance,United States,2020-05-19,0,40.77522924,-111.927381
+467,Divvy Homes,SF Bay Area,Real Estate,United States,2020-03-25,0,37.79089052,-122.4208226
+468,Divvy Homes,SF Bay Area,Real Estate,United States,2022-09-27,40,37.79089052,-122.4208226
+469,Dock,Sao Paulo,Finance,Brazil,2022-11-07,190,-23.59912955,-46.64065048
+470,Docly,London,Healthcare,United Kingdom,2020-08-19,8,51.49754058,-0.093383322
+471,DocuSign,SF Bay Area,Sales,United States,2022-09-28,671,37.79089052,-122.4208226
+472,Doma,SF Bay Area,Finance,United States,2022-05-10,310,37.79089052,-122.4208226
+473,Doma,SF Bay Area,Finance,United States,2022-08-04,250,37.79089052,-122.4208226
+474,Doma,SF Bay Area,Finance,United States,2022-12-06,515,37.79089052,-122.4208226
+475,Domestika,SF Bay Area,Education,United States,2022-04-28,150,37.79089052,-122.4208226
+476,Domino Data Lab,SF Bay Area,Data,United States,2022-11-07,0,37.79089052,-122.4208226
+477,Domio,New York City,Real Estate,United States,2020-11-18,0,40.74606714,-73.98383045
+478,Domio,New York City,Travel,United States,2020-03-31,0,40.74606714,-73.98383045
+479,Domo,Salt Lake City,Data,United States,2020-04-09,90,40.77522924,-111.927381
+480,Dooly,Vancouver,Sales,Canada,2022-08-09,12,49.28318844,-123.1005646
+481,DoorDash,SF Bay Area,Food,United States,2022-11-30,1250,37.79089052,-122.4208226
+482,Dotscience,London,Product,United Kingdom,2020-05-19,10,51.49754058,-0.093383322
+483,Dover,SF Bay Area,Recruiting,United States,2022-07-26,23,37.79089052,-122.4208226
+484,DreamBox Learning,Seattle,Education,United States,2022-09-09,0,47.6124803,-122.338638
+485,Drip,Salt Lake City,Marketing,United States,2020-03-23,20,40.77522924,-111.927381
+486,Drop,Toronto,Marketing,Canada,2022-11-01,24,43.71194348,-79.40005894
+487,Dropbox,SF Bay Area,Other,United States,2021-01-13,315,37.79089052,-122.4208226
+488,Dude Solutions,Raleigh,Other,United States,2020-04-15,0,35.80892558,-78.63684775
+489,Dukaan,Bengaluru,Retail,India,2022-10-31,23,12.99276888,77.59728476
+490,Dutchie,Bend,Other,United States,2022-06-06,50,44.05716755,-121.3029732
+491,Dynamic Signal,SF Bay Area,HR,United States,2020-04-02,35,37.79089052,-122.4208226
+492,E Inc.,Toronto,Transportation,Canada,2022-12-16,0,43.71194348,-79.40005894
+493,Earnin,SF Bay Area,Finance,United States,2020-04-01,50,37.79089052,-122.4208226
+494,EasyPost,SF Bay Area,Logistics,United States,2020-04-13,50,37.79089052,-122.4208226
+495,EasyPost,Salt Lake City,Logistics,United States,2020-03-11,75,40.77522924,-111.927381
+496,Eatsy,Singapore,Food,Singapore,2020-08-08,20,1.340069964,103.8483322
+497,Eaze,SF Bay Area,Consumer,United States,2022-06-01,25,37.79089052,-122.4208226
+498,Ebanx,Curitiba,Finance,Brazil,2020-05-27,62,-25.46219713,-49.27675988
+499,Ebanx,Curitiba,Finance,Brazil,2022-06-21,340,-25.46219713,-49.27675988
+500,Ecobee,Toronto,Energy,Canada,2020-03-26,47,43.71194348,-79.40005894
+501,Eden / Managed By Q,New York City,Real Estate,United States,2020-04-08,40,40.74606714,-73.98383045
+502,Edgio,Phoenix,Infrastructure,United States,2022-12-13,95,33.45628022,-112.1099772
+503,Edmodo,SF Bay Area,Education,United States,2022-08-16,0,37.79089052,-122.4208226
+504,Eight Sleep,New York City,Retail,United States,2020-03-23,0,40.74606714,-73.98383045
+505,Ejento,SF Bay Area,Recruiting,United States,2020-03-19,84,37.79089052,-122.4208226
+506,Elastic,SF Bay Area,Data,United States,2022-11-30,0,37.79089052,-122.4208226
+507,Electric,New York City,Other,United States,2022-08-30,81,40.74606714,-73.98383045
+508,Element AI,Montreal,Other,Canada,2020-05-04,62,45.50496791,-73.62812998
+509,Element Analytics,SF Bay Area,Data,United States,2020-03-25,10,37.79089052,-122.4208226
+510,Elementor,Tel Aviv,Media,Israel,2022-06-15,60,32.08733049,34.78969085
+511,Elemy,SF Bay Area,Healthcare,United States,2022-07-18,0,37.79089052,-122.4208226
+512,Elemy,SF Bay Area,Healthcare,United States,2022-12-05,0,37.79089052,-122.4208226
+513,Elinvar,Berlin,Finance,Germany,2022-10-21,43,52.52096904,13.41511266
+514,Elliptic,London,Crypto,United Kingdom,2020-04-09,0,51.49754058,-0.093383322
+515,Embroker,SF Bay Area,Finance,United States,2022-10-25,30,37.79089052,-122.4208226
+516,Emitwise,London,Energy,United Kingdom,2022-10-11,0,51.49754058,-0.093383322
+517,Emotive,Los Angeles,Marketing,United States,2022-07-07,30,33.94222083,-118.4084871
+518,Engine eCommerce,Fayetteville,Retail,United States,2020-06-28,0,35.05155217,-78.96597232
+519,Enjoy,SF Bay Area,Retail,United States,2022-06-30,400,37.79089052,-122.4208226
+520,Envato,Melbourne,Marketing,Australia,2022-06-02,100,-37.89324894,145.0859886
+521,Envoy,SF Bay Area,HR,United States,2020-04-14,58,37.79089052,-122.4208226
+522,EquityZen,New York City,Finance,United States,2022-10-31,30,40.74606714,-73.98383045
+523,Equitybee,SF Bay Area,Finance,United States,2022-10-31,25,37.79089052,-122.4208226
+524,Eruditus,Mumbai,Education,India,2022-06-04,40,19.07246385,72.87362405
+525,Esme Learning,Boston,Education,United States,2022-06-02,0,42.34097981,-71.08976212
+526,Esper,Seattle,Other,United States,2022-06-23,0,47.6124803,-122.338638
+527,Etermax,Buenos Aires,Other,Argentina,2022-11-30,40,-34.60839711,-58.43330549
+528,Ethos Life,SF Bay Area,Finance,United States,2020-06-05,18,37.79089052,-122.4208226
+529,Ethos Life,SF Bay Area,Finance,United States,2022-06-24,40,37.79089052,-122.4208226
+530,Eucalyptus,Sydney,Healthcare,United States,2022-07-22,50,-33.87434482,151.1433471
+531,Eventbrite,SF Bay Area,Consumer,United States,2020-04-08,500,37.79089052,-122.4208226
+532,Everlane,SF Bay Area,Retail,United States,2020-03-27,227,37.79089052,-122.4208226
+533,Expert360,Sydney,Recruiting,Australia,2022-08-11,7,-33.87434482,151.1433471
+534,ExtraHop,Seattle,Security,United States,2020-04-22,0,47.6124803,-122.338638
+535,ExtraHop,Seattle,Security,United States,2022-10-13,0,47.6124803,-122.338638
+536,F5,Seattle,Security,United States,2022-10-21,100,47.6124803,-122.338638
+537,FabHotels,New Delhi,Travel,India,2020-03-30,80,28.66775072,77.21378315
+538,Fabric,New York City,Logistics,United States,2022-07-13,120,40.74606714,-73.98383045
+539,Facily,Sao Paulo,Retail,Brazil,2022-04-20,260,-23.59912955,-46.64065048
+540,Faire,SF Bay Area,Retail,United States,2022-10-18,84,37.79089052,-122.4208226
+541,Fandom,SF Bay Area,Media,United States,2020-04-30,0,37.79089052,-122.4208226
+542,FarEye,New Delhi,Logistics,India,2022-06-10,250,28.66775072,77.21378315
+543,Fareportal,Gurugram,Travel,India,2020-03-26,200,28.4494531,77.01926638
+544,Fast,SF Bay Area,Finance,United States,2022-04-05,0,37.79089052,-122.4208226
+545,Favo,Sao Paulo,Food,Brazil,2022-06-02,170,-23.59912955,-46.64065048
+546,Faze Medicines,Boston,Healthcare,United States,2022-11-09,0,42.34097981,-71.08976212
+547,Feather,New York City,Retail,United States,2022-06-24,0,40.74606714,-73.98383045
+548,Fifth Season,Pittsburgh,Food,United States,2022-10-28,100,40.44852962,-79.97844802
+549,Filevine,Salt Lake City,Legal,United States,2022-12-06,0,40.77522924,-111.927381
+550,Finite State,Columbus,Security,United States,2022-06-17,16,39.95103883,-82.97849926
+551,Finleap Connect,Hamburg,Finance,Germany,2022-06-30,14,53.54600679,9.99783599
+552,FireHydrant,New York City,Infrastructure,United States,2022-12-08,0,40.74606714,-73.98383045
+553,Firebolt,Tel Aviv,Data,Israel,2022-09-07,0,32.08733049,34.78969085
+554,Firework,SF Bay Area,Retail,United States,2022-11-29,0,37.79089052,-122.4208226
+555,First AML,Auckland,Finance,New Zealand,2022-10-06,0,-36.86412364,174.7507463
+556,FiscalNote,Washington D.C.,Media,United States,2020-04-02,30,38.88992976,-77.01664355
+557,Fiverr,Tel Aviv,Other,Israel,2022-07-26,60,32.08733049,34.78969085
+558,Fivetran,SF Bay Area,Data,United States,2022-10-04,0,37.79089052,-122.4208226
+559,Flash Coffee,Singapore,Food,Singapore,2022-11-22,0,1.340069964,103.8483322
+560,Flatiron School,New York City,Education,United States,2020-05-06,100,40.74606714,-73.98383045
+561,Flipboard,SF Bay Area,Media,United States,2022-10-16,24,37.79089052,-122.4208226
+562,FloQast,Los Angeles,Finance,United States,2020-04-10,0,33.94222083,-118.4084871
+563,Flockjay,SF Bay Area,Education,United States,2021-08-24,37,37.79089052,-122.4208226
+564,Flowhub,Denver,Retail,United States,2022-09-09,0,39.74499824,-104.9183128
+565,Flowr,Toronto,Retail,Canada,2020-03-24,0,43.71194348,-79.40005894
+566,Fluke,Sao Paulo,Other,Brazil,2022-08-17,83,-23.59912955,-46.64065048
+567,Flux Systems,London,Finance,United Kingdom,2022-10-14,0,51.49754058,-0.093383322
+568,Flyhomes,Seattle,Real Estate,United States,2022-07-20,200,47.6124803,-122.338638
+569,Flyhomes,Seattle,Real Estate,United States,2022-11-09,300,47.6124803,-122.338638
+570,Flymya,Yangon,Travel,Myanmar,2020-04-01,200,16.80477489,96.16230971
+571,Flynote,Bengaluru,Travel,India,2020-05-01,0,12.99276888,77.59728476
+572,Flytedesk,Boulder,Marketing,United States,2020-03-18,4,40.01929836,-105.2852979
+573,Flywheel Sports,New York City,Fitness,United States,2020-03-20,784,40.74606714,-73.98383045
+574,Flywire,Boston,Finance,United States,2020-05-07,60,42.34097981,-71.08976212
+575,Food52,New York City,Food,United States,2020-04-17,0,40.74606714,-73.98383045
+576,Food52,New York City,Food,United States,2022-04-08,20,40.74606714,-73.98383045
+577,Food52,New York City,Food,United States,2022-06-03,21,40.74606714,-73.98383045
+578,Foodpanda,Bucharest,Food,Romania,2022-05-26,80,44.44509379,26.09806373
+579,Foodpanda,Singapore,Food,Romania,2022-09-07,60,1.340069964,103.8483322
+580,Foodsby,Minneapolis,Food,United States,2020-03-24,87,44.97043271,-93.26319687
+581,Ford,DearBorn,Tech,United States,2022-08-15,3000,42.31864099,-83.21032127
+582,Foresight Insurance,SF Bay Area,Finance,United States,2022-10-06,0,37.79089052,-122.4208226
+583,Forma.ai,Toronto,Sales,Canada,2022-07-20,15,43.71194348,-79.40005894
+584,Forward,SF Bay Area,Healthcare,United States,2020-04-20,10,37.79089052,-122.4208226
+585,Forward,SF Bay Area,Healthcare,United States,2022-07-11,0,37.79089052,-122.4208226
+586,FourKites,Chicago,Logistics,United States,2022-08-11,60,41.84771607,-87.68255456
+587,Foxtrot,Chicago,Food,United States,2022-09-23,26,41.84771607,-87.68255456
+588,Fraazo,Mumbai,Food,India,2022-07-12,150,19.07246385,72.87362405
+589,Freetrade,London,Finance,United Kingdom,2022-06-10,45,51.49754058,-0.093383322
+590,FreshDirect,Philadelphia,Food,United States,2022-08-25,40,39.98111811,-75.18260285
+591,Freshbooks,Toronto,Finance,Canada,2020-04-21,38,43.71194348,-79.40005894
+592,Freshly,New York City,Food,United States,2022-07-18,0,40.74606714,-73.98383045
+593,Freshly,Phoenix,Food,United States,2022-12-12,329,33.45628022,-112.1099772
+594,Freshworks,SF Bay Area,Support,United States,2022-12-15,90,37.79089052,-122.4208226
+595,Front,SF Bay Area,Support,United States,2022-09-28,0,37.79089052,-122.4208226
+596,FrontRow,Bengaluru,Education,India,2022-05-27,145,12.99276888,77.59728476
+597,FrontRow,Bengaluru,Education,India,2022-10-12,130,12.99276888,77.59728476
+598,Frontdesk,Milwaukee,Travel,United States,2020-04-10,35,43.06081621,-87.94477794
+599,Frubana,Bogota,Food,Colombia,2022-06-21,0,4.604437411,-74.09140627
+600,FuboTV,New York City,Media,United States,2022-08-02,0,40.74606714,-73.98383045
+601,FullStory,Atlanta,Marketing,United States,2020-04-16,0,33.80016297,-84.40262309
+602,FullStory,Atlanta,Marketing,United States,2022-09-13,0,33.80016297,-84.40262309
+603,Fundbox,SF Bay Area,Finance,United States,2020-06-02,14,37.79089052,-122.4208226
+604,Fundbox,SF Bay Area,Finance,United States,2022-10-25,150,37.79089052,-122.4208226
+605,Funding Circle,SF Bay Area,Finance,United States,2020-07-08,85,37.79089052,-122.4208226
+606,Funding Societies,Singapore,Finance,Singapore,2020-04-16,65,1.340069964,103.8483322
+607,Fungible,SF Bay Area,Crypto,United States,2022-08-29,0,37.79089052,-122.4208226
+608,Furlenco,Bangalore,Tech,India,2022-03-15,180,12.99276888,77.59728476
+609,Furlenco,Bengaluru,Retail,India,2022-03-26,180,12.99276888,77.59728476
+610,FutureLearn,London,Education,United Kingdom,2022-11-28,0,51.49754058,-0.093383322
+611,G/O Media Group,New York City,Media,United States,2020-04-03,14,40.74606714,-73.98383045
+612,G2,Chicago,Marketing,United States,2020-06-30,17,41.84771607,-87.68255456
+613,GOAT Group,Los Angeles,Retail,United States,2020-04-01,0,33.94222083,-118.4084871
+614,GSR,Hong Kong,Crypto,Hong Kong,2022-10-11,0,22.34359155,114.1729829
+615,Gather,SF Bay Area,Consumer,United States,2022-06-02,30,37.79089052,-122.4208226
+616,Gatherly,Atlanta,Marketing,United States,2022-07-31,0,33.80016297,-84.40262309
+617,Gavelytics,Los Angeles,Legal,United States,2022-06-30,0,33.94222083,-118.4084871
+618,Geekwire,Seattle,Media,United States,2020-04-10,5,47.6124803,-122.338638
+619,Gem,SF Bay Area,Recruiting,United States,2022-11-01,100,37.79089052,-122.4208226
+620,Gemini,New York City,Crypto,United States,2022-06-02,100,40.74606714,-73.98383045
+621,Gemini,New York City,Crypto,United States,2022-07-18,68,40.74606714,-73.98383045
+622,Genesis,New York City,Crypto,United States,2022-08-17,52,40.74606714,-73.98383045
+623,Genius,New York City,Consumer,United States,2021-09-15,0,40.74606714,-73.98383045
+624,Genome Medical,SF Bay Area,Healthcare,United States,2022-09-08,23,37.79089052,-122.4208226
+625,GetNinjas,Sao Paulo,Consumer,Brazil,2020-04-08,11,-23.59912955,-46.64065048
+626,GetYourGuide,Berlin,Travel,Germany,2020-10-14,90,52.52096904,13.41511266
+627,Getaround,SF Bay Area,Transportation,United States,2020-03-27,100,37.79089052,-122.4208226
+628,Getir,Istanbul,Food,Turkey,2022-05-25,0,41.04126349,29.03403564
+629,Getta,Tel Aviv,Transportation,Israel,2022-05-31,30,32.08733049,34.78969085
+630,Give Legacy,Boston,Healthcare,United States,2022-06-24,0,42.34097981,-71.08976212
+631,Glassdoor,SF Bay Area,Recruiting,United States,2020-05-07,300,37.79089052,-122.4208226
+632,Glints,Singapore,HR,Singapore,2022-12-08,198,1.340069964,103.8483322
+633,Glitch,New York City,Product,United States,2020-05-21,18,40.74606714,-73.98383045
+634,GloriFi,Dallas,Finance,United States,2022-11-21,0,32.82612278,-96.75767773
+635,Glossier,New York City,Consumer,United States,2022-01-26,80,40.74606714,-73.98383045
+636,Glossier,New York City,Retail,United States,2020-08-07,150,40.74606714,-73.98383045
+637,Glossier,New York City,Retail,United States,2022-08-02,19,40.74606714,-73.98383045
+638,GoBear,Singapore,Finance,Singapore,2020-09-01,22,1.340069964,103.8483322
+639,GoCardless,London,Finance,United Kingdom,2020-04-24,0,51.49754058,-0.093383322
+640,GoDaddy,Austin,Marketing,United States,2020-06-24,451,30.27507688,-97.74751097
+641,GoFundMe,SF Bay Area,Finance,United States,2022-10-26,94,37.79089052,-122.4208226
+642,GoHealth,Chicago,Healthcare,United States,2022-08-09,800,41.84771607,-87.68255456
+643,GoNuts,Mumbai,Media,India,2022-10-27,0,19.07246385,72.87362405
+644,GoPro,SF Bay Area,Consumer,United States,2020-04-15,200,37.79089052,-122.4208226
+645,GoSpotCheck,Denver,Retail,United States,2020-03-26,23,39.74499824,-104.9183128
+646,GoStudent,Vienna,Education,Austria,2022-09-08,200,48.19654959,16.35394133
+647,GoStudent,Vienna,Education,Austria,2022-12-14,100,48.19654959,16.35394133
+648,GoTo Group,Jakarta,Transportation,Indonesia,2022-11-10,1300,-6.224949848,106.8528548
+649,Gojek,Jakarta,Transportation,Indonesia,2020-06-23,430,-6.224949848,106.8528548
+650,GoodGood,Toronto,Retail,Canada,2022-11-23,0,43.71194348,-79.40005894
+651,GoodRx,Los Angeles,Healthcare,United States,2022-08-31,140,33.94222083,-118.4084871
+652,Goodfood,Calgary,Food,Canada,2022-04-07,70,51.02383332,-114.0370479
+653,Gopuff,Philadelphia,Food,United States,2022-01-26,100,39.98111811,-75.18260285
+654,Gopuff,Philadelphia,Food,United States,2022-03-29,450,39.98111811,-75.18260285
+655,Gopuff,Philadelphia,Food,United States,2022-07-12,1500,39.98111811,-75.18260285
+656,Gopuff,Philadelphia,Food,United States,2022-10-19,250,39.98111811,-75.18260285
+657,Gorillas,Berlin,Food,Germany,2022-05-24,300,52.52096904,13.41511266
+658,Gorillas,Berlin,Food,Germany,2022-07-03,540,52.52096904,13.41511266
+659,Grab,Singapore,Transportation,Singapore,2020-06-16,360,1.340069964,103.8483322
+660,Grailed,New York City,Retail,United States,2020-04-16,0,40.74606714,-73.98383045
+661,Graphcore,Bristol,Data,United Kingdom,2022-09-27,0,51.47873276,-2.602392031
+662,GrayMeta,Los Angeles,Data,United States,2020-03-23,20,33.94222083,-118.4084871
+663,Greenhouse Software,New York City,Recruiting,United States,2020-04-17,120,40.74606714,-73.98383045
+664,Grin,Sacramento,Marketing,United States,2022-11-30,60,38.56111358,-121.4456667
+665,Group Nine Media,New York City,Media,United States,2020-04-07,50,40.74606714,-73.98383045
+666,Groupon,Chicago,Retail,United States,2020-04-13,2800,41.84771607,-87.68255456
+667,Groupon,Chicago,Retail,United States,2022-08-08,500,41.84771607,-87.68255456
+668,Grove Collaborative,SF Bay Area,Retail,United States,2022-03-19,0,37.79089052,-122.4208226
+669,Grover,Berlin,Retail,United States,2022-12-07,40,52.52096904,13.41511266
+670,Guidewire,SF Bay Area,Finance,United States,2022-08-11,0,37.79089052,-122.4208226
+671,GumGum,Los Angeles,Marketing,United States,2020-04-20,90,33.94222083,-118.4084871
+672,Gympass,Sao Paulo,Fitness,Brazil,2020-04-03,467,-23.59912955,-46.64065048
+673,HOOQ,Singapore,Consumer,Singapore,2020-03-27,250,1.340069964,103.8483322
+674,Halcyon Health,New York City,Healthcare,United States,2022-04-15,0,40.74606714,-73.98383045
+675,Handshake,SF Bay Area,Recruiting,United States,2020-05-05,0,37.79089052,-122.4208226
+676,Happy Money,Los Angeles,Finance,United States,2022-11-30,158,33.94222083,-118.4084871
+677,Hash,Sao Paulo,Finance,Brazil,2022-08-01,58,-23.59912955,-46.64065048
+678,Haus,SF Bay Area,Food,United States,2022-08-09,0,37.79089052,-122.4208226
+679,Havenly,Denver,Consumer,United States,2020-07-01,5,39.74499824,-104.9183128
+680,Headspace,Los Angeles,Healthcare,United States,2022-12-14,50,33.94222083,-118.4084871
+681,Health IQ,SF Bay Area,Healthcare,United States,2022-12-19,0,37.79089052,-122.4208226
+682,HealthMatch,Sydney,Healthcare,Australia,2022-06-28,18,-33.87434482,151.1433471
+683,Healthcare.com,Miami,Healthcare,United States,2022-08-03,149,25.76997397,-80.22809381
+684,HealthifyMe,Bengaluru,Fitness,India,2022-12-03,150,12.99276888,77.59728476
+685,Hedvig,Stockholm,Finance,Sweden,2022-09-01,12,59.34125093,18.05756334
+686,HelloFresh,SF Bay Area,Food,United States,2022-10-10,611,37.79089052,-122.4208226
+687,Help Scout,Boston,Support,United States,2022-11-01,0,42.34097981,-71.08976212
+688,Help.com,Austin,Support,United States,2020-03-16,16,30.27507688,-97.74751097
+689,Her Campus Media,Boston,Media,United States,2020-06-10,10,42.34097981,-71.08976212
+690,Heroes,London,Retail,United States,2022-07-15,24,51.49754058,-0.093383322
+691,Hibob,Tel Aviv,HR,Israel,2020-03-30,70,32.08733049,34.78969085
+692,HighRadius,Bengaluru,Finance,India,2022-11-09,25,12.99276888,77.59728476
+693,Highsnobiety,Berlin,Media,Germany,2020-04-01,51,52.52096904,13.41511266
+694,Hipcamp,SF Bay Area,Travel,United States,2020-04-20,0,37.79089052,-122.4208226
+695,Hippo Insurance,SF Bay Area,Finance,United States,2022-08-31,70,37.79089052,-122.4208226
+696,Hirect,Bengaluru,Recruiting,India,2022-11-28,200,12.99276888,77.59728476
+697,Hired,SF Bay Area,Recruiting,United States,2020-06-30,0,37.79089052,-122.4208226
+698,Hireology,Chicago,Recruiting,United States,2020-05-12,36,41.84771607,-87.68255456
+699,Hodlnaut,Singapore,Crypto,Singapore,2022-08-19,40,1.340069964,103.8483322
+700,Hologram,Chicago,Infrastructure,United States,2022-06-09,80,41.84771607,-87.68255456
+701,HomeLight,SF Bay Area,Real Estate,United States,2022-06-29,0,37.79089052,-122.4208226
+702,Homepoint,Phoenix,Real Estate,United States,2022-11-17,113,33.45628022,-112.1099772
+703,Homeward,Austin,Real Estate,United States,2022-08-10,0,30.27507688,-97.74751097
+704,Homeward,Austin,Real Estate,United States,2022-11-16,0,30.27507688,-97.74751097
+705,Homie,Salt Lake City,Real Estate,United States,2022-02-14,119,40.77522924,-111.927381
+706,Homie,Salt Lake City,Real Estate,United States,2022-10-04,40,40.77522924,-111.927381
+707,Hootsuite,Vancouver,Marketing,Canada,2022-08-09,400,49.28318844,-123.1005646
+708,Hootsuite,Vancouver,Marketing,Canada,2022-11-01,50,49.28318844,-123.1005646
+709,HopSkipDrive,Los Angeles,Transportation,United States,2020-03-13,8,33.94222083,-118.4084871
+710,HopSkipDrive,Los Angeles,Transportation,United States,2020-08-12,0,33.94222083,-118.4084871
+711,Hopin,London,Other,United Kingdom,2022-07-11,242,51.49754058,-0.093383322
+712,Hopin,London,Other,United Kingdom,2022-11-16,0,51.49754058,-0.093383322
+713,Hopin,London,Other,United States,2022-02-10,138,51.49754058,-0.093383322
+714,Hopper,Boston,Travel,United States,2020-04-06,0,42.34097981,-71.08976212
+715,Horizn Studios,Berlin,Travel,Germany,2020-04-24,15,52.52096904,13.41511266
+716,Hotmart,Belo Horizonte,Marketing,Brazil,2022-10-20,227,-19.92562092,-43.9788151
+717,Houzz,SF Bay Area,Consumer,United States,2020-04-21,155,37.79089052,-122.4208226
+718,Houzz,SF Bay Area,Consumer,United States,2022-12-07,95,37.79089052,-122.4208226
+719,HubHaus,SF Bay Area,Real Estate,United States,2020-09-11,0,37.79089052,-122.4208226
+720,Hubba,Toronto,Retail,Canada,2021-02-01,45,43.71194348,-79.40005894
+721,Hubilo,SF Bay Area,Marketing,United States,2022-07-12,45,37.79089052,-122.4208226
+722,HuffPo,New York City,Media,United States,2021-03-09,47,40.74606714,-73.98383045
+723,HumanForest,London,Transportation,United Kingdom,2020-09-25,0,51.49754058,-0.093383322
+724,Humble,SF Bay Area,Media,United States,2022-04-15,10,37.79089052,-122.4208226
+725,Humu,SF Bay Area,HR,United States,2020-04-02,26,37.79089052,-122.4208226
+726,Hunty,Bogota,HR,Colombia,2022-06-14,30,4.604437411,-74.09140627
+727,Huobi,Beijing,Crypto,China,2022-06-28,300,39.90063003,116.3740834
+728,Hydrow,Boston,Fitness,United States,2022-07-18,0,42.34097981,-71.08976212
+729,Hyperscience,New York City,Data,United States,2022-03-03,100,40.74606714,-73.98383045
+730,ID.me,Washington D.C.,Security,United States,2022-06-07,130,38.88992976,-77.01664355
+731,IRL,SF Bay Area,Consumer,United States,2022-06-02,25,37.79089052,-122.4208226
+732,Ibotta,Denver,Retail,United States,2020-04-07,87,39.74499824,-104.9183128
+733,Ideoclick,Seattle,Retail,United States,2022-05-04,40,47.6124803,-122.338638
+734,Iflix,Kuala Lumpur,Consumer,Malaysia,2020-04-04,50,3.140217603,101.6979735
+735,Igenous,Seattle,Data,United States,2020-11-17,0,47.6124803,-122.338638
+736,Ignite,SF Bay Area,Crypto,United States,2022-07-11,0,37.79089052,-122.4208226
+737,Ike,SF Bay Area,Transportation,United States,2020-04-22,10,37.79089052,-122.4208226
+738,Illumina,San Diego,Healthcare,United States,2022-11-14,500,32.74804203,-117.1282372
+739,Immersive Labs,Bristol,Security,United Kingdom,2022-08-30,38,51.47873276,-2.602392031
+740,Immutable,Sydney,Crypto,Australia,2022-07-26,20,-33.87434482,151.1433471
+741,Impact.com,Los Angeles,Marketing,United States,2022-08-25,0,33.94222083,-118.4084871
+742,Impala,London,Travel,United Kingdom,2022-06-01,30,51.49754058,-0.093383322
+743,Imperfect Foods,SF Bay Area,Food,United States,2021-09-22,0,37.79089052,-122.4208226
+744,Imperfect Foods,SF Bay Area,Food,United States,2022-07-29,50,37.79089052,-122.4208226
+745,Impossible Foods,SF Bay Area,Food,United States,2022-10-06,50,37.79089052,-122.4208226
+746,Improbable,London,Other,United Kingdom,2022-12-16,0,51.49754058,-0.093383322
+747,InDebted,Sydney,Finance,Australia,2022-07-26,40,-33.87434482,151.1433471
+748,InVision,New York City,Product,United States,2020-08-14,0,40.74606714,-73.98383045
+749,InVision,New York City,Product,United States,2021-10-05,22,40.74606714,-73.98383045
+750,InVision,New York City,Product,United States,2022-07-21,0,40.74606714,-73.98383045
+751,Incredible Health,SF Bay Area,Healthcare,United States,2020-04-01,9,37.79089052,-122.4208226
+752,Indigo,Boston,Other,United States,2021-02-09,80,42.34097981,-71.08976212
+753,Industrious,New York City,Real Estate,United States,2020-04-02,90,40.74606714,-73.98383045
+754,Infarm,Berlin,Other,Germany,2022-09-14,50,52.52096904,13.41511266
+755,Infarm,Berlin,Other,Germany,2022-11-28,500,52.52096904,13.41511266
+756,Influitive,Toronto,Marketing,Canada,2020-04-17,0,43.71194348,-79.40005894
+757,InfoSum,London,Security,United Kingdom,2022-10-19,20,51.49754058,-0.093383322
+758,Infogrid,London,Other,United Kingdom,2022-11-16,0,51.49754058,-0.093383322
+759,Innovaccer,SF Bay Area,Healthcare,United States,2022-09-01,90,37.79089052,-122.4208226
+760,Inscripta,Boulder,Healthcare,United States,2022-12-08,43,40.01929836,-105.2852979
+761,Inspectify,Seattle,Real Estate,United States,2022-11-28,0,47.6124803,-122.338638
+762,Inspirato,Denver,Travel,United States,2020-03-16,130,39.74499824,-104.9183128
+763,Instacart,SF Bay Area,Food,United States,2021-01-21,1877,37.79089052,-122.4208226
+764,Instacart,SF Bay Area,Food,United States,2022-09-24,0,37.79089052,-122.4208226
+765,Instamojo,Bengaluru,Finance,India,2020-04-02,6,12.99276888,77.59728476
+766,Instructure,Salt Lake City,Education,United States,2020-05-27,150,40.77522924,-111.927381
+767,Intapp,SF Bay Area,Legal,United States,2020-05-18,45,37.79089052,-122.4208226
+768,Integral Ad Science,New York City,Marketing,United States,2020-05-14,70,40.74606714,-73.98383045
+769,Integral Ad Science,New York City,Marketing,United States,2022-12-07,120,40.74606714,-73.98383045
+770,Integrate.ai,Toronto,Support,Canada,2020-06-09,26,43.71194348,-79.40005894
+771,Intercom,SF Bay Area,Support,United States,2020-05-20,39,37.79089052,-122.4208226
+772,Intercom,SF Bay Area,Support,United States,2022-09-07,49,37.79089052,-122.4208226
+773,Intercom,SF Bay Area,Support,United States,2022-11-14,124,37.79089052,-122.4208226
+774,Intersect,Toronto,Product,Canada,2020-05-13,19,43.71194348,-79.40005894
+775,Introhive,Ferdericton,Sales,Canada,2022-07-20,57,45.98737653,-66.66076526
+776,Intuit,SF Bay Area,Finance,United States,2020-06-22,715,37.79089052,-122.4208226
+777,Invitae,SF Bay Area,Healthcare,United States,2022-07-19,1000,37.79089052,-122.4208226
+778,Involves,Florianópolis,Retail,Brazil,2022-07-13,70,-27.59322413,-48.53210846
+779,Iris Nova,New York City,Food,United States,2020-03-30,9,40.74606714,-73.98383045
+780,Iron Ox,SF Bay Area,Food,United States,2022-11-02,50,37.79089052,-122.4208226
+781,IronNet,Washington D.C.,Security,United States,2022-06-22,145,38.88992976,-77.01664355
+782,JD.ID,Jakarta,Retail,Indonesia,2022-12-14,200,-6.224949848,106.8528548
+783,JOKR,New York City,Food,United States,2022-06-16,50,40.74606714,-73.98383045
+784,Jam City,Los Angeles,Consumer,United States,2022-08-04,200,33.94222083,-118.4084871
+785,Jama,Portland,Product,United States,2020-03-25,12,45.57698667,-122.6338291
+786,Jellysmack,New York City,Media,United States,2022-06-09,0,40.74606714,-73.98383045
+787,JetClosing,Seattle,Real Estate,United States,2020-04-27,20,47.6124803,-122.338638
+788,JetClosing,Seattle,Real Estate,United States,2022-06-15,0,47.6124803,-122.338638
+789,Jetty,New York City,Finance,United States,2020-04-03,35,40.74606714,-73.98383045
+790,Jimdo,Hamburg,Other,Germany,2022-11-15,50,53.54600679,9.99783599
+791,Jiobit,Chicago,Consumer,United States,2020-04-24,6,41.84771607,-87.68255456
+792,Jobcase,Boston,Recruiting,United States,2020-04-02,39,42.34097981,-71.08976212
+793,Jumia,Lagos,Retail,Nigeria,2022-11-21,0,6.53979151,3.307267754
+794,Jump,New York City,Transportation,United States,2020-05-07,500,40.74606714,-73.98383045
+795,Juni,Gothenburg,Finance,Sweden,2022-11-17,72,57.71975665,11.96934642
+796,Juniper,Atlanta,Marketing,United States,2022-11-11,0,33.80016297,-84.40262309
+797,Juniper Square,SF Bay Area,Real Estate,United States,2022-09-06,0,37.79089052,-122.4208226
+798,Just Eat Takeaway,Amsterdam,Food,Netherlands,2022-07-20,390,52.36953057,4.878896305
+799,Juul,SF Bay Area,Consumer,United States,2020-05-05,900,37.79089052,-122.4208226
+800,Juul,SF Bay Area,Consumer,United States,2022-11-10,400,37.79089052,-122.4208226
+801,Kabam,SF Bay Area,Consumer,United States,2022-11-09,35,37.79089052,-122.4208226
+802,Kaltura,New York City,Media,United States,2022-08-09,0,40.74606714,-73.98383045
+803,Kandji,San Diego,Other,United States,2022-11-17,0,32.74804203,-117.1282372
+804,Kaodim,Selangor,Consumer,United States,2022-06-02,0,3.155284299,101.6472304
+805,Kapten / Free Now,Paris,Transportation,France,2020-05-21,0,48.86644928,2.34634181
+806,Karbon,SF Bay Area,Other,United States,2022-09-12,0,37.79089052,-122.4208226
+807,Katerra,SF Bay Area,Construction,United States,2020-04-02,240,37.79089052,-122.4208226
+808,Katerra,SF Bay Area,Construction,United States,2020-06-29,400,37.79089052,-122.4208226
+809,Katerra,SF Bay Area,Construction,United States,2021-06-01,2434,37.79089052,-122.4208226
+810,Kavak,Sao Paulo,Transportation,Brazil,2022-06-08,150,-23.59912955,-46.64065048
+811,Kavak,Sao Paulo,Transportation,Brazil,2022-11-18,0,-23.59912955,-46.64065048
+812,Kayak / OpenTable,Stamford,Travel,United States,2020-04-29,160,41.06197344,-73.538062
+813,Kazoo,Austin,HR,United States,2020-03-31,0,30.27507688,-97.74751097
+814,KeepTruckin,SF Bay Area,Logistics,United States,2020-03-31,349,37.79089052,-122.4208226
+815,Keepe,Seattle,Real Estate,United States,2022-06-10,0,47.6124803,-122.338638
+816,Kenoby,Sao Paulo,Recruiting,Brazil,2020-04-08,18,-23.59912955,-46.64065048
+817,Khoros,Austin,Sales,United States,2022-10-21,120,30.27507688,-97.74751097
+818,Kiavi,SF Bay Area,Real Estate,United States,2022-07-14,39,37.79089052,-122.4208226
+819,Kickstarter,New York City,Finance,United States,2020-05-13,25,40.74606714,-73.98383045
+820,Kite,SF Bay Area,Product,United States,2022-11-16,0,37.79089052,-122.4208226
+821,Kitopi,Dubai,Food,United States,2022-11-21,93,25.14957961,55.29326376
+822,Kitopi,New York City,Food,United States,2020-04-29,124,40.74606714,-73.98383045
+823,Kitty Hawk,SF Bay Area,Aerospace,United States,2020-06-03,70,37.79089052,-122.4208226
+824,Kitty Hawk,SF Bay Area,Aerospace,United States,2022-09-21,100,37.79089052,-122.4208226
+825,KiwiCo,SF Bay Area,Retail,United States,2022-06-07,40,37.79089052,-122.4208226
+826,Klarna,Stockholm,Finance,Sweden,2022-05-23,700,59.34125093,18.05756334
+827,Klarna,Stockholm,Finance,Sweden,2022-09-22,100,59.34125093,18.05756334
+828,Klarna,Stockholm,Tech,Sweden,2022-05-15,700,59.34125093,18.05756334
+829,Klook,Hong Kong,Travel,Hong Kong,2020-04-20,300,22.34359155,114.1729829
+830,Knock,New York City,Real Estate,United States,2022-03-15,115,40.74606714,-73.98383045
+831,Knotel,New York City,Real Estate,United States,2020-03-27,127,40.74606714,-73.98383045
+832,Knotel,New York City,Real Estate,United States,2020-10-29,20,40.74606714,-73.98383045
+833,Kodiak Robotics,SF Bay Area,Transportation,United States,2020-04-15,15,37.79089052,-122.4208226
+834,Kogan,Melbourne,Retail,Australia,2022-08-23,0,-37.89324894,145.0859886
+835,Koho,Toronto,Finance,Canada,2022-11-17,15,43.71194348,-79.40005894
+836,KoinWorks,Jakarta,Finance,Indonesia,2022-11-04,70,-6.224949848,106.8528548
+837,Koinly,London,Crypto,United Kingdom,2022-12-06,16,51.49754058,-0.093383322
+838,Komodo Health,SF Bay Area,Healthcare,United States,2020-04-20,23,37.79089052,-122.4208226
+839,Komodo Health,SF Bay Area,Healthcare,United States,2022-12-13,78,37.79089052,-122.4208226
+840,Konfio,Mexico City,Finance,United States,2022-09-23,180,19.40476785,-99.12716947
+841,Kongregate,SF Bay Area,Media,United States,2020-07-01,12,37.79089052,-122.4208226
+842,Kontist,Berlin,Finance,Germany,2022-05-25,50,52.52096904,13.41511266
+843,Koo,Bengaluru,Consumer,India,2022-08-31,40,12.99276888,77.59728476
+844,Kraken,SF Bay Area,Crypto,United States,2022-11-30,1100,37.79089052,-122.4208226
+845,Kry,Stockholm,Healthcare,Sweden,2022-05-17,100,59.34125093,18.05756334
+846,Kry,Stockholm,Healthcare,Sweden,2022-10-31,300,59.34125093,18.05756334
+847,Kuda,Lagos,Finance,Nigeria,2022-09-02,23,6.53979151,3.307267754
+848,Kueski,Guadalajara,Finance,Mexico,2020-04-20,90,20.66735328,-103.3556714
+849,Kune,Nairobi,Food,Kenya,2022-06-23,0,-1.308685021,36.81165373
+850,LEAD,Mumbai,Education,India,2022-08-04,80,19.07246385,72.87362405
+851,Labelbox,SF Bay Area,Data,United States,2022-08-08,36,37.79089052,-122.4208226
+852,Labster,Copenhagen,Education,Denmark,2020-04-17,40,55.66847692,12.55742599
+853,Lacework,SF Bay Area,Security,United States,2022-05-25,300,37.79089052,-122.4208226
+854,Ladder Life,SF Bay Area,Finance,United States,2020-03-23,13,37.79089052,-122.4208226
+855,Lambda School,SF Bay Area,Education,United States,2020-04-21,19,37.79089052,-122.4208226
+856,Lambda School,SF Bay Area,Education,United States,2021-04-29,65,37.79089052,-122.4208226
+857,Landing,Birmingham,Real Estate,United States,2022-10-06,110,33.51971025,-86.8068863
+858,Landing,Birmingham,Real Estate,United States,2022-12-14,0,33.51971025,-86.8068863
+859,Lastline,SF Bay Area,Security,United States,2020-06-04,50,37.79089052,-122.4208226
+860,Latch,New York City,Security,United States,2020-04-02,60,40.74606714,-73.98383045
+861,Latch,New York City,Security,United States,2022-05-10,30,40.74606714,-73.98383045
+862,Latch,New York City,Security,United States,2022-05-20,130,40.74606714,-73.98383045
+863,Latch,New York City,Security,United States,2022-08-02,115,40.74606714,-73.98383045
+864,Lattice,SF Bay Area,HR,United States,2020-05-15,16,37.79089052,-122.4208226
+865,Lattice,SF Bay Area,HR,United States,2022-10-27,13,37.79089052,-122.4208226
+866,Lawgeex,Tel Aviv,Legal,Israel,2022-09-06,30,32.08733049,34.78969085
+867,Laybuy,Auckland,Finance,New Zealand,2022-07-28,45,-36.86412364,174.7507463
+868,Lazerpay,Lagos,Crypto,Nigeria,2022-11-29,0,6.53979151,3.307267754
+869,Le Tote,SF Bay Area,Retail,United States,2020-04-01,0,37.79089052,-122.4208226
+870,Leafly,Seattle,Retail,United States,2020-03-23,91,47.6124803,-122.338638
+871,Leafly,Seattle,Retail,United States,2022-10-18,56,47.6124803,-122.338638
+872,League,Toronto,Healthcare,Canada,2020-05-05,0,43.71194348,-79.40005894
+873,Ledn,Toronto,Crypto,Canada,2022-11-28,0,43.71194348,-79.40005894
+874,Legible,Vancouver,Media,Canada,2022-04-04,23,49.28318844,-123.1005646
+875,Lemon,Buenos Aires,Crypto,Argentina,2022-11-24,100,-34.60839711,-58.43330549
+876,Lemonade,New York City,Finance,United States,2022-04-20,52,40.74606714,-73.98383045
+877,Lending Club,SF Bay Area,Finance,United States,2020-04-21,460,37.79089052,-122.4208226
+878,Lendingkart,Ahmedabad,Finance,India,2020-05-15,500,23.05177638,72.5831671
+879,Lendis,Berlin,Other,Germany,2022-07-04,18,52.52096904,13.41511266
+880,Lendis,Berlin,Other,Germany,2022-12-21,0,52.52096904,13.41511266
+881,LetsGetChecked,New York City,Healthcare,United States,2022-07-02,0,40.74606714,-73.98383045
+882,Lev,New York City,Real Estate,United States,2022-12-07,30,40.74606714,-73.98383045
+883,Levelset,New Orleans,Construction,United States,2020-04-01,0,30.02794391,-90.01031309
+884,Lever,SF Bay Area,Recruiting,United States,2020-04-08,86,37.79089052,-122.4208226
+885,Lido,Mumbai,Education,India,2022-02-21,150,19.07246385,72.87362405
+886,Lido Learning,Mumbai,Education,India,2022-09-09,0,19.07246385,72.87362405
+887,Lido Learning,Mumbai,Tech,India,2022-02-15,200,19.07246385,72.87362405
+888,Liftoff,SF Bay Area,Marketing,United States,2022-11-09,130,37.79089052,-122.4208226
+889,Lighter Capital,Seattle,Finance,United States,2020-04-24,18,47.6124803,-122.338638
+890,Lighter Capital,Seattle,Finance,United States,2020-07-20,22,47.6124803,-122.338638
+891,Lighthouse Labs,Toronto,Education,Canada,2020-04-09,14,43.71194348,-79.40005894
+892,Lightricks,Jerusalem,Consumer,Israel,2022-07-04,80,31.78398554,35.11423932
+893,Lime,SF Bay Area,Transportation,United States,2020-04-29,80,37.79089052,-122.4208226
+894,Limelight,New York City,Recruiting,United States,2021-02-04,13,40.74606714,-73.98383045
+895,LinkedIn,SF Bay Area,Recruiting,United States,2020-07-21,960,37.79089052,-122.4208226
+896,Linkfire,Copenhagen,Marketing,Denmark,2022-10-11,35,55.66847692,12.55742599
+897,Linktree,Melbourne,Consumer,Australia,2022-08-09,50,-37.89324894,145.0859886
+898,Liongard,Houston,Infrastructure,United States,2022-06-10,0,29.76832424,-95.43438619
+899,Lithic,New York City,Finance,United States,2022-12-07,27,40.74606714,-73.98383045
+900,Liv Up,Sao Paulo,Food,Brazil,2022-02-16,100,-23.59912955,-46.64065048
+901,LivePerson,New York City,Support,United States,2022-09-15,193,40.74606714,-73.98383045
+902,LiveRamp,SF Bay Area,Marketing,United States,2022-11-03,0,37.79089052,-122.4208226
+903,LiveTiles,New York City,Other,United States,2020-05-03,50,40.74606714,-73.98383045
+904,Livspace,Bengaluru,Retail,India,2020-05-19,450,12.99276888,77.59728476
+905,Loft,Sao Paulo,Real Estate,Brazil,2020-03-27,47,-23.59912955,-46.64065048
+906,Loft,Sao Paulo,Real Estate,Brazil,2020-04-17,47,-23.59912955,-46.64065048
+907,Loft,Sao Paulo,Real Estate,Brazil,2022-04-19,159,-23.59912955,-46.64065048
+908,Loft,Sao Paulo,Real Estate,Brazil,2022-07-05,384,-23.59912955,-46.64065048
+909,Loft,Sao Paulo,Real Estate,Brazil,2022-12-07,312,-23.59912955,-46.64065048
+910,Loftium,Seattle,Real Estate,United States,2020-05-29,32,47.6124803,-122.338638
+911,Loftsmart,New York City,Real Estate,United States,2020-03-30,25,40.74606714,-73.98383045
+912,Loggi,Sao Paulo,Logistics,Brazil,2022-08-08,500,-23.59912955,-46.64065048
+913,Loja Integrada,Sao Paulo,Retail,Brazil,2022-08-25,25,-23.59912955,-46.64065048
+914,Lokalise,Dover,Other,United States,2022-11-16,76,39.16305016,-75.5323046
+915,Lola,Boston,Travel,United States,2020-03-19,34,42.34097981,-71.08976212
+916,Loom,SF Bay Area,Product,United States,2022-06-01,34,37.79089052,-122.4208226
+917,Loom,SF Bay Area,Product,United States,2022-10-20,23,37.79089052,-122.4208226
+918,Loop,Washington D.C.,Finance,United States,2022-08-24,15,38.88992976,-77.01664355
+919,LoopMe,London,Marketing,United Kingdom,2020-04-09,8,51.49754058,-0.093383322
+920,Loopio,Toronto,Sales,Canada,2020-05-04,11,43.71194348,-79.40005894
+921,Lora DiCarlo,Bend,Consumer,United States,2022-12-02,0,44.05716755,-121.3029732
+922,LumenAd,Missoula,Marketing,United States,2020-04-16,0,46.87341975,-113.9975745
+923,Lumina Networks,SF Bay Area,Infrastructure,United States,2020-08-18,0,37.79089052,-122.4208226
+924,Lummo,Jakarta,Marketing,Indonesia,2022-06-07,150,-6.224949848,106.8528548
+925,Lunchbox,New York City,Food,United States,2022-07-21,60,40.74606714,-73.98383045
+926,Lusha,New York City,Marketing,United States,2022-07-18,30,40.74606714,-73.98383045
+927,Lyft,SF Bay Area,Transportation,United States,2020-04-29,982,37.79089052,-122.4208226
+928,Lyft,SF Bay Area,Transportation,United States,2022-07-20,60,37.79089052,-122.4208226
+929,Lyft,SF Bay Area,Transportation,United States,2022-11-03,700,37.79089052,-122.4208226
+930,Lyric,SF Bay Area,Real Estate,United States,2020-03-25,100,37.79089052,-122.4208226
+931,Lyst,London,Retail,United Kingdom,2022-11-29,50,51.49754058,-0.093383322
+932,Lytics,Portland,Marketing,United States,2020-04-08,0,45.57698667,-122.6338291
+933,M1,Chicago,Finance,United States,2022-07-19,38,41.84771607,-87.68255456
+934,MFine,Bengaluru,Healthcare,India,2022-05-21,600,12.99276888,77.59728476
+935,MX,Lehi,Finance,United States,2022-10-11,200,40.40758974,-111.8533478
+936,Made.com,London,Retail,United Kingdom,2022-09-22,0,51.49754058,-0.093383322
+937,Madefire,SF Bay Area,Media,United States,2021-04-29,0,37.79089052,-122.4208226
+938,MadeiraMadeira,Curitiba,Retail,Brazil,2022-08-09,60,-25.46219713,-49.27675988
+939,Magic Leap,Miami,Consumer,United States,2020-04-22,1000,25.76997397,-80.22809381
+940,Magicbricks,Noida,Real Estate,India,2020-05-17,250,28.55046338,77.38467714
+941,Mainstreet,SF Bay Area,Finance,United States,2022-05-04,45,37.79089052,-122.4208226
+942,Make School,SF Bay Area,Education,United States,2020-03-27,0,37.79089052,-122.4208226
+943,MakeMyTrip,Gurugram,Travel,India,2020-06-01,350,28.4494531,77.01926638
+944,MakeMyTrip,New Delhi,Travel,India,2020-08-31,350,28.66775072,77.21378315
+945,MakerBot,New York City,Consumer,United States,2020-06-02,12,40.74606714,-73.98383045
+946,Malwarebytes,SF Bay Area,Security,United States,2022-08-17,125,37.79089052,-122.4208226
+947,Mapbox,Washington D.C.,Data,United States,2020-04-06,0,38.88992976,-77.01664355
+948,Mapify,Berlin,Travel,Germany,2020-08-19,0,52.52096904,13.41511266
+949,Mark43,New York City,Other,United States,2022-06-23,0,40.74606714,-73.98383045
+950,Marketforce,Nairobi,Retail,Kenya,2022-08-11,54,-1.308685021,36.81165373
+951,Masse,New York City,Retail,United States,2020-05-15,0,40.74606714,-73.98383045
+952,MasterClass,SF Bay Area,Education,United States,2022-06-22,120,37.79089052,-122.4208226
+953,Matterport,SF Bay Area,Data,United States,2020-04-09,90,37.79089052,-122.4208226
+954,Maven,Seattle,Media,United States,2020-03-30,31,47.6124803,-122.338638
+955,MaxMilhas,Belo Horizonte,Travel,Brazil,2020-04-03,167,-19.92562092,-43.9788151
+956,McMakler,Berlin,Real Estate,Germany,2022-07-26,90,52.52096904,13.41511266
+957,McMakler,Berlin,Real Estate,Germany,2022-10-24,100,52.52096904,13.41511266
+958,MediaMath,New York City,Marketing,United States,2020-04-07,53,40.74606714,-73.98383045
+959,Medium,SF Bay Area,Media,United States,2021-03-24,0,37.79089052,-122.4208226
+960,Medium,SF Bay Area,Media,United States,2022-09-06,0,37.79089052,-122.4208226
+961,Medly,New York City,Healthcare,United States,2022-08-04,0,40.74606714,-73.98383045
+962,Medly,New York City,Healthcare,United States,2022-09-07,0,40.74606714,-73.98383045
+963,Meesho,Bangalore,Tech,India,2022-08-15,300,12.99276888,77.59728476
+964,Meesho,Bengaluru,Retail,India,2020-04-08,200,12.99276888,77.59728476
+965,Meesho,Bengaluru,Retail,India,2022-04-11,150,12.99276888,77.59728476
+966,Meesho,Bengaluru,Retail,India,2022-08-29,300,12.99276888,77.59728476
+967,Mejuri,Toronto,Retail,Canada,2020-04-09,36,43.71194348,-79.40005894
+968,Mejuri,Toronto,Retail,Canada,2022-08-05,50,43.71194348,-79.40005894
+969,Melio,New York City,Finance,United States,2022-08-09,60,40.74606714,-73.98383045
+970,Memmo,Stockholm,Consumer,Sweden,2022-06-08,0,59.34125093,18.05756334
+971,Menulog,Sydney,Food,Australia,2022-11-24,0,-33.87434482,151.1433471
+972,Meow Wolf,Santa Fe,Media,United States,2020-04-10,201,35.6801813,-105.9439052
+973,Mercos,Joinville,Sales,Brazil,2020-05-13,51,-26.28161408,-48.91210126
+974,MessageBird,Amsterdam,Other,Netherlands,2022-11-29,0,52.36953057,4.878896305
+975,Meta,Menlo Park,Tech,United States,2022-11-15,11000,37.45403928,-122.1780796
+976,Meta,SF Bay Area,Consumer,United States,2022-11-09,11000,37.79089052,-122.4208226
+977,Metaplex,Chicago,Crypto,United States,2022-11-18,0,41.84771607,-87.68255456
+978,Metigy,Sydney,Marketing,Australia,2022-07-31,75,-33.87434482,151.1433471
+979,Metromile,SF Bay Area,Finance,United States,2020-04-06,100,37.79089052,-122.4208226
+980,Metromile,SF Bay Area,Finance,United States,2022-07-28,60,37.79089052,-122.4208226
+981,Mews,Prague,Travel,Czech Republic,2020-04-03,0,50.07167394,14.45049253
+982,Mfine,Bangalore,Tech,India,2022-05-15,500,12.99276888,77.59728476
+983,Microsoft,Redmond,Tech,United States,2022-10-15,1000,47.67553267,-122.1283336
+984,Microsoft,Seattle,Other,United States,2022-07-12,0,47.6124803,-122.338638
+985,Microsoft,Seattle,Other,United States,2022-10-17,0,47.6124803,-122.338638
+986,Migo,SF Bay Area,Finance,United States,2020-04-28,0,37.79089052,-122.4208226
+987,MindBody,San Luis Obispo,Fitness,United States,2020-04-02,700,35.26939258,-120.6566551
+988,MindBody,San Luis Obispo,Fitness,United States,2022-10-26,400,35.26939258,-120.6566551
+989,Mindgeek,Luxembourg,Media,Luxembourg,2022-06-22,0,49.60436618,6.130475594
+990,Minted,SF Bay Area,Retail,United States,2020-04-03,147,37.79089052,-122.4208226
+991,MissFresh,Beijing,Food,China,2022-07-29,0,39.90063003,116.3740834
+992,Mixpanel,SF Bay Area,Data,United States,2020-05-12,65,37.79089052,-122.4208226
+993,Mobile Premier League,Bengaluru,Consumer,India,2022-05-30,100,12.99276888,77.59728476
+994,Mode Analytics,SF Bay Area,Data,United States,2020-05-13,17,37.79089052,-122.4208226
+995,Mode Analytics,SF Bay Area,Data,United States,2022-09-12,25,37.79089052,-122.4208226
+996,Modern Treasury,SF Bay Area,Finance,United States,2022-12-16,0,37.79089052,-122.4208226
+997,Modsy,SF Bay Area,Retail,United States,2020-04-02,0,37.79089052,-122.4208226
+998,Modsy,SF Bay Area,Retail,United States,2022-06-29,0,37.79089052,-122.4208226
+999,Mogo,Vancouver,Finance,Canada,2020-03-27,78,49.28318844,-123.1005646
+1000,Momentive,SF Bay Area,Marketing,United States,2022-10-10,180,37.79089052,-122.4208226
+1001,Monese,Lisbon,Finance,Portugal,2020-05-01,35,38.72967999,-9.139262474
+1002,Monzo,Las Vegas,Finance,United States,2020-04-09,165,36.17235738,-115.1887643
+1003,Monzo,London,Finance,United Kingdom,2020-06-03,120,51.49754058,-0.093383322
+1004,Moove,Lagos,Transportation,Nigeria,2022-12-06,0,6.53979151,3.307267754
+1005,Moovel,Portland,Transportation,United States,2020-04-01,28,45.57698667,-122.6338291
+1006,Morning Brew,New York City,Media,United States,2022-11-17,0,40.74606714,-73.98383045
+1007,Moss,Berlin,Finance,Germany,2022-09-23,70,52.52096904,13.41511266
+1008,Motif Foodworks,Boston,Food,United States,2022-07-06,0,42.34097981,-71.08976212
+1009,Motif Investing,SF Bay Area,Finance,United States,2020-04-18,0,37.79089052,-122.4208226
+1010,Motive,SF Bay Area,Transportation,United States,2022-12-07,237,37.79089052,-122.4208226
+1011,Movidesk,Blumenau,Support,Brazil,2020-04-20,33,-26.91574608,-49.07988547
+1012,Mozilla,SF Bay Area,Consumer,United States,2020-08-11,250,37.79089052,-122.4208226
+1013,Mr. Yum,Melbourne,Food,United States,2022-08-22,0,-37.89324894,145.0859886
+1014,Mural,SF Bay Area,Product,United States,2022-05-05,90,37.79089052,-122.4208226
+1015,Mural,SF Bay Area,Product,United States,2022-07-21,0,37.79089052,-122.4208226
+1016,Mux,SF Bay Area,Infrastructure,United States,2022-09-29,40,37.79089052,-122.4208226
+1017,Mythical Games,Los Angeles,Crypto,United States,2022-11-04,0,33.94222083,-118.4084871
+1018,N-able Technologies,Raleigh,Other,United States,2022-12-09,0,35.80892558,-78.63684775
+1019,N26,New York City,Finance,United States,2020-05-08,9,40.74606714,-73.98383045
+1020,NCX,SF Bay Area,Energy,United States,2022-11-28,0,37.79089052,-122.4208226
+1021,NS8,Las Vegas,Data,United States,2020-09-11,240,36.17235738,-115.1887643
+1022,NSO,Tel Aviv,Security,Israel,2022-08-21,100,32.08733049,34.78969085
+1023,NYDIG,New York City,Crypto,United States,2022-09-22,110,40.74606714,-73.98383045
+1024,Namely,New York City,HR,United States,2020-05-01,110,40.74606714,-73.98383045
+1025,NanoString,Seattle,Healthcare,United States,2022-11-08,0,47.6124803,-122.338638
+1026,Nate,New York City,Retail,United States,2022-06-30,30,40.74606714,-73.98383045
+1027,Nate,New York City,Retail,United States,2022-08-30,30,40.74606714,-73.98383045
+1028,Natera,SF Bay Area,Healthcare,United States,2022-11-22,0,37.79089052,-122.4208226
+1029,Nativo,Los Angeles,Marketing,United States,2020-03-26,0,33.94222083,-118.4084871
+1030,Nav,Salt Lake City,Finance,United States,2020-04-07,30,40.77522924,-111.927381
+1031,Navi,Bengaluru,Finance,India,2020-06-17,40,12.99276888,77.59728476
+1032,Nearmap,Sydney,Construction,Australia,2020-04-22,0,-33.87434482,151.1433471
+1033,Neon,Sao Paulo,Finance,Brazil,2020-04-13,70,-23.59912955,-46.64065048
+1034,Nerdy,St. Louis,Education,United States,2022-12-08,0,38.62620037,-90.19403116
+1035,Nestcoin,Lagos,Crypto,Nigeria,2022-11-14,30,6.53979151,3.307267754
+1036,Nestlé,Vevey,Tech,Switzerland,2022-03-15,104,46.46560705,6.845533194
+1037,Netflix,Los Gatos,Tech,United States,2022-06-15,300,37.23359618,-121.9690465
+1038,Netflix,SF Bay Area,Media,United States,2022-04-28,25,37.79089052,-122.4208226
+1039,Netflix,SF Bay Area,Media,United States,2022-05-17,150,37.79089052,-122.4208226
+1040,Netflix,SF Bay Area,Media,United States,2022-06-23,300,37.79089052,-122.4208226
+1041,Netflix,SF Bay Area,Media,United States,2022-09-14,30,37.79089052,-122.4208226
+1042,Netlify,SF Bay Area,Product,United States,2022-12-01,48,37.79089052,-122.4208226
+1043,New Relic,Portland,Infrastructure,United States,2020-06-29,20,45.57698667,-122.6338291
+1044,New Relic,SF Bay Area,Infrastructure,United States,2021-04-06,160,37.79089052,-122.4208226
+1045,New Relic,SF Bay Area,Infrastructure,United States,2022-08-18,110,37.79089052,-122.4208226
+1046,Newfront Insurance,SF Bay Area,Finance,United States,2020-04-07,94,37.79089052,-122.4208226
+1047,Next Insurance,SF Bay Area,Finance,United States,2022-07-07,150,37.79089052,-122.4208226
+1048,NextRoll,SF Bay Area,Marketing,United States,2022-07-08,0,37.79089052,-122.4208226
+1049,NextRoll,SF Bay Area,Marketing,United States,2022-09-15,0,37.79089052,-122.4208226
+1050,Nextbite,Denver,Food,United States,2022-07-09,0,39.74499824,-104.9183128
+1051,Nextiva,Phoenix,Other,United States,2022-12-06,0,33.45628022,-112.1099772
+1052,Niantic,SF Bay Area,Consumer,United States,2022-06-29,85,37.79089052,-122.4208226
+1053,Ninjacart,Bengaluru,Food,India,2021-02-23,200,12.99276888,77.59728476
+1054,Nirvana Money,Miami,Finance,United States,2022-11-15,0,25.76997397,-80.22809381
+1055,Nomad,Sao Paulo,Finance,Brazil,2022-08-04,0,-23.59912955,-46.64065048
+1056,Noom,New York,Tech,United States,2022-10-15,500,40.74606714,-73.98383045
+1057,Noom,New York City,Healthcare,United States,2022-04-29,495,40.74606714,-73.98383045
+1058,Noom,New York City,Healthcare,United States,2022-10-11,500,40.74606714,-73.98383045
+1059,Notarize,Boston,Legal,United States,2022-06-15,110,42.34097981,-71.08976212
+1060,Notarize,Boston,Legal,United States,2022-10-31,60,42.34097981,-71.08976212
+1061,Nova Benefits,Bengaluru,Healthcare,India,2022-06-28,0,12.99276888,77.59728476
+1062,Numbrs,Zurich,Finance,Switzerland,2020-05-07,62,47.37642643,8.556641502
+1063,NuoDB,Boston,Data,United States,2020-04-10,20,42.34097981,-71.08976212
+1064,Nuri,Berlin,Crypto,Germany,2022-10-17,0,52.52096904,13.41511266
+1065,Nuri,Berlin,Finance,Germany,2022-05-25,45,52.52096904,13.41511266
+1066,Nuro,SF Bay Area,Transportation,United States,2022-07-13,7,37.79089052,-122.4208226
+1067,Nuro,SF Bay Area,Transportation,United States,2022-11-18,300,37.79089052,-122.4208226
+1068,Nutanix,SF Bay Area,Infrastructure,United States,2022-08-09,270,37.79089052,-122.4208226
+1069,Nylas,SF Bay Area,Product,United States,2022-08-02,80,37.79089052,-122.4208226
+1070,Nyriad,Austin,Infrastructure,United States,2022-10-10,0,30.27507688,-97.74751097
+1071,O'Reilly Media,SF Bay Area,Media,United States,2020-03-25,75,37.79089052,-122.4208226
+1072,OKCredit,New Delhi,Finance,India,2022-02-24,30,28.66775072,77.21378315
+1073,OLX India,New Delhi,Marketing,India,2020-10-10,250,28.66775072,77.21378315
+1074,OPay,Lagos,Finance,Nigeria,2020-05-06,0,6.53979151,3.307267754
+1075,OYO,Dallas,Travel,United States,2020-06-24,0,32.82612278,-96.75767773
+1076,OYO,Gurugram,Travel,India,2020-12-08,600,28.4494531,77.01926638
+1077,OYO,Gurugram,Travel,India,2022-12-03,600,28.4494531,77.01926638
+1078,OYO,London,Travel,United Kingdom,2020-05-01,150,51.49754058,-0.093383322
+1079,OYO,Sao Paulo,Travel,Brazil,2020-04-25,500,-23.59912955,-46.64065048
+1080,Oatly,Malmö,Food,Sweden,2022-11-15,0,55.60540149,13.00910023
+1081,Ocavu,Lehi,Crypto,United States,2022-11-10,20,40.40758974,-111.8533478
+1082,Oda,Oslo,Food,Norway,2022-11-01,140,59.92247699,10.73565819
+1083,Oda,Oslo,Food,Sweden,2022-11-01,70,59.92247699,10.73565819
+1084,OfferUp,Seattle,Retail,United States,2022-11-15,0,47.6124803,-122.338638
+1085,Offerpad,Phoenix,Real Estate,United States,2022-11-11,0,33.45628022,-112.1099772
+1086,Oh My Green,SF Bay Area,Food,United States,2020-03-27,40,37.79089052,-122.4208226
+1087,OkCredit,Bangalore,Tech,India,2022-02-15,40,12.99276888,77.59728476
+1088,Okta,SF Bay Area,Other,United States,2022-08-26,24,37.79089052,-122.4208226
+1089,Ola,Bengaluru,Transportation,India,2020-05-20,1400,12.99276888,77.59728476
+1090,Ola,Bengaluru,Transportation,India,2022-07-29,1000,12.99276888,77.59728476
+1091,Ola,Bengaluru,Transportation,India,2022-09-19,200,12.99276888,77.59728476
+1092,Olist,Curitiba,Retail,Brazil,2022-05-23,0,-25.46219713,-49.27675988
+1093,Olive,Columbus,Healthcare,United States,2022-07-19,450,39.95103883,-82.97849926
+1094,Omie,Sao Paulo,Finance,Brazil,2020-04-09,136,-23.59912955,-46.64065048
+1095,On Deck,SF Bay Area,Education,United States,2022-05-05,72,37.79089052,-122.4208226
+1096,On Deck,SF Bay Area,Education,United States,2022-08-04,73,37.79089052,-122.4208226
+1097,OnDeck,New York City,Finance,United States,2020-07-08,0,40.74606714,-73.98383045
+1098,OneFootball,Berlin,Marketing,Germany,2022-12-09,62,52.52096904,13.41511266
+1099,OneStudyTeam,Boston,Healthcare,United States,2022-12-06,0,42.34097981,-71.08976212
+1100,OneTrust,Atlanta,Legal,United States,2020-04-09,150,33.80016297,-84.40262309
+1101,OneTrust,Atlanta,Security,United States,2022-06-09,950,33.80016297,-84.40262309
+1102,OneWeb,London,Aerospace,United Kingdom,2020-03-27,451,51.49754058,-0.093383322
+1103,OnlyFans,London,Media,United Kingdom,2022-08-01,0,51.49754058,-0.093383322
+1104,Opal,Portland,Marketing,United States,2020-03-27,20,45.57698667,-122.6338291
+1105,OpenSea,New York City,Crypto,United States,2022-07-14,0,40.74606714,-73.98383045
+1106,OpenWeb,Tel Aviv,Media,Israel,2022-06-15,14,32.08733049,34.78969085
+1107,OpenX,Los Angeles,Marketing,United States,2020-04-28,35,33.94222083,-118.4084871
+1108,Opencare,Toronto,Healthcare,Canada,2020-04-03,18,43.71194348,-79.40005894
+1109,Opendoor,SF Bay Area,Real Estate,United States,2020-04-15,600,37.79089052,-122.4208226
+1110,Opendoor,SF Bay Area,Real Estate,United States,2022-11-02,550,37.79089052,-122.4208226
+1111,Optimizely,SF Bay Area,Marketing,United States,2020-07-15,60,37.79089052,-122.4208226
+1112,OrCam,Jerusalem,Healthcare,Israel,2022-10-23,62,31.78398554,35.11423932
+1113,Oracle,SF Bay Area,Other,United States,2022-08-01,0,37.79089052,-122.4208226
+1114,Oracle,SF Bay Area,Other,United States,2022-11-01,200,37.79089052,-122.4208226
+1115,Orbit,SF Bay Area,Other,United States,2022-08-12,0,37.79089052,-122.4208226
+1116,Orchard,New York City,Real Estate,United States,2022-06-23,0,40.74606714,-73.98383045
+1117,Orchard,New York City,Real Estate,United States,2022-11-17,180,40.74606714,-73.98383045
+1118,Oriente,Hong Kong,Finance,Hong Kong,2020-05-04,400,22.34359155,114.1729829
+1119,Oscar Health,New York City,Healthcare,United States,2020-04-23,70,40.74606714,-73.98383045
+1120,Otonomo,Tel Aviv,Transportation,Israel,2022-08-28,0,32.08733049,34.78969085
+1121,Otonomo,Tel Aviv,Transportation,Israel,2022-12-08,80,32.08733049,34.78969085
+1122,Ouster,SF Bay Area,Transportation,United States,2020-09-08,0,37.79089052,-122.4208226
+1123,Ouster,SF Bay Area,Transportation,United States,2022-09-20,0,37.79089052,-122.4208226
+1124,OutboundEngine,Austin,Marketing,United States,2020-03-25,52,30.27507688,-97.74751097
+1125,Outbrain,New York City,Marketing,United States,2022-07-26,38,40.74606714,-73.98383045
+1126,Outdoorsy,SF Bay Area,Transportation,United States,2020-06-04,0,37.79089052,-122.4208226
+1127,Outreach,Seattle,Sales,United States,2022-08-02,60,47.6124803,-122.338638
+1128,Outschool,SF Bay Area,Education,United States,2022-07-05,31,37.79089052,-122.4208226
+1129,Outschool,SF Bay Area,Education,United States,2022-12-10,43,37.79089052,-122.4208226
+1130,Outside,Boulder,Media,United States,2022-05-20,87,40.01929836,-105.2852979
+1131,Outside,Boulder,Media,United States,2022-11-15,0,40.01929836,-105.2852979
+1132,Overtime,New York City,Media,United States,2020-03-25,30,40.74606714,-73.98383045
+1133,Owlet,Lehi,Healthcare,United States,2022-07-22,0,40.40758974,-111.8533478
+1134,OwnBackup,New York City,Security,United States,2022-11-15,170,40.74606714,-73.98383045
+1135,Oye Rickshaw,New Delhi,Transportation,India,2022-06-29,40,28.66775072,77.21378315
+1136,Ozy Media,SF Bay Area,Media,United States,2021-10-01,0,37.79089052,-122.4208226
+1137,PACT Pharma,SF Bay Area,Healthcare,United States,2022-07-18,94,37.79089052,-122.4208226
+1138,Pacaso,SF Bay Area,Real Estate,United States,2022-10-11,100,37.79089052,-122.4208226
+1139,Packable,New York City,Retail,United States,2022-08-23,138,40.74606714,-73.98383045
+1140,Pagarbook,Bengaluru,HR,India,2021-07-26,80,12.99276888,77.59728476
+1141,PaisaBazaar,Gurugram,Finance,India,2020-06-16,1500,28.4494531,77.01926638
+1142,Pana,Denver,Travel,United States,2020-04-01,18,39.74499824,-104.9183128
+1143,Panda Squad,SF Bay Area,Consumer,United States,2020-03-13,6,37.79089052,-122.4208226
+1144,Papa,Miami,Other,United States,2022-07-13,0,25.76997397,-80.22809381
+1145,Parallel Wireless,Nashua,Infrastructure,United States,2022-06-29,60,42.75354635,-71.48915911
+1146,Pared,SF Bay Area,Food,United States,2020-07-29,0,37.79089052,-122.4208226
+1147,Parsable,SF Bay Area,HR,United States,2020-04-15,40,37.79089052,-122.4208226
+1148,Passport,Charlotte,Transportation,United States,2020-03-26,44,35.18936403,-80.83162099
+1149,Pastel,SF Bay Area,Food,United States,2022-09-30,0,37.79089052,-122.4208226
+1150,PatientPop,Los Angeles,Healthcare,United States,2020-04-01,100,33.94222083,-118.4084871
+1151,Patreon,SF Bay Area,Media,United States,2020-04-21,30,37.79089052,-122.4208226
+1152,Patreon,SF Bay Area,Media,United States,2021-04-26,36,37.79089052,-122.4208226
+1153,Patreon,SF Bay Area,Media,United States,2022-09-09,5,37.79089052,-122.4208226
+1154,Patreon,SF Bay Area,Media,United States,2022-09-13,80,37.79089052,-122.4208226
+1155,Pavilion Data,SF Bay Area,Infrastructure,United States,2022-10-10,96,37.79089052,-122.4208226
+1156,PayJoy,SF Bay Area,Finance,United States,2020-04-28,27,37.79089052,-122.4208226
+1157,PayPal,SF Bay Area,Finance,United States,2022-05-23,83,37.79089052,-122.4208226
+1158,PaySense,Mumbai,Finance,India,2020-07-09,40,19.07246385,72.87362405
+1159,PayU,Amsterdam,Finance,Netherlands,2022-12-26,150,52.36953057,4.878896305
+1160,Payfactors,Boston,HR,United States,2020-04-07,46,42.34097981,-71.08976212
+1161,Paytm,New Delhi,Finance,India,2020-04-21,500,28.66775072,77.21378315
+1162,Pear Therapeutics,Boston,Healthcare,United States,2022-11-14,59,42.34097981,-71.08976212
+1163,Pear Therapeutics,Boston,Healthcare,United States,2022-11-16,59,42.34097981,-71.08976212
+1164,Pear Therapeutics ,Boston,Healthcare,United States,2022-07-25,25,42.34097981,-71.08976212
+1165,Pebblepost,New York City,Marketing,United States,2020-04-01,0,40.74606714,-73.98383045
+1166,Peek,Salt Lake City,Travel,United States,2020-03-20,45,40.77522924,-111.927381
+1167,PeerStreet,Los Angeles,Finance,United States,2020-03-30,51,33.94222083,-118.4084871
+1168,PeerStreet,Los Angeles,Finance,United States,2022-05-25,75,33.94222083,-118.4084871
+1169,Peerfit,Tampa Bay,HR,United States,2020-03-24,0,27.9531417,-82.47178083
+1170,Peerspace,SF Bay Area,Real Estate,United States,2020-03-26,41,37.79089052,-122.4208226
+1171,Peloton,New York City,Fitness,United States,2022-02-08,2800,40.74606714,-73.98383045
+1172,Peloton,New York City,Fitness,United States,2022-08-12,784,40.74606714,-73.98383045
+1173,Peloton,New York City,Fitness,United States,2022-10-06,500,40.74606714,-73.98383045
+1174,Pendo,Raleigh,Product,United States,2022-09-07,45,35.80892558,-78.63684775
+1175,People.ai,SF Bay Area,Marketing,United States,2020-04-17,30,37.79089052,-122.4208226
+1176,People.ai,SF Bay Area,Sales,United States,2022-07-22,0,37.79089052,-122.4208226
+1177,PeopleGrove,SF Bay Area,HR,United States,2020-04-03,0,37.79089052,-122.4208226
+1178,Perceptive Automata,Boston,Transportation,United States,2022-08-01,0,42.34097981,-71.08976212
+1179,Perimeter 81,Tel Aviv,Security,Israel,2022-12-06,20,32.08733049,34.78969085
+1180,Perion,Tel Aviv,Marketing,Israel,2022-08-08,20,32.08733049,34.78969085
+1181,PerkSpot,Chicago,HR,United States,2020-04-06,10,41.84771607,-87.68255456
+1182,Perkbox,London,HR,United Kingdom,2020-07-27,0,51.49754058,-0.093383322
+1183,Permutive,London,Marketing,United Kingdom,2022-08-10,30,51.49754058,-0.093383322
+1184,Perx Health,Sydney,Healthcare,Australia,2022-07-02,0,-33.87434482,151.1433471
+1185,Pesto,SF Bay Area,Other,United States,2022-09-23,0,37.79089052,-122.4208226
+1186,Petal,New York City,Finance,United States,2020-05-12,0,40.74606714,-73.98383045
+1187,Petal,New York City,Finance,United States,2022-08-18,0,40.74606714,-73.98383045
+1188,PharmEasy,Mumbai,Healthcare,India,2022-06-16,40,19.07246385,72.87362405
+1189,PharmEasy,Mumbai,Healthcare,India,2022-12-10,0,19.07246385,72.87362405
+1190,PickYourTrail,Chennai,Travel,India,2020-05-21,70,13.08026264,80.21724229
+1191,PicoBrew,Seattle,Food,United States,2020-04-30,0,47.6124803,-122.338638
+1192,Picsart,Miami,Consumer,United States,2022-05-17,90,25.76997397,-80.22809381
+1193,Pinterest,SF Bay Area,Consumer,United States,2022-11-30,0,37.79089052,-122.4208226
+1194,Pipedrive,Tallin,Sales,Estonia,2020-05-05,31,59.43509922,24.74096795
+1195,Pipedrive,Tallin,Sales,Estonia,2022-11-14,143,59.43509922,24.74096795
+1196,Pipl,Spokane,Security,United States,2022-06-23,22,47.65934498,-117.3922439
+1197,Pitch,Berlin,Marketing,Germany,2022-09-14,59,52.52096904,13.41511266
+1198,Pivot3,Austin,Infrastructure,United States,2020-03-27,0,30.27507688,-97.74751097
+1199,Pix,SF Bay Area,Food,United States,2022-08-24,0,37.79089052,-122.4208226
+1200,Plaid,SF Bay Area,Finance,United States,2022-12-07,260,37.79089052,-122.4208226
+1201,Planetly,Berlin,Other,Germany,2022-11-04,200,52.52096904,13.41511266
+1202,Plato,SF Bay Area,HR,United States,2022-08-23,29,37.79089052,-122.4208226
+1203,Playdots,New York City,Consumer,United States,2022-10-13,65,40.74606714,-73.98383045
+1204,Playtika,Tel Aviv,Consumer,Israel,2022-05-31,250,32.08733049,34.78969085
+1205,Playtika,Tel Aviv,Consumer,Israel,2022-12-09,600,32.08733049,34.78969085
+1206,Pleo,Copenhagen,Finance,United States,2022-11-03,150,55.66847692,12.55742599
+1207,Plerk,Guadalajara,Finance,Mexico,2022-11-29,0,20.66735328,-103.3556714
+1208,Pliops,Tel Aviv,Data,Israel,2022-08-16,12,32.08733049,34.78969085
+1209,Plum,Bengaluru,Healthcare,India,2022-11-09,36,12.99276888,77.59728476
+1210,Pluralsight,Salt Lake City,Education,United States,2022-12-12,400,40.77522924,-111.927381
+1211,Pocketmath,Singapore,Marketing,Singapore,2021-01-20,21,1.340069964,103.8483322
+1212,Podium,Lehi,Support,United States,2022-12-01,0,40.40758974,-111.8533478
+1213,Polarr,SF Bay Area,Consumer,United States,2020-03-29,10,37.79089052,-122.4208226
+1214,PolicyGenius,New York City,Finance,United States,2022-06-02,170,40.74606714,-73.98383045
+1215,Politico / Protocol,Washington D.C.,Media,United States,2020-04-21,13,38.88992976,-77.01664355
+1216,Pollen,London,Marketing,United Kingdom,2022-08-10,0,51.49754058,-0.093383322
+1217,Pollen,London,Travel,United Kingdom,2020-05-19,69,51.49754058,-0.093383322
+1218,Pollen,London,Travel,United Kingdom,2022-05-10,200,51.49754058,-0.093383322
+1219,Polly,Burlington,Finance,United States,2022-12-02,47,36.08611208,-79.43383809
+1220,Pomelo Fashion,Bangkok,Retail,Thailand,2022-09-08,55,13.75924362,100.5074456
+1221,Popin,New York City,Fitness,United States,2020-03-19,0,40.74606714,-73.98383045
+1222,Postmates,SF Bay Area,Food,United States,2021-01-23,180,37.79089052,-122.4208226
+1223,Postscript,SF Bay Area,Marketing,United States,2022-06-26,43,37.79089052,-122.4208226
+1224,PowerReviews,Chicago,Retail,United States,2020-04-23,0,41.84771607,-87.68255456
+1225,Practically,Hyderabad,Education,India,2022-11-06,0,17.45932012,78.45882064
+1226,Preply,Boston,Education,United States,2022-06-09,26,42.34097981,-71.08976212
+1227,Primark,Dublin,Tech,Ireland,2022-01-15,400,53.38055184,-6.269073519
+1228,Primer,London,Finance,United Kingdom,2022-12-09,85,51.49754058,-0.093383322
+1229,Privitar,London,Data,United Kingdom,2021-01-27,20,51.49754058,-0.093383322
+1230,Procore,Los Angeles,Construction,United States,2020-07-28,180,33.94222083,-118.4084871
+1231,Productboard,SF Bay Area,Product,United States,2022-11-15,100,37.79089052,-122.4208226
+1232,Project44,Chicago,Logistics,United States,2022-07-15,63,41.84771607,-87.68255456
+1233,Properly,Toronto,Real Estate,Canada,2022-11-15,71,43.71194348,-79.40005894
+1234,Propzy,Ho Chi Minh City,Real Estate,Vietnam,2022-06-07,0,10.79724203,106.6560262
+1235,Propzy,Ho Chi Minh City,Real Estate,Vietnam,2022-09-13,0,10.79724203,106.6560262
+1236,Protocol,SF Bay Area,Media,United States,2022-11-15,60,37.79089052,-122.4208226
+1237,Provi,Chicago,Food,United States,2022-11-03,0,41.84771607,-87.68255456
+1238,PuduTech,Shenzen,Other,China,2022-07-08,1500,22.64493411,114.04835
+1239,Pulse Secure,SF Bay Area,Security,United States,2020-12-23,78,37.79089052,-122.4208226
+1240,Puppet,Portland,Infrastructure,United States,2020-03-26,50,45.57698667,-122.6338291
+1241,Puppet,Portland,Infrastructure,United States,2022-08-03,0,45.57698667,-122.6338291
+1242,Purse,SF Bay Area,Crypto,United States,2020-04-16,0,37.79089052,-122.4208226
+1243,Q4,Toronto,Other,Canada,2022-08-23,50,43.71194348,-79.40005894
+1244,Qin1,Noida,Education,India,2022-10-14,0,28.55046338,77.38467714
+1245,Quandoo,Berlin,Food,Germany,2021-02-03,87,52.52096904,13.41511266
+1246,Quanergy Systems,SF Bay Area,Transportation,United States,2022-12-14,72,37.79089052,-122.4208226
+1247,Quantcast,SF Bay Area,Marketing,United States,2020-04-08,30,37.79089052,-122.4208226
+1248,Quantcast,SF Bay Area,Marketing,United States,2022-07-29,40,37.79089052,-122.4208226
+1249,Quanterix,Boston,Healthcare,United States,2022-08-09,130,42.34097981,-71.08976212
+1250,Quanto,Sao Paulo,Finance,Brazil,2022-07-22,28,-23.59912955,-46.64065048
+1251,Quartz,New York City,Media,United States,2020-05-14,80,40.74606714,-73.98383045
+1252,Quibi,Los Angeles,Media,United States,2020-10-21,0,33.94222083,-118.4084871
+1253,Quicko,Sao Paulo,Transportation,Brazil,2022-09-12,60,-23.59912955,-46.64065048
+1254,Quidax,Lagos,Crypto,Nigeria,2022-11-24,20,6.53979151,3.307267754
+1255,QuintoAndar,Sao Paulo,Real Estate,Brazil,2020-04-17,88,-23.59912955,-46.64065048
+1256,QuintoAndar,Sao Paulo,Real Estate,Brazil,2022-04-19,160,-23.59912955,-46.64065048
+1257,Qumulo,Seattle,Data,United States,2022-06-29,80,47.6124803,-122.338638
+1258,Qwick,Phoenix,Recruiting,United States,2020-04-27,0,33.45628022,-112.1099772
+1259,Rad Power Bikes,Seattle,Transportation,United States,2022-04-12,100,47.6124803,-122.338638
+1260,Rad Power Bikes,Seattle,Transportation,United States,2022-07-21,63,47.6124803,-122.338638
+1261,Rain,Manama,Finance,Bahrain,2022-06-02,0,26.22245462,50.59208117
+1262,RainFocus,Salt Lake City,Marketing,United States,2020-04-07,0,40.77522924,-111.927381
+1263,Raken,San Diego,Construction,United States,2020-03-27,60,32.74804203,-117.1282372
+1264,Rangle,Toronto,Product,Canada,2020-03-25,78,43.71194348,-79.40005894
+1265,Rapyd,Tel Aviv,Finance,Israel,2022-11-22,0,32.08733049,34.78969085
+1266,Rasa,Berlin,Data,Germany,2022-03-30,59,52.52096904,13.41511266
+1267,Reach,Calgary,Retail,Canada,2022-12-16,0,51.02383332,-114.0370479
+1268,RealSelf,Seattle,Healthcare,United States,2020-04-21,40,47.6124803,-122.338638
+1269,RealSelf,Seattle,Healthcare,United States,2022-07-21,11,47.6124803,-122.338638
+1270,Reali,SF Bay Area,Real Estate,United States,2022-08-24,140,37.79089052,-122.4208226
+1271,Realtor.com,SF Bay Area,Real Estate,United States,2022-09-08,0,37.79089052,-122.4208226
+1272,Recharge,Los Angeles,Finance,United States,2022-10-27,84,33.94222083,-118.4084871
+1273,RedDoorz,Singapore,Travel,Singapore,2020-04-08,0,1.340069964,103.8483322
+1274,RedDoorz,Singapore,Travel,Singapore,2020-04-14,0,1.340069964,103.8483322
+1275,Redesign Health,New York City,Healthcare,United States,2022-10-10,67,40.74606714,-73.98383045
+1276,Redfin,Seattle,Real Estate,United States,2020-04-07,236,47.6124803,-122.338638
+1277,Redfin,Seattle,Real Estate,United States,2022-06-14,470,47.6124803,-122.338638
+1278,Redfin,Seattle,Real Estate,United States,2022-11-09,862,47.6124803,-122.338638
+1279,Redox,Madison,Healthcare,United States,2020-06-16,44,43.07261489,-89.41331543
+1280,Reef,Miami,Transportation,United States,2022-05-06,750,25.76997397,-80.22809381
+1281,Reforge,SF Bay Area,Education,United States,2022-11-10,0,37.79089052,-122.4208226
+1282,Relativity,Chicago,Legal,United States,2022-12-07,150,41.84771607,-87.68255456
+1283,Remedy,Austin,Healthcare,United States,2020-10-29,82,30.27507688,-97.74751097
+1284,Remesh,New York City,Support,United States,2022-07-01,0,40.74606714,-73.98383045
+1285,Remote,SF Bay Area,HR,United States,2022-07-06,100,37.79089052,-122.4208226
+1286,Remote Year,Chicago,Travel,United States,2020-03-19,50,41.84771607,-87.68255456
+1287,Renmoney,Lagos,Finance,Nigeria,2020-04-28,391,6.53979151,3.307267754
+1288,RenoRun,Montreal,Construction,Canada,2022-08-04,70,45.50496791,-73.62812998
+1289,RenoRun,Montreal,Construction,Canada,2022-08-05,70,45.50496791,-73.62812998
+1290,RenoRun,Montreal,Construction,Canada,2022-10-27,210,45.50496791,-73.62812998
+1291,Rent the Runway,New York City,Retail,United States,2020-03-28,0,40.74606714,-73.98383045
+1292,Rent the Runway,New York City,Retail,United States,2022-09-12,0,40.74606714,-73.98383045
+1293,Repertoire Immune Medicines,Boston,Healthcare,United States,2022-11-08,65,42.34097981,-71.08976212
+1294,Replicated,Los Angeles,Infrastructure,United States,2022-05-31,50,33.94222083,-118.4084871
+1295,ResearchGate,Berlin,Other,Germany,2022-11-28,25,52.52096904,13.41511266
+1296,Restaurant365,Los Angeles,Food,United States,2020-03-27,175,33.94222083,-118.4084871
+1297,Rev.com,Austin,Data,United States,2022-10-07,85,30.27507688,-97.74751097
+1298,Revelate,Montreal,Data,Canada,2022-12-16,24,45.50496791,-73.62812998
+1299,Revolut,London,Finance,United Kingdom,2020-05-11,60,51.49754058,-0.093383322
+1300,Rhino,New York City,Real Estate,United States,2022-02-03,57,40.74606714,-73.98383045
+1301,Rhumbix,SF Bay Area,Construction,United States,2020-04-10,16,37.79089052,-122.4208226
+1302,Ribbon,New York City,Real Estate,United States,2022-07-28,136,40.74606714,-73.98383045
+1303,Ribbon,New York City,Real Estate,United States,2022-11-14,170,40.74606714,-73.98383045
+1304,Ridecell,SF Bay Area,Transportation,United States,2020-05-14,35,37.79089052,-122.4208226
+1305,RigUp,Austin,Energy,United States,2020-03-30,120,30.27507688,-97.74751097
+1306,RingCentral,SF Bay Area,Other,United States,2022-11-09,0,37.79089052,-122.4208226
+1307,RingCentral,SF Bay Area,Support,United States,2022-08-04,50,37.79089052,-122.4208226
+1308,Ritual,Toronto,Food,Canada,2020-04-02,196,43.71194348,-79.40005894
+1309,Ritual,Toronto,Food,Canada,2022-06-22,23,43.71194348,-79.40005894
+1310,Rivian,Detroit,Transportation,United States,2020-06-02,40,42.3574442,-83.08824752
+1311,Rivian,Detroit,Transportation,United States,2022-07-27,840,42.3574442,-83.08824752
+1312,Ro,New York City,Healthcare,United States,2022-06-23,0,40.74606714,-73.98383045
+1313,Robinhood,Menlo Park,Tech,United States,2022-08-15,700,37.45403928,-122.1780796
+1314,Robinhood,SF Bay Area,Finance,United States,2022-04-26,340,37.79089052,-122.4208226
+1315,Robinhood,SF Bay Area,Finance,United States,2022-08-02,713,37.79089052,-122.4208226
+1316,Rock Content,Belo Horizonte,Marketing,Brazil,2020-04-06,100,-19.92562092,-43.9788151
+1317,Roku,SF Bay Area,Media,United States,2022-11-17,200,37.79089052,-122.4208226
+1318,Roofstock,SF Bay Area,Real Estate,United States,2022-10-20,0,37.79089052,-122.4208226
+1319,Root Insurance,Columbus,Finance,United States,2022-01-20,330,39.95103883,-82.97849926
+1320,Root Insurance,Columbus,Finance,United States,2022-11-09,137,39.95103883,-82.97849926
+1321,Route,Lehi,Retail,United States,2022-12-05,0,40.40758974,-111.8533478
+1322,Rover,Seattle,Consumer,United States,2020-03-31,194,47.6124803,-122.338638
+1323,Rows,Berlin,Other,Germany,2022-06-29,18,52.52096904,13.41511266
+1324,Royal Mail,London,Tech,United Kingdom,2022-01-15,700,51.49754058,-0.093383322
+1325,Ruangguru,Jakarta,Education,Indonesia,2022-11-18,0,-6.224949848,106.8528548
+1326,Rubica,Seattle,Security,United States,2020-11-05,0,47.6124803,-122.338638
+1327,Rubicon Project,Los Angeles,Marketing,United States,2020-05-06,50,33.94222083,-118.4084871
+1328,Rubicon Technologies,Lexington,Other,United States,2022-11-15,0,38.03340614,-84.49768826
+1329,Rubius,Boston,Healthcare,United States,2022-09-13,160,42.34097981,-71.08976212
+1330,Rubius,Boston,Healthcare,United States,2022-11-03,0,42.34097981,-71.08976212
+1331,Rubrik,SF Bay Area,Infrastructure,United States,2020-05-18,57,37.79089052,-122.4208226
+1332,Rupeek,Bangalore,Tech,India,2022-09-15,50,12.99276888,77.59728476
+1333,Rupeek,Bengaluru,Finance,India,2022-06-07,180,12.99276888,77.59728476
+1334,Rupeek,Bengaluru,Finance,India,2022-09-07,50,12.99276888,77.59728476
+1335,SADA,Los Angeles,Other,United States,2022-11-08,0,33.94222083,-118.4084871
+1336,SEND,Sydney,Food,Australia,2022-05-04,300,-33.87434482,151.1433471
+1337,SIRCLO,Jakarta,Retail,Indonesia,2022-11-22,160,-6.224949848,106.8528548
+1338,SQZ Biotech,Boston,Healthcare,United States,2022-12-01,0,42.34097981,-71.08976212
+1339,SQream,New York City,Data,United States,2022-07-06,30,40.74606714,-73.98383045
+1340,SWVL,Cairo,Transportation,Egypt,2022-11-23,0,30.04163942,31.245416
+1341,SWVL,Dubai,Transportation,United Arab Emirates,2022-05-30,400,25.14957961,55.29326376
+1342,SafeGraph,SF Bay Area,Data,United States,2022-06-27,27,37.79089052,-122.4208226
+1343,Sage Therapeutics,Boston,Healthcare,United States,2020-04-07,340,42.34097981,-71.08976212
+1344,Sales Boomerang,Baltimore,Sales,United States,2022-10-20,20,39.29239132,-76.62496183
+1345,SalesLoft,Atlanta,Sales,United States,2020-05-07,55,33.80016297,-84.40262309
+1346,Salesforce,SF Bay Area,Sales,United States,2020-08-26,1000,37.79089052,-122.4208226
+1347,Salesforce,SF Bay Area,Sales,United States,2022-10-13,90,37.79089052,-122.4208226
+1348,Salesforce,SF Bay Area,Sales,United States,2022-11-07,1000,37.79089052,-122.4208226
+1349,Salsify,Boston,Retail,United States,2020-04-03,60,42.34097981,-71.08976212
+1350,Salsify,Boston,Retail,United States,2022-11-16,90,42.34097981,-71.08976212
+1351,Sama,SF Bay Area,Data,United States,2022-09-12,0,37.79089052,-122.4208226
+1352,Sami,Sao Paulo,Healthcare,Brazil,2022-06-14,75,-23.59912955,-46.64065048
+1353,Samsara,SF Bay Area,Logistics,United States,2020-05-20,300,37.79089052,-122.4208226
+1354,Sanar,Sao Paulo,Healthcare,Brazil,2022-06-10,60,-23.59912955,-46.64065048
+1355,Sandbox VR,SF Bay Area,Consumer,United States,2020-05-01,80,37.79089052,-122.4208226
+1356,Sauce Labs,SF Bay Area,Infrastructure,United States,2020-04-02,30,37.79089052,-122.4208226
+1357,Sayurbox,Jakarta,Food,Indonesia,2022-12-07,0,-6.224949848,106.8528548
+1358,ScaleFactor,Austin,Finance,United States,2020-06-23,90,30.27507688,-97.74751097
+1359,ScaleFocus,Sofia,Infrastructure,Bulgaria,2020-06-11,120,42.69938399,23.32393947
+1360,Science 37,Los Angeles,Healthcare,United States,2022-11-14,90,33.94222083,-118.4084871
+1361,Science 37 ,Los Angeles,Healthcare,United States,2022-11-14,90,33.94222083,-118.4084871
+1362,Scoop,SF Bay Area,Transportation,United States,2020-04-08,92,37.79089052,-122.4208226
+1363,Scoop,SF Bay Area,Transportation,United States,2020-11-17,0,37.79089052,-122.4208226
+1364,Sea,Bengaluru,Retail,India,2022-03-30,350,12.99276888,77.59728476
+1365,Sea,Singapore,Consumer,Singapore,2022-09-02,0,1.340069964,103.8483322
+1366,Secfi,SF Bay Area,Finance,United States,2022-06-30,0,37.79089052,-122.4208226
+1367,Section4,New York City,Education,United States,2022-05-12,32,40.74606714,-73.98383045
+1368,Seegrid,Pittsburgh,Logistics,United States,2022-08-02,90,40.44852962,-79.97844802
+1369,Segment,SF Bay Area,Data,United States,2020-05-06,50,37.79089052,-122.4208226
+1370,SellerX,Berlin,Retail,Germany,2022-07-19,28,52.52096904,13.41511266
+1371,Sema4,Stamford,Healthcare,United States,2022-08-15,250,41.06197344,-73.538062
+1372,Sema4,Stamford,Healthcare,United States,2022-11-14,500,41.06197344,-73.538062
+1373,SendCloud,Eindhoven,Logistics,United States,2022-11-10,0,51.44455056,5.476910049
+1374,Sendle,Sydney,Logistics,Australia,2022-07-04,27,-33.87434482,151.1433471
+1375,Sendoso,SF Bay Area,Marketing,United States,2022-06-06,0,37.79089052,-122.4208226
+1376,Sendy,Nairobi,Logistics,Kenya,2022-08-02,84,-1.308685021,36.81165373
+1377,Sensibill,Toronto,Finance,Canada,2020-04-01,17,43.71194348,-79.40005894
+1378,Service,Los Angeles,Travel,United States,2020-03-16,0,33.94222083,-118.4084871
+1379,Service,Los Angeles,Travel,United States,2020-03-20,0,33.94222083,-118.4084871
+1380,Sezzle,Minneapolis,Finance,United States,2022-03-10,0,44.97043271,-93.26319687
+1381,Share Now,Berlin,Transportation,Germany,2022-12-09,150,52.52096904,13.41511266
+1382,ShareChat,Bengaluru,Consumer,India,2022-12-02,100,12.99276888,77.59728476
+1383,ShareChat,Bengaluru,Marketing,India,2020-05-20,101,12.99276888,77.59728476
+1384,Sharethrough,SF Bay Area,Marketing,United States,2020-07-01,18,37.79089052,-122.4208226
+1385,Shef,SF Bay Area,Food,United States,2022-06-02,29,37.79089052,-122.4208226
+1386,Shelf Engine,Seattle,Food,United States,2022-07-29,43,47.6124803,-122.338638
+1387,Sherpa,Toronto,Travel,Canada,2022-07-29,22,43.71194348,-79.40005894
+1388,Shift,SF Bay Area,Transportation,United States,2022-08-09,0,37.79089052,-122.4208226
+1389,ShipBob,Chicago,Logistics,United States,2022-08-25,0,41.84771607,-87.68255456
+1390,Shippo,SF Bay Area,Logistics,United States,2022-11-03,60,37.79089052,-122.4208226
+1391,Shipsi,Los Angeles,Retail,United States,2020-04-28,20,33.94222083,-118.4084871
+1392,Shogun,SF Bay Area,Retail,United States,2022-08-09,48,37.79089052,-122.4208226
+1393,Shop101,Mumbai,Retail,India,2020-04-15,200,19.07246385,72.87362405
+1394,ShopX,Bengaluru,Retail,India,2022-08-22,0,12.99276888,77.59728476
+1395,Shopee,Jakarta,Food,Indonesia,2022-09-18,0,-6.224949848,106.8528548
+1396,Shopee,Jakarta,Food,Indonesia,2022-11-14,0,-6.224949848,106.8528548
+1397,Shopee,Singapore,Food,Singapore,2022-06-14,0,1.340069964,103.8483322
+1398,Shopify,Ottawa,Retail,Canada,2020-08-14,30,45.31642474,-75.78937839
+1399,Shopify,Ottawa,Retail,Canada,2022-07-06,50,45.31642474,-75.78937839
+1400,Shopify,Ottawa,Retail,Canada,2022-07-26,1000,45.31642474,-75.78937839
+1401,Shopify,Ottawa,Retail,Canada,2022-09-01,70,45.31642474,-75.78937839
+1402,Shopify,Ottawa,Tech,Canada,2022-07-15,1000,45.31642474,-75.78937839
+1403,Showpad,Chicago,Marketing,United States,2020-04-01,52,41.84771607,-87.68255456
+1404,Shuttl,New Delhi,Transportation,India,2020-04-02,40,28.66775072,77.21378315
+1405,Side,SF Bay Area,Real Estate,United States,2022-06-01,0,37.79089052,-122.4208226
+1406,Side,SF Bay Area,Real Estate,United States,2022-10-19,0,37.79089052,-122.4208226
+1407,Sidecar Health,Los Angeles,Healthcare,United States,2022-06-28,110,33.94222083,-118.4084871
+1408,Sift,SF Bay Area,Security,United States,2020-05-14,0,37.79089052,-122.4208226
+1409,Signicat,Trondheim,Security,Norway,2022-11-02,0,63.4388302,10.39302129
+1410,SimilarWeb,New York City,Other,United States,2022-11-16,120,40.74606714,-73.98383045
+1411,Simon Data,New York City,Marketing,United States,2020-04-23,6,40.74606714,-73.98383045
+1412,Simple,Portland,Finance,United States,2021-01-07,0,45.57698667,-122.6338291
+1413,Simple Feast,Copenhagen,Food,Denmark,2022-09-07,150,55.66847692,12.55742599
+1414,Singular,SF Bay Area,Marketing,United States,2020-04-23,0,37.79089052,-122.4208226
+1415,Sisense,New York City,Data,United States,2020-04-23,80,40.74606714,-73.98383045
+1416,Siteimprove,Minneapolis,Marketing,United States,2020-03-31,40,44.97043271,-93.26319687
+1417,Skai,Tel Aviv,Marketing,Israel,2022-07-27,30,32.08733049,34.78969085
+1418,Skedulo,SF Bay Area,HR,United States,2022-08-23,31,37.79089052,-122.4208226
+1419,Sketch,The Hague,Other,Netherlands,2022-10-11,80,52.07030502,4.293382701
+1420,Skillshare,New York City,Education,United States,2022-06-01,31,40.74606714,-73.98383045
+1421,Skillshare,New York City,Education,United States,2022-08-23,0,40.74606714,-73.98383045
+1422,Skillz,SF Bay Area,Consumer,United States,2020-04-14,21,37.79089052,-122.4208226
+1423,Skillz,SF Bay Area,Consumer,United States,2022-05-20,70,37.79089052,-122.4208226
+1424,Skillz,SF Bay Area,Consumer,United States,2022-08-29,0,37.79089052,-122.4208226
+1425,SkipTheDishes,Winnipeg,Food,Canada,2022-09-09,350,49.88973171,-97.14325209
+1426,SkySlope,Sacramento,Real Estate,United States,2020-03-31,50,38.56111358,-121.4456667
+1427,Skyscanner,Edinburgh,Travel,United Kingdom,2020-07-14,300,55.94266708,-3.213584161
+1428,Slice Labs,New York City,Finance,United States,2020-04-08,0,40.74606714,-73.98383045
+1429,Slync,Dallas,Logistics,United States,2022-08-05,0,32.82612278,-96.75767773
+1430,Smarsh,Portland,Other,United States,2022-07-21,0,45.57698667,-122.6338291
+1431,Smava,Berlin,Finance,Germany,2022-08-31,100,52.52096904,13.41511266
+1432,Smava,Berlin,Finance,Germany,2022-11-02,100,52.52096904,13.41511266
+1433,Snagajob,Richmond,HR,United States,2022-08-31,0,37.53165735,-77.46031021
+1434,Snap,Los Angeles,Consumer,United States,2022-08-31,1280,33.94222083,-118.4084871
+1435,Snap Finance,Salt Lake City,Finance,United States,2020-03-31,0,40.77522924,-111.927381
+1436,Snapdocs,SF Bay Area,Real Estate,United States,2022-08-16,0,37.79089052,-122.4208226
+1437,Snapdocs,SF Bay Area,Real Estate,United States,2022-11-03,0,37.79089052,-122.4208226
+1438,Snaptravel,Toronto,Travel,Canada,2020-07-16,0,43.71194348,-79.40005894
+1439,Snyk,Boston,Security,United States,2022-06-30,30,42.34097981,-71.08976212
+1440,Snyk,Boston,Security,United States,2022-10-24,198,42.34097981,-71.08976212
+1441,SoFi,SF Bay Area,Finance,United States,2020-05-20,112,37.79089052,-122.4208226
+1442,Socure,Reno,Finance,United States,2022-06-17,69,39.52872435,-119.8165167
+1443,Sojern,SF Bay Area,Marketing,United States,2020-04-03,300,37.79089052,-122.4208226
+1444,Solarisbank,Berlin,Finance,Germany,2022-09-29,0,52.52096904,13.41511266
+1445,Soluto,Tel Aviv,Support,Israel,2022-07-24,120,32.08733049,34.78969085
+1446,Sonder,SF Bay Area,Travel,United States,2020-03-24,400,37.79089052,-122.4208226
+1447,Sonder,SF Bay Area,Travel,United States,2022-06-08,250,37.79089052,-122.4208226
+1448,SonderMind,Denver,Healthcare,United States,2022-12-16,0,39.74499824,-104.9183128
+1449,Sonos,New York City,Consumer,United States,2020-06-24,174,40.74606714,-73.98383045
+1450,Sorabel,Jakarta,Retail,Indonesia,2020-07-23,0,-6.224949848,106.8528548
+1451,SoundCloud,Berlin,Consumer,Germany,2022-08-03,0,52.52096904,13.41511266
+1452,SoundHound,SF Bay Area,Other,United States,2022-11-10,45,37.79089052,-122.4208226
+1453,Sourcegraph,SF Bay Area,Product,United States,2022-06-21,24,37.79089052,-122.4208226
+1454,Spaces,Los Angeles,Media,United States,2020-08-24,0,33.94222083,-118.4084871
+1455,Spin,SF Bay Area,Transportation,United States,2022-01-08,0,37.79089052,-122.4208226
+1456,Spin,SF Bay Area,Transportation,United States,2022-09-30,78,37.79089052,-122.4208226
+1457,Splice,New York City,Media,United States,2022-07-20,23,40.74606714,-73.98383045
+1458,Splunk,SF Bay Area,Data,United States,2020-06-16,70,37.79089052,-122.4208226
+1459,SpotHero,Chicago,Transportation,United States,2020-03-24,0,41.84771607,-87.68255456
+1460,SpotHero,Chicago,Transportation,United States,2020-06-03,40,41.84771607,-87.68255456
+1461,Spotify,Stockholm,Media,Sweden,2022-10-06,0,59.34125093,18.05756334
+1462,Spotify,Stockholm,Media,Sweden,2022-11-09,0,59.34125093,18.05756334
+1463,Spreetail,Austin,Retail,United States,2022-10-27,0,30.27507688,-97.74751097
+1464,Spring,SF Bay Area,Retail,United States,2022-07-12,0,37.79089052,-122.4208226
+1465,Springbig,Miami,Sales,United States,2022-12-01,37,25.76997397,-80.22809381
+1466,Springlane,Düsseldorf,Food,Germany,2022-10-28,0,51.2615797,6.774518503
+1467,Sprinklr,New York City,Support,United States,2020-06-25,0,40.74606714,-73.98383045
+1468,Sprinklr,New York City,Support,United States,2022-06-22,50,40.74606714,-73.98383045
+1469,Spyce,Boston,Food,United States,2020-04-08,4,42.34097981,-71.08976212
+1470,SquadVoice,Columbus,Real Estate,United States,2020-04-16,0,39.95103883,-82.97849926
+1471,Stack Overflow,New York City,Recruiting,United States,2020-05-05,40,40.74606714,-73.98383045
+1472,Starry,Boston,Other,United States,2022-10-20,0,42.34097981,-71.08976212
+1473,Starship,SF Bay Area,Transportation,United States,2022-06-09,0,37.79089052,-122.4208226
+1474,Starship Technologies,Tallin,Transportation,Estonia,2020-03-30,30,59.43509922,24.74096795
+1475,Stash,New York City,Finance,United States,2022-12-06,32,40.74606714,-73.98383045
+1476,Stash Financial,New York City,Finance,United States,2022-06-30,40,40.74606714,-73.98383045
+1477,Stashaway,Singapore,Finance,Singapore,2022-06-09,31,1.340069964,103.8483322
+1478,Stay Alfred,Spokane,Travel,United States,2020-05-20,221,47.65934498,-117.3922439
+1479,Stedi,Boulder,Product,United States,2022-08-02,23,40.01929836,-105.2852979
+1480,Stint,London,HR,United Kingdom,2022-07-19,28,51.49754058,-0.093383322
+1481,Stitch Fix,SF Bay Area,Retail,United States,2020-06-01,1400,37.79089052,-122.4208226
+1482,Stitch Fix,SF Bay Area,Retail,United States,2022-06-09,330,37.79089052,-122.4208226
+1483,StockX,Detroit,Retail,United States,2020-04-23,100,42.3574442,-83.08824752
+1484,StockX,Detroit,Retail,United States,2022-06-28,200,42.3574442,-83.08824752
+1485,Stockwell AI,SF Bay Area,Retail,United States,2020-06-15,0,37.79089052,-122.4208226
+1486,Stone,Sao Paulo,Finance,Brazil,2020-05-12,1300,-23.59912955,-46.64065048
+1487,Stoqo,Jakarta,Food,Indonesia,2020-04-25,250,-6.224949848,106.8528548
+1488,Stord,Atlanta,Logistics,United States,2022-06-02,59,33.80016297,-84.40262309
+1489,StoryBlocks,Washington D.C.,Media,United States,2022-11-18,0,38.88992976,-77.01664355
+1490,Storytel,Stockholm,Media,Sweden,2022-03-17,100,59.34125093,18.05756334
+1491,Strava,SF Bay Area,Fitness,United States,2022-12-01,0,37.79089052,-122.4208226
+1492,Stream,Boulder,Product,United States,2022-06-30,20,40.01929836,-105.2852979
+1493,StreamElements,Tel Aviv,Media,Israel,2022-06-23,0,32.08733049,34.78969085
+1494,StreamSets,SF Bay Area,Data,United States,2020-08-20,0,37.79089052,-122.4208226
+1495,Stripe,SF Bay Area,Finance,United States,2022-08-19,50,37.79089052,-122.4208226
+1496,Stripe,SF Bay Area,Finance,United States,2022-11-03,1000,37.79089052,-122.4208226
+1497,StubHub,SF Bay Area,Consumer,United States,2020-05-28,200,37.79089052,-122.4208226
+1498,StubHub,SF Bay Area,Consumer,United States,2022-08-04,0,37.79089052,-122.4208226
+1499,Studio,SF Bay Area,Education,United States,2022-06-13,33,37.79089052,-122.4208226
+1500,Studio,SF Bay Area,Education,United States,2022-11-03,0,37.79089052,-122.4208226
+1501,StyleSeat,SF Bay Area,Consumer,United States,2022-07-15,0,37.79089052,-122.4208226
+1502,Submittable,Missoula,Other,United States,2020-04-25,30,46.87341975,-113.9975745
+1503,Subspace,Los Angeles,Infrastructure,United States,2021-03-03,0,33.94222083,-118.4084871
+1504,Subspace,Los Angeles,Infrastructure,United States,2022-05-13,0,33.94222083,-118.4084871
+1505,Substack,SF Bay Area,Media,United States,2022-06-29,13,37.79089052,-122.4208226
+1506,SumUp,London,Finance,United Kingdom,2021-05-05,0,51.49754058,-0.093383322
+1507,SumUp,Sao Paulo,Finance,Brazil,2022-05-30,100,-23.59912955,-46.64065048
+1508,SummerBio,SF Bay Area,Healthcare,United States,2022-06-20,101,37.79089052,-122.4208226
+1509,Sundae,SF Bay Area,Real Estate,United States,2022-06-30,0,37.79089052,-122.4208226
+1510,Sunday,Atlanta,Finance,United States,2022-06-24,90,33.80016297,-84.40262309
+1511,SundaySky,New York City,Marketing,United States,2022-07-11,24,40.74606714,-73.98383045
+1512,SuperLearn,Bengaluru,Education,India,2022-06-21,0,12.99276888,77.59728476
+1513,Superhuman,SF Bay Area,Consumer,United States,2022-06-03,23,37.79089052,-122.4208226
+1514,Superloop,Brisbane,Infrastructure,Australia,2020-08-24,30,-27.47937432,153.0329909
+1515,Superpedestrian,Boston,Transportation,United States,2022-06-22,35,42.34097981,-71.08976212
+1516,Swappie,Helsinki,Retail,Finland,2022-06-15,250,60.19666743,24.94587621
+1517,SweetEscape,Jakarta,Consumer,Indonesia,2020-04-15,0,-6.224949848,106.8528548
+1518,Sweetgreen,Los Angeles,Food,United States,2020-04-17,35,33.94222083,-118.4084871
+1519,Sweetgreen,Los Angeles,Food,United States,2022-08-09,0,33.94222083,-118.4084871
+1520,Swiggy,Bengaluru,Food,India,2020-04-21,800,12.99276888,77.59728476
+1521,Swiggy,Bengaluru,Food,India,2020-05-18,1100,12.99276888,77.59728476
+1522,Swiggy,Bengaluru,Food,India,2020-07-27,350,12.99276888,77.59728476
+1523,Swiggy,Bengaluru,Food,India,2022-12-08,250,12.99276888,77.59728476
+1524,Swing Education,SF Bay Area,Education,United States,2020-09-05,0,37.79089052,-122.4208226
+1525,Swyft,Toronto,Logistics,Canada,2022-06-15,10,43.71194348,-79.40005894
+1526,Swyftx,Brisbane,Crypto,Australia,2022-08-17,74,-27.47937432,153.0329909
+1527,Swyftx,Brisbane,Crypto,Australia,2022-12-05,90,-27.47937432,153.0329909
+1528,Symend,Calgary,Other,Canada,2022-11-17,0,51.02383332,-114.0370479
+1529,SynapseFI,SF Bay Area,Finance,United States,2020-06-12,63,37.79089052,-122.4208226
+1530,Synapsica,New Delhi,Healthcare,India,2022-10-21,30,28.66775072,77.21378315
+1531,Synergysuite,Salt Lake City,Food,United States,2020-04-02,5,40.77522924,-111.927381
+1532,Synlogic,Boston,Healthcare,United States,2022-12-01,0,42.34097981,-71.08976212
+1533,Synthego,SF Bay Area,Healthcare,United States,2022-11-18,105,37.79089052,-122.4208226
+1534,Syte,Tel Aviv,Retail,Israel,2022-07-05,13,32.08733049,34.78969085
+1535,TIFIN,Boulder,Crypto,United States,2022-06-14,24,40.01929836,-105.2852979
+1536,Taboola,New York City,Marketing,United States,2022-09-13,100,40.74606714,-73.98383045
+1537,Takl,Nashville,Consumer,United States,2020-03-24,130,36.18188044,-86.71249244
+1538,Talis Biomedical,SF Bay Area,Healthcare,United States,2022-03-15,0,37.79089052,-122.4208226
+1539,Talkdesk,SF Bay Area,Support,United States,2022-08-05,0,37.79089052,-122.4208226
+1540,Talkwalker,Luxembourg,Marketing,Luxembourg,2022-08-03,0,49.60436618,6.130475594
+1541,Tally,SF Bay Area,Finance,United States,2020-05-07,28,37.79089052,-122.4208226
+1542,Tamara Mellon,Los Angeles,Retail,United States,2020-03-12,20,33.94222083,-118.4084871
+1543,Tanium,Seattle,Security,United States,2021-08-30,30,47.6124803,-122.338638
+1544,Tapas Media,SF Bay Area,Media,United States,2022-07-28,0,37.79089052,-122.4208226
+1545,TaskUs,Los Angeles,Support,United States,2022-06-21,52,33.94222083,-118.4084871
+1546,TaxBit,Salt Lake City,Crypto,United States,2022-12-13,0,40.77522924,-111.927381
+1547,Teachmint,Bengaluru,Education,India,2022-11-30,45,12.99276888,77.59728476
+1548,TealBook,Toronto,Other,Canada,2022-11-17,34,43.71194348,-79.40005894
+1549,Teamwork,Cork,Other,Ireland,2020-05-22,21,51.89676935,-8.456876319
+1550,TechAdvance,Lagos,Finance,Nigeria,2020-04-08,0,6.53979151,3.307267754
+1551,TechTarget,Boston,Marketing,United States,2022-12-08,60,42.34097981,-71.08976212
+1552,Teleport,SF Bay Area,Infrastructure,United States,2022-07-01,15,37.79089052,-122.4208226
+1553,Tempo,SF Bay Area,Fitness,United States,2022-10-03,0,37.79089052,-122.4208226
+1554,Tempo Automation,SF Bay Area,Other,United States,2022-08-17,54,37.79089052,-122.4208226
+1555,Tempus Ex,SF Bay Area,Data,United States,2022-05-30,0,37.79089052,-122.4208226
+1556,Tencent,Shenzen,Consumer,China,2022-11-15,0,22.64493411,114.04835
+1557,Terminus,Atlanta,Marketing,United States,2022-05-27,0,33.80016297,-84.40262309
+1558,Tesco,Welwyn Garden City,Tech,United Kingdom,2022-02-15,1600,51.80072405,-0.189261259
+1559,Tesla,Austin,Tech,United States,2022-06-15,200,30.27507688,-97.74751097
+1560,Tesla,Austin,Transportation,United States,2022-06-03,0,30.27507688,-97.74751097
+1561,TextNow,Waterloo,Consumer,Canada,2022-07-28,22,43.46419434,-80.51857408
+1562,Textio,Seattle,Recruiting,United States,2020-03-27,30,47.6124803,-122.338638
+1563,The Appraisal Lane,Montevideo,Transportation,Uruguay,2020-08-07,0,-34.85346501,-56.19389477
+1564,The Athletic,SF Bay Area,Media,United States,2020-06-05,46,37.79089052,-122.4208226
+1565,The Grommet,Boston,Retail,United States,2022-06-09,40,42.34097981,-71.08976212
+1566,The Guild,Austin,Travel,United States,2020-03-23,38,30.27507688,-97.74751097
+1567,The Modist,Dubai,Retail,United Arab Emirates,2020-04-02,0,25.14957961,55.29326376
+1568,The Mom Project,Chicago,HR,United States,2022-07-14,54,41.84771607,-87.68255456
+1569,The Muse,New York City,Recruiting,United States,2020-04-03,0,40.74606714,-73.98383045
+1570,The Org,New Delhi,HR,United States,2022-08-03,13,28.66775072,77.21378315
+1571,The Predictive Index,Boston,HR,United States,2020-04-02,59,42.34097981,-71.08976212
+1572,The Predictive Index,Boston,HR,United States,2022-08-02,40,42.34097981,-71.08976212
+1573,The RealReal,SF Bay Area,Retail,United States,2020-04-14,235,37.79089052,-122.4208226
+1574,The Sill,New York City,Retail,United States,2020-05-28,20,40.74606714,-73.98383045
+1575,The Wing,New York City,Real Estate,United States,2020-04-03,0,40.74606714,-73.98383045
+1576,The Wing,New York City,Real Estate,United States,2020-07-01,56,40.74606714,-73.98383045
+1577,The Wing,New York City,Real Estate,United States,2022-08-31,0,40.74606714,-73.98383045
+1578,The Zebra,Austin,Finance,United States,2022-05-24,40,30.27507688,-97.74751097
+1579,The Zebra,Austin,Finance,United States,2022-11-15,50,30.27507688,-97.74751097
+1580,TheSkimm,New York City,Media,United States,2020-05-01,26,40.74606714,-73.98383045
+1581,TheWrap,Los Angeles,Media,United States,2020-09-29,0,33.94222083,-118.4084871
+1582,Thimble,New York City,Finance,United States,2022-07-05,20,40.74606714,-73.98383045
+1583,Thinkific,Vancouver,Education,Canada,2022-03-29,100,49.28318844,-123.1005646
+1584,Thinkific,Vancouver,Education,Canada,2022-12-05,0,49.28318844,-123.1005646
+1585,ThirdLove,New York City,Retail,United States,2020-03-27,10,40.74606714,-73.98383045
+1586,ThirdLove,SF Bay Area,Retail,United States,2020-04-02,65,37.79089052,-122.4208226
+1587,Thirty Madison,New York City,Healthcare,United States,2022-05-14,24,40.74606714,-73.98383045
+1588,Thirty Madison,New York City,Healthcare,United States,2022-08-18,0,40.74606714,-73.98383045
+1589,ThoughtSpot,SF Bay Area,Data,United States,2020-05-06,0,37.79089052,-122.4208226
+1590,Thrasio,Boston,Retail,United States,2022-05-02,0,42.34097981,-71.08976212
+1591,Thread,London,Retail,United Kingdom,2022-11-30,30,51.49754058,-0.093383322
+1592,ThredUp,Chicago,Retail,United States,2021-02-09,243,41.84771607,-87.68255456
+1593,ThredUp,Chicago,Retail,United States,2022-08-15,0,41.84771607,-87.68255456
+1594,Thriver,Toronto,Food,Canada,2020-08-06,75,43.71194348,-79.40005894
+1595,Thumbtack,SF Bay Area,Consumer,United States,2020-03-30,250,37.79089052,-122.4208226
+1596,Thumbtack,SF Bay Area,Consumer,United States,2022-12-13,160,37.79089052,-122.4208226
+1597,Tidepool,SF Bay Area,Healthcare,United States,2020-11-17,18,37.79089052,-122.4208226
+1598,Tiendanube,Buenos Aires,Marketing,Argentina,2022-10-17,50,-34.60839711,-58.43330549
+1599,Tier Mobility,Berlin,Transportation,Germany,2022-08-23,180,52.52096904,13.41511266
+1600,TikTok,Culver city,Tech,United States,2022-07-15,100,34.01157162,-118.3966669
+1601,TikTok,Los Angeles,Consumer,United States,2022-07-18,0,33.94222083,-118.4084871
+1602,Toast,Boston,Food,United States,2020-04-07,1300,42.34097981,-71.08976212
+1603,Tomo,Stamford,Finance,United States,2022-05-31,44,41.06197344,-73.538062
+1604,Tomorrow,Hamburg,Finance,Germany,2022-12-16,30,53.54600679,9.99783599
+1605,Tonal,SF Bay Area,Fitness,United States,2022-07-13,262,37.79089052,-122.4208226
+1606,Tonkean,SF Bay Area,Other,United States,2022-06-15,23,37.79089052,-122.4208226
+1607,Top Hat,Toronto,Education,Canada,2020-05-12,16,43.71194348,-79.40005894
+1608,Toppr,Mumbai,Education,India,2022-06-29,350,19.07246385,72.87362405
+1609,Tor,Boston,Security,United States,2020-04-17,13,42.34097981,-71.08976212
+1610,TouchBistro,Toronto,Food,Canada,2020-04-14,131,43.71194348,-79.40005894
+1611,Trade Republic,Berlin,Finance,Germany,2022-06-09,0,52.52096904,13.41511266
+1612,Transfix,New York City,Logistics,United States,2020-04-29,24,40.74606714,-73.98383045
+1613,Transmit Security,Boston,Security,United States,2022-07-05,27,42.34097981,-71.08976212
+1614,TravelBank,SF Bay Area,Travel,United States,2020-03-24,20,37.79089052,-122.4208226
+1615,TravelTriangle,Gurugram,Travel,India,2020-03-28,250,28.4494531,77.01926638
+1616,Traveloka,Jakarta,Travel,Indonesia,2020-04-03,100,-6.224949848,106.8528548
+1617,Trax,Singapore,Retail,Singapore,2022-06-20,100,1.340069964,103.8483322
+1618,Trax,Singapore,Retail,Singapore,2022-11-22,80,1.340069964,103.8483322
+1619,Trax,Tel Aviv,Retail,Israel,2020-05-03,120,32.08733049,34.78969085
+1620,Tray.io,SF Bay Area,Data,United States,2022-06-21,0,37.79089052,-122.4208226
+1621,Treehouse,Portland,Education,United States,2021-09-14,41,45.57698667,-122.6338291
+1622,Trell,Bangalore,Tech,India,2022-03-15,300,12.99276888,77.59728476
+1623,Trell,Bengaluru,Retail,India,2022-03-15,300,12.99276888,77.59728476
+1624,TripActions,SF Bay Area,Travel,United States,2020-03-25,300,37.79089052,-122.4208226
+1625,TripAdvisor,Boston,Travel,United States,2020-04-28,900,42.34097981,-71.08976212
+1626,Tripbam,Dallas,Travel,United States,2020-04-03,10,32.82612278,-96.75767773
+1627,TripleLift,New York City,Marketing,United States,2020-04-02,23,40.74606714,-73.98383045
+1628,Triplebyte,SF Bay Area,Recruiting,United States,2020-03-23,15,37.79089052,-122.4208226
+1629,Tripwire,Portland,Security,United States,2022-05-12,0,45.57698667,-122.6338291
+1630,Trivago,Dusseldorf,Travel,Germany,2020-05-04,0,51.2615797,6.774518503
+1631,Trove Recommerce,SF Bay Area,Retail,United States,2020-04-15,13,37.79089052,-122.4208226
+1632,Truck It In,Karachi,Logistics,Pakistan,2022-06-01,0,24.99066817,67.06468274
+1633,TrueCar,Los Angeles,Transportation,United States,2020-05-28,219,33.94222083,-118.4084871
+1634,TrueLayer,London,Finance,United States,2022-09-16,40,51.49754058,-0.093383322
+1635,Truepill,SF Bay Area,Healthcare,United States,2022-04-14,0,37.79089052,-122.4208226
+1636,Truepill,SF Bay Area,Healthcare,United States,2022-06-08,150,37.79089052,-122.4208226
+1637,Truepill,SF Bay Area,Healthcare,United States,2022-08-11,175,37.79089052,-122.4208226
+1638,Truepill,SF Bay Area,Healthcare,United States,2022-09-30,0,37.79089052,-122.4208226
+1639,Truiloo,Vancouver,Security,Canada,2022-09-23,24,49.28318844,-123.1005646
+1640,Trustly,Stockholm,Finance,Sweden,2022-02-17,120,59.34125093,18.05756334
+1641,Trybe,Sao Paulo,Education,Brazil,2022-08-10,47,-23.59912955,-46.64065048
+1642,TuSimple,San Diego,Transportation,United States,2022-12-21,350,32.74804203,-117.1282372
+1643,Tufin,Boston,Security,United States,2022-08-21,55,42.34097981,-71.08976212
+1644,Tuft & Needle,Phoenix,Retail,United States,2020-03-19,0,33.45628022,-112.1099772
+1645,Tulip Retail,Toronto,Retail,Canada,2020-04-15,14,43.71194348,-79.40005894
+1646,Turnitin,SF Bay Area,Education,United States,2022-10-06,51,37.79089052,-122.4208226
+1647,Turntide,SF Bay Area,Energy,United States,2022-07-28,0,37.79089052,-122.4208226
+1648,Turo,SF Bay Area,Transportation,United States,2020-03-31,108,37.79089052,-122.4208226
+1649,TutorMundi,Sao Paulo,Education,Brazil,2020-04-24,4,-23.59912955,-46.64065048
+1650,Twiga,Nairobi,Food,Kenya,2022-11-16,211,-1.308685021,36.81165373
+1651,Twilio,SF Bay Area,Other,United States,2022-09-14,800,37.79089052,-122.4208226
+1652,TwinStrand,Seattle,Healthcare,United States,2022-10-05,0,47.6124803,-122.338638
+1653,Twitter,SF Bay Area,Consumer,United States,2022-07-07,0,37.79089052,-122.4208226
+1654,Twitter,SF Bay Area,Consumer,United States,2022-11-04,3700,37.79089052,-122.4208226
+1655,Twitter,SF Bay Area,Tech,United States,2022-11-15,3700,37.79089052,-122.4208226
+1656,Typeform,Barcelona,Marketing,Spain,2022-11-15,0,41.39960045,2.178982733
+1657,UPshow,Chicago,Marketing,United States,2020-04-24,19,41.84771607,-87.68255456
+1658,Ualá,Buenos Aires,Finance,Argentina,2022-11-30,53,-34.60839711,-58.43330549
+1659,Uber,Amsterdam,Transportation,Netherlands,2020-06-12,225,52.36953057,4.878896305
+1660,Uber,Bengaluru,Transportation,India,2020-05-26,600,12.99276888,77.59728476
+1661,Uber,SF Bay Area,Transportation,United States,2020-05-06,3700,37.79089052,-122.4208226
+1662,Uber,SF Bay Area,Transportation,United States,2020-05-18,3000,37.79089052,-122.4208226
+1663,Uber,Vilnius,Transportation,Lithuania,2022-09-07,60,54.68448712,25.28185008
+1664,Uberflip,Toronto,Marketing,Canada,2022-08-05,31,43.71194348,-79.40005894
+1665,Udaan,Bangalore,Tech,India,2022-11-15,350,12.99276888,77.59728476
+1666,Udaan,Bengaluru,Retail,India,2022-06-27,180,12.99276888,77.59728476
+1667,Udaan,Bengaluru,Retail,India,2022-11-04,350,12.99276888,77.59728476
+1668,Udacity,SF Bay Area,Education,United States,2022-10-11,55,37.79089052,-122.4208226
+1669,Udayy,Gurugram,Education,India,2022-06-01,100,28.4494531,77.01926638
+1670,UiPath,New York City,Data,United States,2022-06-27,210,40.74606714,-73.98383045
+1671,UiPath,New York City,Data,United States,2022-11-15,241,40.74606714,-73.98383045
+1672,Ula,Jakarta,Retail,Indonesia,2022-11-30,134,-6.224949848,106.8528548
+1673,Una Brands,Singapore,Retail,Singapore,2022-06-28,0,1.340069964,103.8483322
+1674,Unacademy,Bangalore,Tech,India,2022-11-15,350,12.99276888,77.59728476
+1675,Unacademy,Bengaluru,Education,India,2022-04-07,1000,12.99276888,77.59728476
+1676,Unacademy,Bengaluru,Education,India,2022-06-18,150,12.99276888,77.59728476
+1677,Unacademy,Bengaluru,Education,India,2022-11-07,350,12.99276888,77.59728476
+1678,Unbabel,Lisbon,Support,Portugal,2020-04-08,80,38.72967999,-9.139262474
+1679,Unbounce,Vancouver,Marketing,Canada,2022-08-03,47,49.28318844,-123.1005646
+1680,Uncapped,London,Finance,United Kingdom,2022-05-27,29,51.49754058,-0.093383322
+1681,Unilever,London,Tech,United Kingdom,2022-01-15,1500,51.49754058,-0.093383322
+1682,Unison,SF Bay Area,Finance,United States,2020-04-08,89,37.79089052,-122.4208226
+1683,Unity,SF Bay Area,Other,United States,2022-06-29,200,37.79089052,-122.4208226
+1684,Universal Standard,New York City,Retail,United States,2020-03-25,0,40.74606714,-73.98383045
+1685,Unstoppable Domains,SF Bay Area,Crypto,United States,2022-07-14,42,37.79089052,-122.4208226
+1686,Updater,New York City,Other,United States,2022-08-16,0,40.74606714,-73.98383045
+1687,Upstart,SF Bay Area,Finance,United States,2022-11-01,140,37.79089052,-122.4208226
+1688,Urban Sports Club,Berlin,Fitness,Germany,2022-09-01,55,52.52096904,13.41511266
+1689,Usermind,Seattle,Marketing,United States,2020-04-01,15,47.6124803,-122.338638
+1690,Utopia Music,Zug,Media,Switzerland,2022-11-24,0,47.1648365,8.519537842
+1691,VSCO,SF Bay Area,Consumer,United States,2020-04-14,45,37.79089052,-122.4208226
+1692,VTEX,Sao Paulo,Retail,Brazil,2022-05-26,200,-23.59912955,-46.64065048
+1693,Vacasa,Portland,Travel,United States,2020-03-20,0,45.57698667,-122.6338291
+1694,Validity,Boston,Data,United States,2020-05-06,130,42.34097981,-71.08976212
+1695,VanHack,Vancouver,HR,United States,2022-10-11,0,49.28318844,-123.1005646
+1696,Vanta,SF Bay Area,Security,United States,2022-12-08,0,37.79089052,-122.4208226
+1697,Varo,SF Bay Area,Finance,United States,2022-07-20,75,37.79089052,-122.4208226
+1698,Varonis,New York City,Security,United States,2022-11-06,110,40.74606714,-73.98383045
+1699,Vedanta Biosciences,Boston,Healthcare,United States,2022-08-10,0,42.34097981,-71.08976212
+1700,Vedantu,Bangalore,Tech,India,2022-07-15,100,12.99276888,77.59728476
+1701,Vedantu,Bengaluru,Education,India,2022-05-05,200,12.99276888,77.59728476
+1702,Vedantu,Bengaluru,Education,India,2022-05-18,424,12.99276888,77.59728476
+1703,Vedantu,Bengaluru,Education,India,2022-08-02,100,12.99276888,77.59728476
+1704,Vedantu,Bengaluru,Education,India,2022-12-07,385,12.99276888,77.59728476
+1705,Vee,Tel Aviv,HR,Israel,2022-07-31,16,32.08733049,34.78969085
+1706,Vee,Tel Aviv,HR,Israel,2022-10-25,17,32.08733049,34.78969085
+1707,Veem,SF Bay Area,Finance,United States,2020-05-14,30,37.79089052,-122.4208226
+1708,Veev,SF Bay Area,Real Estate,United States,2022-11-11,100,37.79089052,-122.4208226
+1709,Velodyne Lidar,SF Bay Area,Transportation,United States,2020-04-03,140,37.79089052,-122.4208226
+1710,Venafi,Salt Lake City,Security,United States,2022-11-30,0,40.77522924,-111.927381
+1711,Vendasta,Saskatoon,Marketing,Canada,2022-08-18,0,52.15098477,-106.6410886
+1712,Vendease,Lagos,Food,Nigeria,2022-11-25,27,6.53979151,3.307267754
+1713,VerSe Innovation,Bengaluru,Media,India,2022-11-25,150,12.99276888,77.59728476
+1714,Verbit,New York City,Data,United States,2022-07-05,80,40.74606714,-73.98383045
+1715,Veriff,Tallin,Security,Estonia,2020-05-04,63,59.43509922,24.74096795
+1716,Vesalius Therapeutics,Boston,Healthcare,United States,2022-09-19,29,42.34097981,-71.08976212
+1717,Vesta,Atlanta,Sales,United States,2020-08-05,56,33.80016297,-84.40262309
+1718,Vezeeta,Dubai,Healthcare,United Arab Emirates,2022-06-28,50,25.14957961,55.29326376
+1719,Viamo,Accra,Other,Ghana,2022-08-31,0,5.593241424,-0.181808909
+1720,Viant,Los Angeles,Marketing,United States,2022-12-13,46,33.94222083,-118.4084871
+1721,Viber,Luxembourg,Consumer,Luxembourg,2022-11-15,45,49.60436618,6.130475594
+1722,VideoAmp,Los Angeles,Marketing,United States,2020-04-08,21,33.94222083,-118.4084871
+1723,VideoAmp,Los Angeles,Marketing,United States,2022-09-19,0,33.94222083,-118.4084871
+1724,View,SF Bay Area,Energy,United States,2020-04-15,0,37.79089052,-122.4208226
+1725,Vimeo,New York City,Consumer,United States,2022-07-18,0,40.74606714,-73.98383045
+1726,Virgin Hyperloop,Los Angeles,Transportation,United States,2022-02-21,111,33.94222083,-118.4084871
+1727,Virta Health,SF Bay Area,Healthcare,United States,2020-04-07,65,37.79089052,-122.4208226
+1728,Virtudent,Boston,Healthcare,United States,2020-05-01,70,42.34097981,-71.08976212
+1729,Vise,New York City,Finance,United States,2022-05-04,25,40.74606714,-73.98383045
+1730,Voi,Stockholm,Transportation,Sweden,2020-04-02,100,59.34125093,18.05756334
+1731,Voi,Stockholm,Transportation,United States,2022-06-22,35,59.34125093,18.05756334
+1732,Voi,Stockholm,Transportation,United States,2022-12-07,130,59.34125093,18.05756334
+1733,Volt Bank,Sydney,Finance,Australia,2022-06-29,0,-33.87434482,151.1433471
+1734,Volta,SF Bay Area,Transportation,United States,2022-09-28,0,37.79089052,-122.4208226
+1735,Volta,SF Bay Area,Transportation,United States,2022-10-21,0,37.79089052,-122.4208226
+1736,Voly,Sydney,Food,Australia,2022-06-22,0,-33.87434482,151.1433471
+1737,Voly,Sydney,Food,Australia,2022-11-10,0,-33.87434482,151.1433471
+1738,Vouch,SF Bay Area,Finance,United States,2022-06-23,15,37.79089052,-122.4208226
+1739,Vox Media,Washington D.C.,Media,United States,2020-07-14,0,38.88992976,-77.01664355
+1740,Vox Media,Washington D.C.,Media,United States,2022-07-27,39,38.88992976,-77.01664355
+1741,Voyage SMS,Los Angeles,Marketing,United States,2022-06-23,8,33.94222083,-118.4084871
+1742,Vroom,New York City,Transportation,United States,2022-05-09,270,40.74606714,-73.98383045
+1743,Vroom,New York City,Transportation,United States,2022-08-08,337,40.74606714,-73.98383045
+1744,WHOOP,Boston,Fitness,United States,2022-07-21,95,42.34097981,-71.08976212
+1745,Wahoo Fitness,Atlanta,Fitness,United States,2022-04-27,50,33.80016297,-84.40262309
+1746,Walmart,Bentonville,Tech,United States,2022-08-15,200,36.36586717,-94.26305114
+1747,WanderJaunt,SF Bay Area,Travel,United States,2020-03-25,56,37.79089052,-122.4208226
+1748,WanderJaunt,SF Bay Area,Travel,United States,2022-07-01,85,37.79089052,-122.4208226
+1749,Warby Parker,New York City,Consumer,United States,2022-08-08,63,40.74606714,-73.98383045
+1750,Warren,Porto Alegre,Finance,Brazil,2022-08-17,50,-30.06304718,-51.224528
+1751,Wave,Dakar,Finance,Senegal,2022-07-13,300,14.71964754,-17.45690089
+1752,Wave Sports and Entertainment,Los Angeles,Media,United States,2022-06-13,56,33.94222083,-118.4084871
+1753,Wavely,SF Bay Area,HR,United States,2022-11-10,0,37.79089052,-122.4208226
+1754,Wayfair,Boston,Retail,United States,2022-08-19,870,42.34097981,-71.08976212
+1755,Wayflyer,Dublin,Marketing,Ireland,2022-11-16,200,53.38055184,-6.269073519
+1756,Waze,SF Bay Area,Transportation,United States,2020-09-09,30,37.79089052,-122.4208226
+1757,WazirX,Mumbai,Crypto,India,2022-10-02,60,19.07246385,72.87362405
+1758,WeDoctor,Non-U.S.,Healthcare,China,2022-03-02,500,-3.897526929,55.28990027
+1759,WeFit,Hanoi,Fitness,Vietnam,2020-05-13,0,20.95480585,105.7623924
+1760,WeWork,London,Real Estate,United Kingdom,2020-06-19,200,51.49754058,-0.093383322
+1761,WeWork,New Delhi,Real Estate,India,2020-05-18,100,28.66775072,77.21378315
+1762,WeWork,New York City,Real Estate,United States,2020-03-28,250,40.74606714,-73.98383045
+1763,WeWork,SF Bay Area,Real Estate,United States,2020-04-29,300,37.79089052,-122.4208226
+1764,WeWork ,Shenzen,Real Estate,China,2020-09-23,0,22.64493411,114.04835
+1765,Wealthsimple,Toronto,Finance,Canada,2022-06-15,159,43.71194348,-79.40005894
+1766,Weedmaps,Los Angeles,Other,United States,2022-08-04,0,33.94222083,-118.4084871
+1767,Weedmaps,Los Angeles,Other,United States,2022-12-06,175,33.94222083,-118.4084871
+1768,Weee!,SF Bay Area,Food,United States,2022-06-15,150,37.79089052,-122.4208226
+1769,Welkin Health,SF Bay Area,Healthcare,United States,2020-04-24,10,37.79089052,-122.4208226
+1770,Westwing,Munich,Retail,Germany,2022-09-29,125,48.15548649,11.57751519
+1771,Wheel,Austin,Healthcare,United States,2022-08-18,35,30.27507688,-97.74751097
+1772,When I Work,Minneapolis,HR,United States,2020-04-22,55,44.97043271,-93.26319687
+1773,Whereby,Oslo,Other,Norway,2022-08-01,0,59.92247699,10.73565819
+1774,Whispir,Melbourne,Other,Australia,2022-11-15,0,-37.89324894,145.0859886
+1775,WhiteHat Jr,Mumbai,Education,India,2021-01-06,1800,19.07246385,72.87362405
+1776,WhiteHat Jr,Mumbai,Education,India,2022-06-28,300,19.07246385,72.87362405
+1777,WhyHotel,Washington D.C.,Travel,United States,2020-04-01,0,38.88992976,-77.01664355
+1778,Wildlife Studios,Sao Paulo,Consumer,Brazil,2022-11-28,300,-23.59912955,-46.64065048
+1779,Wish,SF Bay Area,Retail,United States,2022-03-01,190,37.79089052,-122.4208226
+1780,Wistia,Boston,Marketing,United States,2022-11-10,40,42.34097981,-71.08976212
+1781,Wix,Tel Aviv,Marketing,Israel,2022-08-09,100,32.08733049,34.78969085
+1782,Wizeline,SF Bay Area,Product,United States,2022-07-22,0,37.79089052,-122.4208226
+1783,Wonder,New York City,Food,United States,2022-11-30,130,40.74606714,-73.98383045
+1784,Wonder,New York City,Other,United States,2020-04-02,0,40.74606714,-73.98383045
+1785,Wonderschool,SF Bay Area,Education,United States,2020-03-25,50,37.79089052,-122.4208226
+1786,Wonolo,SF Bay Area,Recruiting,United States,2020-04-01,46,37.79089052,-122.4208226
+1787,Wordstream,Boston,Marketing,United States,2020-04-06,26,42.34097981,-71.08976212
+1788,WorkRamp,SF Bay Area,HR,United States,2022-09-15,35,37.79089052,-122.4208226
+1789,Workable,Boston,Recruiting,United States,2020-05-05,25,42.34097981,-71.08976212
+1790,Workfront,Salt Lake City,Marketing,United States,2020-05-14,0,40.77522924,-111.927381
+1791,Workrise,Austin,Energy,United States,2022-04-05,450,30.27507688,-97.74751097
+1792,Worksmith,Austin,Retail,United States,2020-11-09,30,30.27507688,-97.74751097
+1793,Workstream,SF Bay Area,HR,United States,2022-07-22,45,37.79089052,-122.4208226
+1794,Woven,Indianapolis,HR,United States,2022-08-16,5,39.77417053,-86.14651287
+1795,Xendit,Jakarta,Finance,Indonesia,2022-10-04,0,-6.224949848,106.8528548
+1796,Xentral,Munich,Product,Germany,2022-12-10,20,48.15548649,11.57751519
+1797,Xerpa,Sao Paulo,HR,Brazil,2020-04-14,10,-23.59912955,-46.64065048
+1798,Xiaohongshu,Shanghai,Consumer,China,2022-04-21,180,31.40251943,121.3498683
+1799,Xiaomi,Beijing,Consumer,United States,2022-12-19,0,39.90063003,116.3740834
+1800,Xsight Labs,Tel Aviv,Other,Israel,2022-09-07,0,32.08733049,34.78969085
+1801,Yabonza,Sydney,Real Estate,Australia,2022-07-29,0,-33.87434482,151.1433471
+1802,Yapily,London,Finance,United Kingdom,2022-12-01,0,51.49754058,-0.093383322
+1803,Yelp,SF Bay Area,Consumer,United States,2020-04-09,1000,37.79089052,-122.4208226
+1804,Yelp,SF Bay Area,Consumer,United States,2020-07-13,63,37.79089052,-122.4208226
+1805,Yoco,Cape Town,Finance,South Africa,2020-04-29,0,-33.86867024,18.55706811
+1806,Yojak,Gurugram,Construction,India,2022-06-02,140,28.4494531,77.01926638
+1807,Yonder,Austin,Media,United States,2020-03-20,18,30.27507688,-97.74751097
+1808,Yotpo,New York City,Marketing,United States,2022-11-16,70,40.74606714,-73.98383045
+1809,YourGrocer,Melbourne,Food,Australia,2022-12-19,0,-37.89324894,145.0859886
+1810,Zak,Sao Paulo,Food,United States,2022-05-16,100,-23.59912955,-46.64065048
+1811,Zapp,London,Food,United Kingdom,2022-05-25,0,51.49754058,-0.093383322
+1812,Zappos,Las Vegas,Retail,United Kingdom,2022-09-20,0,36.17235738,-115.1887643
+1813,Zego,London,Finance,United Kingdom,2022-07-14,85,51.49754058,-0.093383322
+1814,Zeitgold,Berlin,Finance,Germany,2020-07-27,75,52.52096904,13.41511266
+1815,ZenBusiness,Austin,Other,United States,2022-11-10,0,30.27507688,-97.74751097
+1816,ZenLedger,Seattle,Crypto,United States,2022-12-09,0,47.6124803,-122.338638
+1817,Zencity,Tel Aviv,Other,Israel,2022-07-20,30,32.08733049,34.78969085
+1818,Zendesk,SF Bay Area,Support,United States,2022-08-04,80,37.79089052,-122.4208226
+1819,Zendesk,SF Bay Area,Support,United States,2022-11-07,350,37.79089052,-122.4208226
+1820,Zenefits,SF Bay Area,HR,United States,2020-04-23,87,37.79089052,-122.4208226
+1821,Zenius,Jakarta,Education,Indonesia,2022-05-24,200,-6.224949848,106.8528548
+1822,Zenius,Jakarta,Education,Indonesia,2022-08-04,0,-6.224949848,106.8528548
+1823,Zenjob,Berlin,HR,Germany,2022-09-29,0,52.52096904,13.41511266
+1824,Zenoti,Seattle,Fitness,United States,2020-03-31,17,47.6124803,-122.338638
+1825,Zepto,Brisbane,Finance,Australia,2022-07-02,0,-27.47937432,153.0329909
+1826,Zerto,Boston,Infrastructure,United States,2020-03-31,0,42.34097981,-71.08976212
+1827,Zest AI,Los Angeles,Finance,United States,2020-04-09,0,33.94222083,-118.4084871
+1828,Zeus Living,SF Bay Area,Real Estate,United States,2020-03-24,80,37.79089052,-122.4208226
+1829,Zeus Living,SF Bay Area,Real Estate,United States,2020-05-12,73,37.79089052,-122.4208226
+1830,Zeus Living,SF Bay Area,Real Estate,United States,2022-10-20,64,37.79089052,-122.4208226
+1831,Zhihu,Beijing,Consumer,China,2022-12-20,0,39.90063003,116.3740834
+1832,Zilch,London,Finance,United Kingdom,2022-11-26,0,51.49754058,-0.093383322
+1833,Zilingo,Singapore,Retail,Singapore,2020-04-17,44,1.340069964,103.8483322
+1834,Zilingo,Singapore,Retail,Singapore,2020-07-09,100,1.340069964,103.8483322
+1835,Zillow,Seattle,Real Estate,United States,2021-11-02,2000,47.6124803,-122.338638
+1836,Zillow,Seattle,Real Estate,United States,2022-10-26,300,47.6124803,-122.338638
+1837,Zinier,SF Bay Area,HR,United States,2020-11-25,0,37.79089052,-122.4208226
+1838,ZipRecruiter,Los Angeles,Recruiting,United States,2020-03-29,400,33.94222083,-118.4084871
+1839,Zipcar,Boston,Transportation,United States,2020-03-27,100,42.34097981,-71.08976212
+1840,Ziroom,Beijing,Real Estate,China,2022-06-10,0,39.90063003,116.3740834
+1841,Zola,New York City,Retail,United States,2020-04-08,0,40.74606714,-73.98383045
+1842,Zomato,Gurugram,Food,India,2020-05-15,520,28.4494531,77.01926638
+1843,Zomato,Gurugram,Food,India,2022-11-19,100,28.4494531,77.01926638
+1844,Zomato,Jakarta,Food,Indonesia,2020-10-20,0,-6.224949848,106.8528548
+1845,Zoomo,Sydney,Transportation,Australia,2022-10-04,0,-33.87434482,151.1433471
+1846,Zoox,SF Bay Area,Transportation,United States,2020-04-03,120,37.79089052,-122.4208226
+1847,Zoox,SF Bay Area,Transportation,United States,2020-04-13,100,37.79089052,-122.4208226
+1848,Zulily,Seattle,Retail,United States,2022-05-16,0,47.6124803,-122.338638
+1849,Zum,SF Bay Area,Transportation,United States,2020-04-20,28,37.79089052,-122.4208226
+1850,Zume,SF Bay Area,Food,United States,2020-04-15,200,37.79089052,-122.4208226
+1851,Zumper,SF Bay Area,Real Estate,United States,2022-06-16,45,37.79089052,-122.4208226
+1852,Zuora,SF Bay Area,Finance,United States,2022-12-06,0,37.79089052,-122.4208226
+1853,Zwift,Los Angeles,Fitness,United States,2020-03-23,0,33.94222083,-118.4084871
+1854,Zwift,Los Angeles,Fitness,United States,2022-05-12,150,33.94222083,-118.4084871
+1855,Zymergen,SF Bay Area,Other,United States,2021-09-23,120,37.79089052,-122.4208226
+1856,Zymergen,SF Bay Area,Other,United States,2022-07-25,80,37.79089052,-122.4208226
+1857,Zymergen,SF Bay Area,Other,United States,2022-08-26,80,37.79089052,-122.4208226
+1858,Zymergen ,SF Bay Area,Other,United States,2020-05-13,0,37.79089052,-122.4208226
+1859,Zywave,Milwaukee,Finance,United States,2022-12-07,0,43.06081621,-87.94477794
+1860,divvyDOSE,Davenport,Healthcare,United States,2022-05-06,62,41.53894517,-90.55396793
+1861,eGym,Munich,Fitness,Germany,2020-04-02,100,48.15548649,11.57751519
+1862,eToro,Tel Aviv,Finance,Israel,2022-07-05,100,32.08733049,34.78969085
+1863,ezCater,Boston,Food,United States,2020-04-07,400,42.34097981,-71.08976212
+1864,iFit,Logan,Fitness,United States,2021-12-08,0,41.74095397,-111.8418353
+1865,iFit,Logan,Fitness,United States,2022-02-25,0,41.74095397,-111.8418353
+1866,iFit,Logan,Fitness,United States,2022-11-14,300,41.74095397,-111.8418353
+1867,iPrice Group,Kuala Lumpur,Retail,Malaysia,2022-06-08,50,3.140217603,101.6979735
+1868,iRobot,Boston,Consumer,United States,2022-08-05,140,42.34097981,-71.08976212
+1869,kununu,Boston,Recruiting,United States,2020-08-26,0,42.34097981,-71.08976212
+1870,tZero,New York City,Finance,United States,2020-07-30,0,40.74606714,-73.98383045
+1871,uShip,Austin,Logistics,United States,2020-03-31,65,30.27507688,-97.74751097
