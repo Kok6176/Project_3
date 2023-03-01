@@ -77,8 +77,8 @@ def add_record():
 
         record = layoff(name, city, state, country)
         # Flask-SQLAlchemy magic adds record to database
-        db.session.add(record)
-        db.session.commit()
+        # db.session.add(record)
+        # db.session.commit()
         # create a message to send to the template
         message = f" Welcome {name}, from {city},{state},{country}.      The Layoff details you wanted to checkout ."
         return render_template('add_record.html', message=message)
